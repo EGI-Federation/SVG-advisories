@@ -75,25 +75,25 @@ Note that SVG is currently working on how to better cope with reducing
 homogeneity of the infrastructure and handle vulnerabilities related to the
 EOSC-hub services.
 
-Earlier Advisories: [Advisories from 2020](./SVG:Advisories-SVG-2020)
+Earlier Advisories: [Advisories from 2020](./SVG:Advisories-SVG-2020.md)
 
-Earlier Advisories: [Advisories from 2019](/SVG:Advisories-SVG-2019 "wikilink")
+Earlier Advisories: [Advisories from 2019](./SVG:Advisories-SVG-2019.md)
 
-Earlier Advisories: [Advisories from 2018](/SVG:Advisories-SVG-2018 "wikilink")
+Earlier Advisories: [Advisories from 2018](./SVG:Advisories-SVG-2018.md)
 
-Earlier Advisories: [Advisories from 2017](/SVG:Advisories-SVG-2017 "wikilink")
+Earlier Advisories: [Advisories from 2017](./SVG:Advisories-SVG-2017.md)
 
-Earlier Advisories: [Advisories from 2016](/SVG:Advisories-SVG-2016 "wikilink")
+Earlier Advisories: [Advisories from 2016](./SVG:Advisories-SVG-2016.md)
 
 Earlier Advisories:
-[Advisories from 2014 and 2015](/SVG:Advisories-SVG-2014-2015 "wikilink")
+[Advisories from 2014 and 2015](./SVG:Advisories-SVG-2014-2015.md)
 
 In the past (up to the end of 2015) CSIRT also issued general alerts at
 <https://wiki.egi.eu/wiki/EGI_CSIRT:Alerts> and EGI SVG advisories primarily
 concerned gLite Middleware.
 
 Earlier Advisories:
-[Advisories from 2011 to 2013](/SVG:Advisories-SVG-2011-2013 "wikilink")
+[Advisories from 2011 to 2013](./SVG:Advisories-SVG-2011-2013)
 
 Advisories from prior to 2011
 [Gridpp Advisories Archive](https://archive.gridpp.ac.uk/gsvg/advisories/)
