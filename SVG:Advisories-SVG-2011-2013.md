@@ -10,7 +10,7 @@ CSIRT also issues general alerts at <https://wiki.egi.eu/wiki/EGI_CSIRT:Alerts>
 A guide to the risk categories is available at
 [Notes On Risk](./SVG:Notes_On_Risk.md)
 
-Recent [Advisories](./README.md)
+Recent [Advisories](./index.md)
 
 | Date       | Title                                                                                             | Contents/Link                                             | Risk     | Status    |
 | ---------- | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | -------- | --------- |

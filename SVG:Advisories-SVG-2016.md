@@ -3,7 +3,7 @@ title: SVG:Advisories-SVG-2016
 permalink: ./SVG:Advisories-SVG-2016/
 ---
 
-Recent [Advisories](./README.md)
+Recent [Advisories](./index.md)
 
 Earlier Advisories:
 [Advisories from 2014 and 2015](./SVG:Advisories-SVG-2014-2015.md)
