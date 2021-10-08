@@ -1,7 +1,4 @@
----
-title: SVG:Advisories
-permalink: /SVG:Advisories/
----
+# SVG:Advisories
 
 All advisories which are disclosed publicly by SVG are placed on this wiki.
 
