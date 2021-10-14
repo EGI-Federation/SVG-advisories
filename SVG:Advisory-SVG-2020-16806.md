@@ -5,7 +5,8 @@ permalink: /SVG:Advisory-SVG-2020-16806/
 
 # EGI SVG 'ADVISORY' [TLP:WHITE] LOW risk vulnerability in dCache macaroon bearer token validation [EGI-SVG-2020-16806]
 
-Date: 2020-08-17 Updated:
+- Date: 2020-08-17
+- Updated:
 
 # Affected software and risk
 
@@ -60,9 +61,9 @@ Versions before 5.1.0 are not affected.
 
 # TLP and URL
 
-**WHITE information - Unlimited distribution**
+\*\*WHITE information - Unlimited distribution
 
-- see https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions\*\*\*
+- see https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions\*\*
 
 URL: https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2020-16806
 
