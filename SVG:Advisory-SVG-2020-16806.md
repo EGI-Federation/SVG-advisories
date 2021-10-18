@@ -8,7 +8,7 @@ permalink: /SVG:Advisory-SVG-2020-16806/
 - Date: 2020-08-17
 - Updated:
 
-# Affected software and risk
+## Affected software and risk
 
 LOW risk vulnerability concerning dCache macaroon bearer token validation
 
@@ -20,13 +20,13 @@ not respected when it is combined with other restrictions.
 
 For more information see [R 1].
 
-# Actions required/recommended
+## Actions required/recommended
 
 Sites are recommended to update relevant components as soon as it is convenient.
 
 Sites may update either from the UMD or from the dCache site [R 1]
 
-# Component installation information
+## Component installation information
 
 The official repository for the distribution of grid middleware for EGI sites is
 repository.egi.eu which contains the EGI Unified Middleware Distribution (UMD).
@@ -42,15 +42,15 @@ http://repository.egi.eu/2020/08/14/release-umd-4-11-2/
 
 Sites installing directly from dCache should see [R 1].
 
-# More Information
+## More Information
 
 The macaroon based tokens are used by quite a small number of sites and IP
 restrictions are used even less. Few sites are likely to be affected by this
 vulnerability.
 
-# Affected software details
+## Affected software details
 
-This is fixed in dcache versions 5.2.26, 6.0.20, 6.1.9 and 6.2.1.
+This is fixed in dCache versions 5.2.26, 6.0.20, 6.1.9 and 6.2.1.
 
 Previous supported versions 5.2.x, 6.0.x, 6.1.x and 6.2.x are all affected.
 
@@ -59,17 +59,16 @@ is not aware of any production instances using them.
 
 Versions before 5.1.0 are not affected.
 
-# TLP and URL
+## TLP and URL
 
-\*\*WHITE information - Unlimited distribution
-
-- see https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions\*\*
+**WHITE information - Unlimited distribution
+- see https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions**
 
 URL: https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2020-16806
 
 Minor updates may be made without re-distribution to the sites
 
-# Comments
+## Comments
 
 Comments or questions should be sent to svg-rat at mailman.egi.eu
 
@@ -84,18 +83,17 @@ defined in [R 2]
 Note that this is undergoing revision to fully handle vulnerabilities in the
 EOSC-hub era.
 
-# References
+## References
 
-[R 1] https://www.dcache.org/
+- [R 1] https://www.dcache.org/
+- [R 2] https://documents.egi.eu/public/ShowDocument?docid=3145
 
-[R 2] https://documents.egi.eu/public/ShowDocument?docid=3145
-
-# Credit
+## Credit
 
 This vulnerability was reported to SVG by Tigran Mkrtchyan from the dCache team,
 who have already produced a fix.
 
-# Timeline
+## Timeline
 
 Yyyy-mm-dd [EGI-SVG-2020-16806]
 
@@ -120,9 +118,9 @@ infrastructure. It is the opinion of the group, we do not guarantee it to be
 correct. The risk may also be higher or lower in other deployments depending on
 how the software is used.
 
-This advisory is subject to the Creative commons license
-https://creativecommons.org/licenses/by/4.0/ and the EGI https://www.egi.eu/
-Software Vulnerability Group must be credited.
+This advisory is subject to the
+[Creative commons license](https://creativecommons.org/licenses/by/4.0/) and the
+[EGI](https://www.egi.eu/) Software Vulnerability Group must be credited.
 
 Note that the SVG issue handling procedure is currently under review, to take
 account of the increasing inhomogeneity of the EGI infrastructure and the
