@@ -5,11 +5,11 @@ permalink: /SVG:Advisory-SVG-2014-7430/
 
 ```
 
-Title:       EGI SVG Advisory [TLP:WHITE] 'Low' Risk - Panda Pilot factory payload verification
-[EGI-SVG-2014-7430]
+Title:   EGI SVG Advisory [TLP:WHITE] 'Low' Risk - Panda Pilot factory payload
+         verification [EGI-SVG-2014-7430]
 
 
-Date:        2016-05-25
+Date:    2016-05-25
 Updated:
 
 
@@ -31,18 +31,22 @@ Panda software installed via means other than via CVMFS.
 More Information
 ================
 
-The PanDA (Production and Distributed Analysis System) is a framework developed by the LHC ATLAS
-experiment to handle pilot jobs in a distributed computing environment. [R 1]
+The PanDA (Production and Distributed Analysis System) is a framework developed
+by the LHC ATLAS experiment to handle pilot jobs in a distributed computing
+environment. [R 1]
 
-A vulnerability has been found where Panda does not carry out any verification of software tarballs.
+A vulnerability has been found where Panda does not carry out any verification
+of software tarballs.
 
-Panda download their jobwrapper code tarballs over HTTP with no suitable verification that it hasn't
-been tampered with (and then execute the contained code).
-In principle this opens the door to DNS and MITM attacks, which are unlikely in our environment.
+Panda download their jobwrapper code tarballs over HTTP with no suitable
+verification that it hasn't been tampered with (and then execute the contained
+code).  In principle this opens the door to DNS and MITM attacks, which are
+unlikely in our environment.
 
-Panda is migrating to use software installation from the CVMFS repository, which is considered to
-be an acceptable means of installation across the project. The move to installation via CVMFS is
-considered to be a satisfactory solution.
+Panda is migrating to use software installation from the CVMFS repository,
+which is considered to be an acceptable means of installation across the
+project. The move to installation via CVMFS is considered to be a satisfactory
+solution.
 
 Risk category
 =============
@@ -57,7 +61,8 @@ Installation via CVMFS
 Recommendations
 ===============
 
-No action is recommended. Sites are simply being informed that this 'Low' risk vulnerability exists.
+No action is recommended. Sites are simply being informed that this 'Low' risk
+vulnerability exists.
 
 TLP and URL
 ===========
@@ -80,7 +85,8 @@ Yyyy-mm-dd
 
 2014-09-16 Vulnerability reported by Simon Fayer from SVG
 2014-09-16 Software providers responded and involved in investigation
-2014-11-07 Assessment by the EGI Software Vulnerability Group reported to the software providers
+2014-11-07 Assessment by the EGI Software Vulnerability Group reported to the
+           software providers
 2015--     Migrating to CVMFS
 2016-05-25 Advisory sent to sites
 2016-05-25 Advisory placed on public wiki
