@@ -6,9 +6,7 @@ permalink: /SVG:Advisory-SVG-2013-5890/
 ```
 
 ** AMBER information - Limited distribution                                 **
-
 ** see https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions **
-
 
 
 EGI SVG   ADVISORY [EGI-SVG-2013-5890]
@@ -48,7 +46,8 @@ The bug is in the CVMFS clients, which allows a local user to gain root access.
 Risk category
 =============
 
-This issue has been assessed as 'Critical' risk by the EGI SVG Risk Assessment Team
+This issue has been assessed as 'Critical' risk by the EGI SVG Risk Assessment
+Team
 
 
 Affected software
@@ -56,10 +55,11 @@ Affected software
 
 Versions of CVMFS prior to 2.1.13 and 2.0.21 are vulnerable.
 
-cvmfs-2.1.14 and CernVM-FS 2.0.22 are the versions which sites are recommended to run.
+cvmfs-2.1.14 and CernVM-FS 2.0.22 are the versions which sites are recommended
+to run.
 
-(Note that cvmfs 2.1.13 and 2.0.21 introduced another bug which affected atlas and
-possibly other VOs. This was quickly fixed in cvmfs-2.1.14)
+(Note that cvmfs 2.1.13 and 2.0.21 introduced another bug which affected atlas
+and possibly other VOs. This was quickly fixed in cvmfs-2.1.14)
 
 
 Component installation information
@@ -90,8 +90,8 @@ Credit
 
 This vulnerability was discovered by Dmitrijus Bugelskis from CERN who reported
 it to Remi Mollon in the CERN security Team.
-Remi Mollon then forwarded the information to the CVMFS team and the EGI Software
-Vulnerability Group.
+Remi Mollon then forwarded the information to the CVMFS team and the EGI
+Software Vulnerability Group.
 The fixed version was provided by Jakob Blomer from the CVMFS team at CERN.
 
 
@@ -102,6 +102,7 @@ References
 
 Timeline
 ========
+
 Yyyy-mm-dd
 
 2013-08-?? Vulnerability discovered by Dmitrijus Bugelskis

@@ -15,14 +15,14 @@ Recent [Advisories](./index.md)
 
 | Date       | Title                                                                                             | Contents/Link                                                  | Risk     | Status    |
 | ---------- | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | -------- | --------- |
-| 2013-10-25 | Globus GSI-OpenSSH vulnerability                                                                  | [Advisory-SVG-2013-5168](./SVG:Advisory-SVG-2013-5168.md)      | Moderate | Fixed     |
-| 2013-10-25 | BDII Password access vulnerability                                                                | [Advisory-SVG-2013-5266](./SVG:Advisory-SVG-2013-5266.md)      | Moderate | Fixed     |
-| 2013-09-26 | CVMFS root exploit                                                                                | [Advisory-SVG-2013-5890](./SVG:Advisory-SVG-2013-5890.md)      | Critical | Fixed     |
-| 2013-09-17 | Incorrect permission for APEL parser and client config                                            | [Advisory-SVG-2013-5615](./SVG:Advisory-SVG-2013-5615.md)      | Moderate | Fixed     |
+| 2013-10-25 | Globus GSI-OpenSSH vulnerability                                                                  | [Advisory-SVG-2013-5168](./2013/SVG:Advisory-SVG-2013-5168.md) | Moderate | Fixed     |
+| 2013-10-25 | BDII Password access vulnerability                                                                | [Advisory-SVG-2013-5266](./2013/SVG:Advisory-SVG-2013-5266.md) | Moderate | Fixed     |
+| 2013-09-26 | CVMFS root exploit                                                                                | [Advisory-SVG-2013-5890](./2013/SVG:Advisory-SVG-2013-5890.md) | Critical | Fixed     |
+| 2013-09-17 | Incorrect permission for APEL parser and client config                                            | [Advisory-SVG-2013-5615](./2013/SVG:Advisory-SVG-2013-5615.md) | Moderate | Fixed     |
 | 2013-09-17 | Potential for reduced availability of VOMS server                                                 | [Advisory-SVG-2012-3306](./2012/SVG:Advisory-SVG-2012-3306.md) | Low      | Fixed     |
 | 2013-09-17 | SAML implementation vulnerability in Unicore                                                      | [Advisory-SVG-2012-4228](./2012/SVG:Advisory-SVG-2012-4228.md) | Low      | Fixed     |
-| 2013-06-14 | CREAM BUpdater improperly validated input / arbitrary command execution                           | [Advisory-SVG-2013-5268](./SVG:Advisory-SVG-2013-5268.md)      | High     | Fixed     |
-| 2013-04-29 | CREAM Axis2 configuration file permissions                                                        | [Advisory-SVG-2013-5244](./SVG:Advisory-SVG-2013-5244.md)      | High     | Fixed     |
+| 2013-06-14 | CREAM BUpdater improperly validated input / arbitrary command execution                           | [Advisory-SVG-2013-5268](./2013/SVG:Advisory-SVG-2013-5268.md) | High     | Fixed     |
+| 2013-04-29 | CREAM Axis2 configuration file permissions                                                        | [Advisory-SVG-2013-5244](./2013/SVG:Advisory-SVG-2013-5244.md) | High     | Fixed     |
 | 2013-04-17 | VOMS Java APIs incorrect CRL checking                                                             | [Advisory-SVG-2012-4598](./2012/SVG:Advisory-SVG-2012-4598.md) | Moderate | Fixed     |
 | 2013-03-05 | DPM SQL injection vulnerability                                                                   | [Advisory-SVG-2011-2683](./2011/SVG:Advisory-SVG-2011-2683.md) | High     | Fixed     |
 | 2013-02-25 | L\&B servers not properly checked                                                                 | [Advisory-SVG-2011-3202](./2011/SVG:Advisory-SVG-2011-3202.md) | Low      | Fixed     |
