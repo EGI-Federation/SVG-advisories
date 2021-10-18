@@ -4,9 +4,7 @@ permalink: /SVG:Advisory-SVG-2011-1502/
 ---
 
 ```
-
 ** WHITE information - Unlimited distribution allowed  **
-
 ** see https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions **
 
 

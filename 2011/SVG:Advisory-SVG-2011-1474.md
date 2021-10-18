@@ -4,9 +4,7 @@ permalink: /SVG:Advisory-SVG-2011-1474/
 ---
 
 ```
-
 ** WHITE information - Unlimited distribution allowed                       **
-
 ** see https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions **
 
 EGI SVG   ADVISORY [EGI-SVG-2011-1474]
@@ -43,8 +41,8 @@ A detailed vulnerability assessment of gLExec 0.8 was carried out by
 Daniel Crowell from the  University of Wisconsin Vulnerability assessment
 group [R 1] and this vulnerability was reported.
 
-It was found that it is possible for a malicious user to produce code to fork
-a new process and this could remain running after the batch system had concluded
+It was found that it is possible for a malicious user to produce code to fork a
+new process and this could remain running after the batch system had concluded
 that the job was no longer running. Such a job could consume resources, carry
 out any action for which the user was authorized, and possibly if the identity
 is re-used attack a subsequent job.
@@ -52,8 +50,8 @@ is re-used attack a subsequent job.
 This cannot be fully resolved simply by producing another version of gLExec
 
 alone, however in gLExec 0.9 provision has been made to allow sites to produce
-an epilogue script to clean up processes. The exact contents of this script will
-depend on the batch system and configuration of each site.
+an epilogue script to clean up processes. The exact contents of this script
+will depend on the batch system and configuration of each site.
 
 
 
@@ -72,7 +70,8 @@ Affected software
 
 Versions of gLExec earlier than 0.9.0 are affected.
 
-Better handles are provided in version 0.9.0 which ensure a more complete cleanup
+Better handles are provided in version 0.9.0 which ensure a more complete
+cleanup
 
 of processes after gLExec exits.
 
@@ -106,9 +105,10 @@ and the local site policy. Documentation is available in the man pages for
 gLExec and in release notes on how to write a suitable epilogue script
 [R 3], [R 4].
 
-It is recommended that gLExec is executed in Linger mode with identity switching
-turned on. This allows cleanup scripts to be effective. It is important that
-sites do re-configure gLExec. Documentation [R 3] should be referred to.
+It is recommended that gLExec is executed in Linger mode with identity
+switching turned on. This allows cleanup scripts to be effective. It is
+important that sites do re-configure gLExec. Documentation [R 3] should be
+referred to.
 
 
 
@@ -159,8 +159,7 @@ Yyyy-mm-dd
 2011-03-08 Software providers responded and involved in investigation and
            discussion on how to resolve this.
 2011-03-16 Assessment by the EGI Software Vulnerability Group reported to the
-
-software providers
+           software providers
 2012-08-07 Updated packages available in the EGI UMD 2
 2012-11-15 Confirmed correct packages in EGI UMD 2
 2012-11-15 Public disclosure

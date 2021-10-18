@@ -4,7 +4,6 @@ permalink: /SVG:Advisory-SVG-2011-1569/
 ---
 
 ```
-
 ** WHITE information - Unlimited distribution allowed                       **
 ** see https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions **
 
@@ -21,32 +20,35 @@ URL:         https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2011-1569
 
 Introduction
 ============
-A vulnerability has been found in the dCache Admin Web Interface software which is part of the
+
+A vulnerability has been found in the dCache Admin Web Interface software which
+is part of the
 
 dCache distribution.
-dCache is one of the Mass Storage Systems commonly used in EGI production environment [R1]
+dCache is one of the Mass Storage Systems commonly used in EGI production
+environment [R1]
 
 
 Details
 =======
-A specially constructed http request, sent to the dCache admin web interface, allows
 
-unauthenticated remote users to read arbitrary files on the host where the dCache server
-
-httpdDomain is running, with 'root' privileges. The access is read-only. Creating, modifying or
-
-executing files is not possible. The pnfs/Chimera-file system is not affected.
+A specially constructed http request, sent to the dCache admin web interface,
+allows unauthenticated remote users to read arbitrary files on the host where
+the dCache server httpdDomain is running, with 'root' privileges. The access is
+read-only. Creating, modifying or executing files is not possible. The
+pnfs/Chimera-file system is not affected.
 
 
 Risk Category
 =============
-This issue has been assessed as 'Critical' risk by the EGI CSIRT and EGI SVG Risk Assessment
 
-Team
+This issue has been assessed as 'Critical' risk by the EGI CSIRT and EGI SVG
+Risk Assessment Team
 
 
 Affected Software
 =================
+
 Components : dCache server
 Subcomponent : httpdDomain
 Service : dCache Admin Web Server
@@ -62,6 +64,7 @@ Information available at [R2]
 
 Component Installation information
 ==================================
+
 Currently software updates are available  from the dcache web-site [R1] -
 instructions are available in [R 2].
 
@@ -87,7 +90,8 @@ http://glite.cern.ch/R3.2/sl5_x86_64/updates/27/
 
 
 Mitigation
-=======
+==========
+
 1. Only allow access to the dCache admin web interface (Port 2288) to
 dedicated trusted hosts, using appropriate local firewall settings.
 
@@ -102,14 +106,16 @@ Detailed information on how to implement 2. and 3. are available in [R2]
 
 Recommendations
 ===============
+
 In addition, on the hosts that have been running the admin interface exposed
 to the Internet it is recommended to change all passwords, keys, etc on that
 machine, and carefully check the logs for signs of intrusions like unexpected
 logins, etc.
 
 
-Requirements:
-=========
+Requirements
+============
+
 Update the affected dCache component or apply  the mitigation steps stated
 above.
 
@@ -128,45 +134,41 @@ the mitigation actions stated above, by:
 
        ***2011-04-07 22:00 CEST (20:00 GMT)***
 
-
 Updated 2011-04-07
 
-Updated version of the software is now available from gLite. Sites should update their nodes
-supporting httpdDomain as soon as possible, if they have not done so already.
+Updated version of the software is now available from gLite. Sites should
+update their nodes supporting httpdDomain as soon as possible, if they have not
+done so already.
 
-Updating to the latest release is the only way to full resolve the vulnerabilities, sites can
-
-either upgrade (preferred) or take the mitigation measures now and upgrade later.
-
-
+Updating to the latest release is the only way to full resolve the
+vulnerabilities, sites can either upgrade (preferred) or take the mitigation
+measures now and upgrade later.
 
 
 Credits
 ======
+
 This vulnerability was reported by Patrick Furhmann (dCache).
 
 
 References
 ==========
-[R1]http://www.dcache.org/
-[R2]http://trac.dcache.org/projects/dcache/wiki/ProtectionOfUnsecuredWebAdminInterface
+
+[R1] http://www.dcache.org/
+[R2] http://trac.dcache.org/projects/dcache/wiki/ProtectionOfUnsecuredWebAdminInterface
 
 
 Timeline
 ========
-2011-03-23  Vulnerability reported by Patrick Fuhrmann (dCache).
 
+2011-03-23  Vulnerability reported by Patrick Fuhrmann (dCache).
 2011-03-25  Vulnerability Assessed as 'Critical' by the EGI SVG RAT and EGI-
 CSIRT.
-
 2011-03-25  Assessment by the EGI Software Vulnerability Group reported to
-the software  providers and packaging team.
-
+            the software  providers and packaging team.
 2011-03-30  EGI-CSIRT advisory issued asking sites to either carry out
-                mitigating action, or to upgrade from the dCache web page.
-
-
-2011-04-07      Updated Version available in gLite.
-2011-04-08      Sites informed by CSIRT of availability of updated version in gLite.
-2011-04-19      Public disclosure by release of advisory on web.
+            mitigating action, or to upgrade from the dCache web page.
+2011-04-07  Updated Version available in gLite.
+2011-04-08  Sites informed by CSIRT of availability of updated version in gLite.
+2011-04-19  Public disclosure by release of advisory on web.
 ```

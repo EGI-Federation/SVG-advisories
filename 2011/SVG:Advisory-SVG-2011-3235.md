@@ -4,9 +4,7 @@ permalink: /SVG:Advisory-SVG-2011-3235/
 ---
 
 ```
-
 ** WHITE information - Unlimited distribution allowed                       **
-
 ** see https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions **
 
 
@@ -29,8 +27,8 @@ This has now been resolved.
 Details
 =======
 
-A previous vulnerability in BDII was found for which the EGI issued an advisory at
-[R 2] and it was stated that it only applied to gLite 3.2
+A previous vulnerability in BDII was found for which the EGI issued an advisory
+at [R 2] and it was stated that it only applied to gLite 3.2
 
 However, this was found to also partially apply to the EMI version of BDII.
 The BDII password is predictable and not changed to a random value.
@@ -41,8 +39,8 @@ This has now been resolved in EMI and in the EGI UMD.
 Risk Category
 =============
 
-This issue was not individually assessed as it was a partial failure to
-resolve issue described at https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2011-1414
+This issue was not individually assessed as it was a partial failure to resolve
+issue described at https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2011-1414
 
 
 Affected Software
@@ -70,8 +68,9 @@ Release UMD-1.6.0
 http://repository.egi.eu/2012/04/02/release-umd-1-6-0/
 
 
-The official repository for the distribution of grid middleware for EGI sites is
-repository.egi.eu which contains the EGI Unified Middleware Distribution (UMD).
+The official repository for the distribution of grid middleware for EGI sites
+is repository.egi.eu which contains the EGI Unified Middleware Distribution
+(UMD).
 
 
 http://repository.egi.eu/category/umd_releases/distribution/umd_1
@@ -109,8 +108,8 @@ Timeline
 Yyyy-mm-dd
 
 2011-11-30 Possible Vulnerability discussed in e-mail by Lukasz Flis
-2011-12-08 Vulnerability entered into SVG issue handling process and investigation
-           under way
+2011-12-08 Vulnerability entered into SVG issue handling process and
+           investigation under way
 2011-12-09 Software providers responded and involved in investigation
 2012-01-10 Established that there is definitely a problem
 2012-04-04 Updated packages available EGI UMD

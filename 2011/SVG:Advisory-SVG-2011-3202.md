@@ -4,9 +4,7 @@ permalink: /SVG:Advisory-SVG-2011-3202/
 ---
 
 ```
-
 ** WHITE information - Unlimited distribution allowed                       **
-
 ** see https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions **
 
 EGI SVG ADVISORY [EGI-SVG-2011-3202]
@@ -101,7 +99,6 @@ References
 ==========
 
 
-
 Timeline
 ========
 Yyyy-mm-dd
@@ -110,15 +107,14 @@ Yyyy-mm-dd
 2011-11-29 Acknowledgement from the EGI SVG to the reporter
 2011-12-29 Software providers responded and involved in investigation
 2011-12-02 Assessment by the EGI Software Vulnerability Group reported to the
-               software providers
+           software providers
 2012-08-06 Updated packages available in the EGI UMD-2
-2012-12-17 SVG checked the status with the developers, as no progress had been reported.
-           Found to have been resolved in August for EGI UMD 2, but not yet for EGI UMD 1
-            so decided to wait until fully resolved as 'Low' risk.
+2012-12-17 SVG checked the status with the developers, as no progress had been
+           reported.
+           Found to have been resolved in August for EGI UMD 2, but not yet for
+           EGI UMD 1 so decided to wait until fully resolved as 'Low' risk.
 2013-02-25 Confirmed that it is now resolved in UMD-1
 2013-02-25 Public disclosure
-
-
 
 
 This is a placeholder for Vulnerability issue 3202.
