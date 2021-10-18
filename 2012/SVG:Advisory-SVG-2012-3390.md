@@ -4,9 +4,7 @@ permalink: /SVG:Advisory-SVG-2012-3390/
 ---
 
 ```
-
 ** WHITE information - Unlimited distribution allowed                       **
-
 ** see https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions **
 
 EGI SVG ADVISORY [EGI-SVG-2012-3390]
@@ -23,8 +21,8 @@ Introduction
 
 An information leak vulnerability has been found in DPM (Disk Pool Manager.)
 
-This has been resolved via a new version of the dpm-dsi library which is available
-in the EGI UMD.
+This has been resolved via a new version of the dpm-dsi library which is
+available in the EGI UMD.
 
 
 
@@ -34,10 +32,11 @@ Details
 An information leak vulnerability has been found in DPM which may allow users
 to access files including log files which they are not entitled to access.
 
-This has been resolved via a new version of the dpm-dsi library used by DPM which
-is  available in the EGI UMD.
+This has been resolved via a new version of the dpm-dsi library used by DPM
+which is available in the EGI UMD.
 
-This version of this library which resolves this issue is also available in EPEL.
+This version of this library which resolves this issue is also available in
+EPEL.
 
 
 Risk Category
@@ -65,8 +64,9 @@ No mitigation is recommended.
 Component Installation information
 ==================================
 
-The official repository for the distribution of grid middleware for EGI sites is
-repository.egi.eu which contains the EGI Unified Middleware Distribution (UMD).
+The official repository for the distribution of grid middleware for EGI sites
+is repository.egi.eu which contains the EGI Unified Middleware Distribution
+(UMD).
 
 
 Sites using the EGI UMD 3 should see:
@@ -99,6 +99,7 @@ This Vulnerability was reported by  Ulf Tigerstedt
 
 Timeline
 ========
+
 Yyyy-mm-dd
 
 2012-02-09 Vulnerability reported by Ulf Tigerstedt
@@ -109,6 +110,4 @@ Yyyy-mm-dd
 2014-07-24 Updated packages available in the EGI UMD
 2014-08-04 Checked that above version fixes this vulnerability.
 2014-08-05 Public disclosure
-
-.
 ```

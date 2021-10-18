@@ -21,11 +21,12 @@ URL:         https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2012-3438
 Introduction
 ============
 
-A vulnerability has been found in EMI VOMS which may allow a user whose certificate
-has been revoked to generate a VOMS proxy.  This was reported to the EGI SVG.
+A vulnerability has been found in EMI VOMS which may allow a user whose
+certificate has been revoked to generate a VOMS proxy.  This was reported to
+the EGI SVG.
 
-Another result of the software bug that results in this vulnerability is that some
-certificates are rejected even though they are valid.
+Another result of the software bug that results in this vulnerability is that
+some certificates are rejected even though they are valid.
 
 This problem has been fixed and a new version is available.
 
@@ -33,23 +34,24 @@ This problem has been fixed and a new version is available.
 Details
 =======
 
-There is an error in the EMI VOMS service specific to the c/c++ VOMS daemons which
-handles CRLs incorrectly.
+There is an error in the EMI VOMS service specific to the c/c++ VOMS daemons
+which handles CRLs incorrectly.
 
 This error allows most users who possess a revoked certificate to get a VOMS
-attribute certificate bound to the revoked certificate. This is considered to be a
-'Low' risk security error since most services carry out further checking of the
-certificates and will reject the VOMS proxy associated with the revoked certificate.
+attribute certificate bound to the revoked certificate. This is considered to
+be a 'Low' risk security error since most services carry out further checking
+of the certificates and will reject the VOMS proxy associated with the revoked
+certificate.
 
-However, another result of this software bug is that some valid certificates may
-be rejected.
+However, another result of this software bug is that some valid certificates
+may be rejected.
 
 Risk Category
 =============
 
 This issue has been assessed as 'Low' risk by the EGI SVG Risk Assessment Team.
-However, greater urgency for fixing this issue results from the rejection of valid
-certificates.
+However, greater urgency for fixing this issue results from the rejection of
+valid certificates.
 
 
 Affected Software
@@ -60,7 +62,8 @@ This problem is found in VOMS 2.0.2 released in EMI.
 The problem is fixed in  VOMS 2.0.7 released as part of EMI Update 14 and is
 available in UMD 1.6.0.
 
-gLite 3.1 and gLite 3.2 are not affected, as they contain different CRL handling software.
+gLite 3.1 and gLite 3.2 are not affected, as they contain different CRL
+handling software.
 
 
 Mitigation
@@ -77,8 +80,9 @@ Release notes for UMD-1.6.0
 http://repository.egi.eu/2012/04/02/release-umd-1-6-0/
 
 
-The official repository for the distribution of grid middleware for EGI sites is
-repository.egi.eu which contains the EGI Unified Middleware Distrbution (UMD).
+The official repository for the distribution of grid middleware for EGI sites
+is repository.egi.eu which contains the EGI Unified Middleware Distrbution
+(UMD).
 
 
 http://repository.egi.eu/category/umd_releases/distribution/umd_1/
@@ -120,8 +124,7 @@ Yyyy-mm-dd
 2012-02-17 Acknowledgement from the EGI SVG to the reporter
 2012-02-20 Software providers contacted and involved in investigation
 2012-02-23 Assessment by the EGI Software Vulnerability Group reported to the
-software providers
+           software providers
 2012-04-04 Updated packages available in the EGI UMD
 2012-04-04 Public disclosure
-
 ```

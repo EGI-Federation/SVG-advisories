@@ -4,14 +4,13 @@ permalink: /SVG:Advisory-SVG-2012-4073/
 ---
 
 ```
-
-
- ** WHITE information - Unlimited distribution allowed                       **
- ** see https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions **
+** WHITE information - Unlimited distribution allowed                       **
+** see https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions **
 
 EGI SVG ADVISORY [EGI-SVG-2012-4073]
 
-Title: Critical Risk - EMI-1 WMS proxy theft vulnerability - update and wider distribution.
+Title: Critical Risk - EMI-1 WMS proxy theft vulnerability - update and wider
+       distribution.
 
 Date:    2012-07-15
 Updated: 2012-07-16, 2012-08-13, 2012-08-28
@@ -22,13 +21,13 @@ URL: https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2012-4073
 Introduction
 ============
 
-This advisory is updated because the vulnerability is now fixed in the version of
-WMS available in the EGI UMD.
+This advisory is updated because the vulnerability is now fixed in the version
+of WMS available in the EGI UMD.
 
-A vulnerability has been found in the EMI-1 WMS, including the version distributed
-in the EGI UMD, that allows an authorized user of a supported VO to access proxies
-belonging to other authorized users who recently submitted jobs to a vulnerable
-WMS instance.
+A vulnerability has been found in the EMI-1 WMS, including the version
+distributed in the EGI UMD, that allows an authorized user of a supported VO to
+access proxies belonging to other authorized users who recently submitted jobs
+to a vulnerable WMS instance.
 
 This is in addition to the Vulnerability 4039.
 
@@ -38,7 +37,8 @@ individually by the CSIRT team, so most sites are not currently vulnerable.
 Previously sites which updated from gLite 3.1 to the EMI-1 WMS in the EGI UMD
 as suggested in the advisory for 4039 would find themselves vulnerable to 4073.
 
-Now this vulnerability has been fixed in the version of EMI-1 WMS in the EGI UMD.
+Now this vulnerability has been fixed in the version of EMI-1 WMS in the EGI
+UMD.
 
 
 Details
@@ -59,7 +59,8 @@ in the EGI UMD.
 Risk Category
 =============
 
-This issue has been assessed as "Critical/High" risk by the EGI SVG Risk Assessment Team.
+This issue has been assessed as "Critical/High" risk by the EGI SVG Risk
+Assessment Team.
 
 Affected Software
 =================
@@ -94,8 +95,9 @@ chmod o-rwx /var/ice/persist_dir
 Component Installation information
 ==================================
 
-The official repository for the distribution of grid middleware for EGI sites is
-repository.egi.eu which contains the EGI Unified Middleware Distribution (UMD).
+The official repository for the distribution of grid middleware for EGI sites
+is repository.egi.eu which contains the EGI Unified Middleware Distribution
+(UMD).
 
 http://repository.egi.eu/category/umd_releases/distribution/umd_1/
 

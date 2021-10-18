@@ -4,17 +4,15 @@ permalink: /SVG:Advisory-SVG-2012-4228/
 ---
 
 ```
-
-
 ** WHITE information - Unlimited distribution allowed                       **
-
 ** see https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions **
 
 EGI SVG   ADVISORY [EGI-SVG-2012-4228]
 
-Title:       EGI SVG Advisory 'Low' RISK - SAML implementation vulnerability in Unicore
+Title:   EGI SVG Advisory 'Low' RISK - SAML implementation vulnerability in
+         Unicore
 
-Date:        2012-08-19
+Date:    2012-08-19
 Updated:
 
 URL:         https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2012-4228
@@ -36,8 +34,8 @@ A vulnerability in some implemetations of SAML has been reported [R 1].
 
 This may allow a user to impersonate another user.
 
-Members of the SVG investigated and some of the Unicore components were found to be
-vulnerable.
+Members of the SVG investigated and some of the Unicore components were found
+to be vulnerable.
 
 Two types of exploit were found.
 
@@ -69,13 +67,12 @@ The following Unicore components are affected:
    Service Orchestrator
 
 
-
-
 Component installation information
 ==================================
 
-The official repository for the distribution of grid middleware for EGI sites is
-repository.egi.eu which contains the EGI Unified Middleware Distribution (UMD).
+The official repository for the distribution of grid middleware for EGI sites
+is repository.egi.eu which contains the EGI Unified Middleware Distribution
+(UMD).
 
 Sites using the EGI UMD should see:
 
@@ -95,8 +92,8 @@ This was released as part of the EMI 2 Update 8 on 28th January 2013.
 Recommendations
 ===============
 
-Sites are recommended to update relevant components in due course, if they have not
-updated since the software was released.
+Sites are recommended to update relevant components in due course, if they have
+not updated since the software was released.
 
 
 
@@ -111,18 +108,20 @@ Unicore components were found to be vulnerable by Krzysztof Benedyczak.
 References
 ==========
 
-[R 1] On Breaking SAML: Be Whoever You Want to Be.
-Juraj Somorovsky, Andreas Mayer, Jörg Schwenk, Marco Kampmann, Meiko Jensen. http://www.nds.rub.de/research/publications/BreakingSAML/
-
+[R 1] On Breaking SAML: Be Whoever You Want to Be.  Juraj Somorovsky, Andreas
+      Mayer, Jörg Schwenk, Marco Kampmann, Meiko Jensen.
+      http://www.nds.rub.de/research/publications/BreakingSAML/
 
 
 Timeline
 ========
+
 Yyyy-mm-dd
 
 2012-08-13 Tobias Dussa Alerted CSIRT to General Vulnerability type.
 2012-08-13 Acknowledgement from the EGI SVG to the reporter
-2012-08-28 Krzysztof Benedyczak found that some Unicore components are vulnerable
+2012-08-28 Krzysztof Benedyczak found that some Unicore components are
+           vulnerable
 2012-      Vulnerability better understood, and to include classic XSW attacks.
 2012-      Various checks on other components, none found to be vulnerable.
 2012-12-03 Assessment by the EGI Software Vulnerability Group for the Unicore
