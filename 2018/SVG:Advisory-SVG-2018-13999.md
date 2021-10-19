@@ -5,10 +5,11 @@ permalink: /SVG:Advisory-SVG-2018-13999/
 
 ```
 
-Title:       EGI SVG 'ALERT' [TLP:WHITE] - image mounting via Singularity [EGI-SVG-2018-13999]
+Title:   EGI SVG 'ALERT' [TLP:WHITE] - image mounting via Singularity
+         [EGI-SVG-2018-13999]
 
-Date:        2018-03-05
-Updated:     2018-03-19 Changed to [TLP:WHITE]
+Date:    2018-03-05
+Updated: 2018-03-19 Changed to [TLP:WHITE]
 
 
 Affected software and risk
@@ -20,35 +21,42 @@ Package : Singularity
 CVE ID  : N/A
 Bug ID  :
 
-Some potential problems have been found in Singularity, concerning certain configurations.
+Some potential problems have been found in Singularity, concerning certain
+configurations.
 
-**NOTE** This is a separate issue from our "ADVISORY  HIGH risk vulnerability in Singularity 2.3.2
-allowing escape from the container [EGI-SVG-2018-14145]  which is also being sent to sites concerning
-a vulnerability in a specific version of singularity.
+**NOTE** This is a separate issue from our "ADVISORY  HIGH risk vulnerability
+in Singularity 2.3.2 allowing escape from the container [EGI-SVG-2018-14145]
+which is also being sent to sites concerning a vulnerability in a specific
+version of singularity.
 
 
 Actions required/recommended
 ============================
 
-Sites running Singularity are recommended to check their configuration, and disable unneeded features.
+Sites running Singularity are recommended to check their configuration, and
+disable unneeded features.
 
-The default configuration of Singularity allows functionality that carries a higher risk of attack;
-that functionality may not be needed for the use cases that sites want to support.
+The default configuration of Singularity allows functionality that carries a
+higher risk of attack; that functionality may not be needed for the use cases
+that sites want to support.
 
-By default the setuid (rpm) distribution of Singularity allows unprivileged users to mount image files
-via loopback devices. This carries an inherently higher exposure to potential kernel exploits,
-as discussed in [R 1].
-There are no known public exploits at this time, but Linux kernel developers are concerned enough to
-refuse allowing the capability in the kernel. Singularity enables the capability via a setuid-root function.
+By default the setuid (rpm) distribution of Singularity allows unprivileged
+users to mount image files via loopback devices. This carries an inherently
+higher exposure to potential kernel exploits, as discussed in [R 1].
+There are no known public exploits at this time, but Linux kernel developers
+are concerned enough to refuse allowing the capability in the kernel.
+Singularity enables the capability via a setuid-root function.
 
-Please refer to [R 2] for details concerning modifications of the configuration file.
+Please refer to [R 2] for details concerning modifications of the configuration
+file.
 
-No specific exploit has been found and both EGI and OSG believe that any discovered vulnerability would be patched by RedHat.
+No specific exploit has been found and both EGI and OSG believe that any
+discovered vulnerability would be patched by RedHat.
 
 Sites may choose whether or not to protect against the potential vulnerability.
 
-If anyone becomes aware of any situation where this has a significant impact on the EGI
-infrastructure then please inform EGI SVG.
+If anyone becomes aware of any situation where this has a significant impact on
+the EGI infrastructure then please inform EGI SVG.
 
 Affected software details
 =========================
@@ -79,13 +87,16 @@ Comments
 
 Comments or questions should be sent to svg-rat  at  mailman.egi.eu
 
-If you find or become aware of another vulnerability which is relevant to EGI you may report it by e-mail to
+If you find or become aware of another vulnerability which is relevant to EGI
+you may report it by e-mail to
 
 report-vulnerability at egi.eu
 
-the EGI Software Vulnerability Group will take a look according to the procedure defined in [R 3]
+the EGI Software Vulnerability Group will take a look according to the
+procedure defined in [R 3]
 
-Note that this has been updated and the latest version approved by the Operations Management Board in November 2017
+Note that this has been updated and the latest version approved by the
+Operations Management Board in November 2017
 
 
 References
@@ -118,13 +129,16 @@ Yyyy-mm-dd  [EGI-SVG-2018-13999]
 Context
 =======
 
-This advisory has been prepared as part of the effort to fulfil EGI SVG's purpose
-"To minimize the risk to the EGI infrastructure arising from software vulnerabilities"
+This advisory has been prepared as part of the effort to fulfil EGI SVG's
+purpose "To minimize the risk to the EGI infrastructure arising from software
+vulnerabilities"
 
-The risk is that assessed by the group, according to the EGI SVG issue handling procedure [R 3]
-in the context of how the software is used in the EGI infrastructure. It is the opinion of the group,
-we do not guarantee it to be correct.
-The risk may also be higher or lower in other deployments depending on how the software is used.
+The risk is that assessed by the group, according to the EGI SVG issue handling
+procedure [R 3] in the context of how the software is used in the EGI
+infrastructure. It is the opinion of the group, we do not guarantee it to be
+correct.
+The risk may also be higher or lower in other deployments depending on how the
+software is used.
 
 Others may re-use this information provided they:-
 
