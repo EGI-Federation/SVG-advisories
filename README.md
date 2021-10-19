@@ -1,11 +1,12 @@
 ## EGI SVG advisories
 
 All advisories which are disclosed publicly by
-[EGI SVG](https://ims.egi.eu/display/EGIBG/SVG) are placed on this website.
+[EGI Software Vulnerability Group (SVG)](https://ims.egi.eu/display/EGIBG/SVG)
+are placed on this website.
 
 All advisories which are disclosed publicly by SVG are subject to the Creative
 commons licence [CC-BY 4.0.](https://creativecommons.org/licenses/by/4.0/)
-including crediting the [EGI](https://www.egi.eu/) Software Vulnerability Group.
+including crediting the [EGI](https://www.egi.eu/) SVG.
 
 A guide to the risk categories is available at
 [Notes On Risk](https://wiki.egi.eu/wiki/SVG:Notes_On_Risk)
