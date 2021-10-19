@@ -99,7 +99,7 @@ https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions **
 An advisory will be placed on the wiki after sites have had at least 2 weeks to
 upgrade.
 
-URL:   https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2017-12543
+URL:   https://wiki.egi.eu/wiki/Advisory-SVG-2017-12543
 
 After that, minor updates may be made without re-distribution to the sites
 

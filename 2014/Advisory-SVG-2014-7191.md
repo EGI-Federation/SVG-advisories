@@ -18,7 +18,7 @@ Updated:
 
 This will be placed on the wiki on or after 15th December 2014.
 
-URL:         https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2014-7191
+URL:         https://wiki.egi.eu/wiki/Advisory-SVG-2014-7191
 
 
 Introduction

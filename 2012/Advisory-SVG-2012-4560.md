@@ -13,7 +13,7 @@ Title:       EGI SVG Advisory 'Moderate' RISK DPM world writeable files
 Date:        2012-12-19
 Updated:
 
-URL:         https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2012-4560
+URL:         https://wiki.egi.eu/wiki/Advisory-SVG-2012-4560
 
 Introduction
 ============

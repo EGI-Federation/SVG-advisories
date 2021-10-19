@@ -14,7 +14,7 @@ Title:   EGI SVG Advisory 'Low' RISK - CREAM Proxy delegation
 Date:    2015-10-12
 Updated:
 
-URL:     https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2014-6980
+URL:     https://wiki.egi.eu/wiki/Advisory-SVG-2014-6980
 
 
 Introduction

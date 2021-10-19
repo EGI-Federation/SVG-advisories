@@ -12,7 +12,7 @@ EGI SVG   ADVISORY [EGI-SVG-2011-342]
 Title:  LOW Risk - Insecure Library Loading Vulnerability in the VOMS server.
 Date:   2011-07-14
 
-URL:   https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2011-342
+URL:   https://wiki.egi.eu/wiki/Advisory-SVG-2011-342
 
 Introduction
 ============

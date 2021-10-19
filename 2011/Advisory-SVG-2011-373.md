@@ -11,7 +11,7 @@ EGI SVG   ADVISORY [EGI-SVG-20110311]
 Title:  SQL injection vulnerability in the APEL software
 Date:
 
-URL:   https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2011-373
+URL:   https://wiki.egi.eu/wiki/Advisory-SVG-2011-373
 
 Introduction
 ============

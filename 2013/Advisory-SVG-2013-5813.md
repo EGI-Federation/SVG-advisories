@@ -16,7 +16,7 @@ Updated: 2014-02-13
 
 
 
-URL:         https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2013-5813
+URL:         https://wiki.egi.eu/wiki/Advisory-SVG-2013-5813
 
 Introduction
 ============

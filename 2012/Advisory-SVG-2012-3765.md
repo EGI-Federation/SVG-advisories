@@ -12,7 +12,7 @@ Title:       EGI SVG Advisory 'Low' RISK - Gridftp CVE-201203292
 Date:        2012-12-20
 
 
-URL:         https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2012-3765
+URL:         https://wiki.egi.eu/wiki/Advisory-SVG-2012-3765
 
 Introduction
 ============

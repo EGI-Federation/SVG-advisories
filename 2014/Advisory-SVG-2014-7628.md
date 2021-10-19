@@ -14,7 +14,7 @@ Title:   EGI SVG Advisory 'Moderate' RISK - Torque CVE-2014-3684 resolved in
 Date:    2015-02-11
 Updated:
 
-URL:         https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2014-7628
+URL:         https://wiki.egi.eu/wiki/Advisory-SVG-2014-7628
 
 Introduction
 ============

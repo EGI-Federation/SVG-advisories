@@ -16,7 +16,7 @@ Updated:
 
 This advisory will be placed on the wiki on or after 2015-03-11
 
-URL:         https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2014-7749
+URL:         https://wiki.egi.eu/wiki/Advisory-SVG-2014-7749
 
 Introduction
 ============

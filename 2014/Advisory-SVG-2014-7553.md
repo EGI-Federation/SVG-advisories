@@ -14,7 +14,7 @@ Title:   EGI SVG Advisory 'High' Risk - Dirac SQL injection vulnerability
 Date:    2015-05-13
 Updated: 2015-08-13
 
-URL:     https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2014-7553
+URL:     https://wiki.egi.eu/wiki/Advisory-SVG-2014-7553
 
 Introduction
 ============

@@ -72,13 +72,13 @@ TLP and URL
 ** WHITE information - Unlimited distribution -
 see https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions **
 
-URL:   https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2018-13999
+URL:   https://wiki.egi.eu/wiki/Advisory-SVG-2018-13999
 
 Minor updates may be made without re-distribution to the sites
 
 Advisory also issued concerning singularity:--
 
-URL:  https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2018-14145
+URL:  https://wiki.egi.eu/wiki/Advisory-SVG-2018-14145
 
 
 Comments

@@ -14,7 +14,7 @@ Date:        2011-06-20
 Updated:     2011-07-14
 
 
-URL:         https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2011-1866
+URL:         https://wiki.egi.eu/wiki/Advisory-SVG-2011-1866
 
 Introduction
 ============

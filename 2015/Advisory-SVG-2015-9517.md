@@ -14,7 +14,7 @@ Date:    2015-10-13
 Updated:
 
 
-URL:     https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2015-9517
+URL:     https://wiki.egi.eu/wiki/Advisory-SVG-2015-9517
 
 
 Short Alert

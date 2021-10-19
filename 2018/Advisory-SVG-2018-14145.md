@@ -69,13 +69,13 @@ TLP and URL
 
 This advisory will be placed on the wiki on or after 2018-03-19
 
-URL:   https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2018-14145
+URL:   https://wiki.egi.eu/wiki/Advisory-SVG-2018-14145
 
 Minor updates may be made without re-distribution to the sites
 
 Other issue concerning singularity where an ALERT was issued:--
 
-URL:   https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2018-13999
+URL:   https://wiki.egi.eu/wiki/Advisory-SVG-2018-13999
 
 Comments
 ========

@@ -16,7 +16,7 @@ Date:    2014-01-24
 Updated: 2014-02-21, 2014-03-27 (made public)
 
 
-URL:     https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2014-6627
+URL:     https://wiki.egi.eu/wiki/Advisory-SVG-2014-6627
 
 Introduction
 ============

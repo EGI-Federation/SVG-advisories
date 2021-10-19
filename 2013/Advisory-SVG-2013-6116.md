@@ -17,7 +17,7 @@ Updated: <date  yyyy-mm-dd>
 This advisory will be placed on the wiki in approx 2 weeks, on or after 7th
 March 2014.
 
-URL:         https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2013-6116
+URL:         https://wiki.egi.eu/wiki/Advisory-SVG-2013-6116
 
 Introduction
 ============

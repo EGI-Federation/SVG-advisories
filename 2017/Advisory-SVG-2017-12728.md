@@ -63,7 +63,7 @@ TLP and URL
 https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions **
 
 
-URL:   https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2017-12728
+URL:   https://wiki.egi.eu/wiki/Advisory-SVG-2017-12728
 
 Minor updates may be made without re-distribution to the sites
 

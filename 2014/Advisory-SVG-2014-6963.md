@@ -7,7 +7,7 @@ Title:   EGI SVG Advisory 'High' RISK - DPM version in EPEL [EGI-SVG-2014-6963]
 Date:    2014-05-12
 Updated:
 
-URL:     https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2014-6963
+URL:     https://wiki.egi.eu/wiki/Advisory-SVG-2014-6963
 
 
 Introduction

@@ -13,7 +13,7 @@ Title: EGI SVG Advisory 'Moderate' RISK Remote access to dCache configuration
 
 Date:  2014-08-05
 
-URL:   https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2014-7009
+URL:   https://wiki.egi.eu/wiki/Advisory-SVG-2014-7009
 
 Introduction
 ============

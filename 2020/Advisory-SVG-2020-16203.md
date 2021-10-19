@@ -110,7 +110,7 @@ TLP and URL
 
 This advisory will be placed on the wiki on or after 2020-02-25
 
-URL:   https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2020-16203
+URL:   https://wiki.egi.eu/wiki/Advisory-SVG-2020-16203
 
 Minor updates may be made without re-distribution to the sites
 

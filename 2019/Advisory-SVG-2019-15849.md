@@ -84,7 +84,7 @@ TLP and URL
 ** AMBER information - Limited distribution
 - see https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions **
 
-URL:   https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2019-15849
+URL:   https://wiki.egi.eu/wiki/Advisory-SVG-2019-15849
 
 Minor updates may be made without re-distribution to the sites
 

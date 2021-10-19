@@ -15,7 +15,7 @@ Updated:      2011-04-08, 2011-04-19
 This advisory will be placed on the public wiki in due course
 
 URL:         https://wiki.egi.eu/wiki/EGI_CSIRT:Alerts/dCache-2011-03-30
-URL:         https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2011-1569
+URL:         https://wiki.egi.eu/wiki/Advisory-SVG-2011-1569
 
 Introduction
 ============

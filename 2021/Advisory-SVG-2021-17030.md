@@ -149,7 +149,7 @@ TLP and URL
 ** WHITE information - Unlimited distribution
  - see https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions **
 
-URL:   https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2021-17030
+URL:   https://wiki.egi.eu/wiki/Advisory-SVG-2021-17030
 
 Minor updates may be made without re-distribution to the sites.
 

@@ -152,7 +152,7 @@ https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions **
 
 This advisory will be placed on the wiki on or after 2016-07-12
 
-URL:   https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2016-11288
+URL:   https://wiki.egi.eu/wiki/Advisory-SVG-2016-11288
 
 Minor updates may be made without re-distribution to the sites
 

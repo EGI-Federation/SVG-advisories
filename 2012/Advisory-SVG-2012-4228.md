@@ -14,7 +14,7 @@ Title:   EGI SVG Advisory 'Low' RISK - SAML implementation vulnerability in
 Date:    2012-08-19
 Updated:
 
-URL:         https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2012-4228
+URL:         https://wiki.egi.eu/wiki/Advisory-SVG-2012-4228
 
 Introduction
 ============

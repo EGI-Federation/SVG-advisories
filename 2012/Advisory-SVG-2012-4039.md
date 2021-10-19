@@ -13,7 +13,7 @@ Title:       "High" Risk - WMS proxy theft impersonation vulnerability
 Date:        2012-07-16
 Updated:     2012-07-23, 2012-08-01, 2012-08-29
 
-URL:         https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2012-4039
+URL:         https://wiki.egi.eu/wiki/Advisory-SVG-2012-4039
 
 Introduction
 ============

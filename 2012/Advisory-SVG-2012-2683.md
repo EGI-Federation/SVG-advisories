@@ -12,7 +12,7 @@ Title:       "High" Risk: DPM SQL injection vulnerability
 Date:        2013-02-08
 Updated:     2013-02-19
 
-URL:         https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2012-2683
+URL:         https://wiki.egi.eu/wiki/Advisory-SVG-2012-2683
 
 Introduction
 ============

@@ -104,7 +104,7 @@ Unfortunately, this problem was found after sites were asked to migrate
 to this software. Hence it has been fixed as an emergency release.
 
 The advisory made public at
-https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2012-4600
+https://wiki.egi.eu/wiki/Advisory-SVG-2012-4600
 after sites have had been given 1 week to update (by agreement with CSIRT)
 
 

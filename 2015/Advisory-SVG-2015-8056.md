@@ -14,7 +14,7 @@ Title:   EGI SVG Advisory 'High' RISK - CVE-2015-1195 OpenStack for
 Date:    2015-02-11
 Updated:
 
-URL:     https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2015-8056
+URL:     https://wiki.egi.eu/wiki/Advisory-SVG-2015-8056
 
 Introduction
 ============

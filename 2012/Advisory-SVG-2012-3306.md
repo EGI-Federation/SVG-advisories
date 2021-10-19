@@ -16,7 +16,7 @@ Title:   EGI SVG Advisory "Low" RISK - Potential for reduced availability of
 Date:    2013-09-17
 Updated: <date  yyyy-mm-dd>
 
-URL:         https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2012-3306
+URL:         https://wiki.egi.eu/wiki/Advisory-SVG-2012-3306
 
 Introduction
 ============

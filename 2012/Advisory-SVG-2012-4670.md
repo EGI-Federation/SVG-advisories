@@ -13,7 +13,7 @@ Title: EGI SVG Advisory 'Moderate' Risk DPM buffer overflow in SRM v2.2
 
 Date:  2013-02-19
 
-URL:   https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2012-4670
+URL:   https://wiki.egi.eu/wiki/Advisory-SVG-2012-4670
 
 Introduction
 ============

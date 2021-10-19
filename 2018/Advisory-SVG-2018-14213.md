@@ -35,7 +35,7 @@ Actions required/recommended
 
 This is fixed in version 2.5.0, which also fixes another critical
 vulnerability:--
-https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2018-14311
+https://wiki.egi.eu/wiki/Advisory-SVG-2018-14311
 
 
 Mitigation
@@ -65,7 +65,7 @@ TLP and URL
 ** WHITE information - Unlimited distribution
   - see https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions **
 
-URL  https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2018-14213
+URL  https://wiki.egi.eu/wiki/Advisory-SVG-2018-14213
 
 Comments
 ========

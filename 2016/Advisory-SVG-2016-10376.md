@@ -71,7 +71,7 @@ See [R 3] for Debian
 URL
 ===
 
-URL:         https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2016-10376
+URL:         https://wiki.egi.eu/wiki/Advisory-SVG-2016-10376
 
 Minor updates may be made without re-distribution to the sites
 

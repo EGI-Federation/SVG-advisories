@@ -15,7 +15,7 @@ Date:    2015-01-14
 Updated:
 
 
-URL:         https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2015-7980
+URL:         https://wiki.egi.eu/wiki/Advisory-SVG-2015-7980
 
 Introduction
 ============
