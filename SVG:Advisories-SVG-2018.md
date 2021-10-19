@@ -13,9 +13,9 @@ various
 [SVG Speculative execution vulnerabilities](https://wiki.egi.eu/wiki/SVG:Speculative_Execution_Vulnerabilities)
 
 This may be useful to sites in conjunction with the
-advisories[Advisory-SVG-CVE-2017-5753](./SVG:Advisory-SVG-CVE-2017-5753.md),
-[Advisory-SVG-CVE-2018-3639](./SVG:Advisory-SVG-CVE-2018-3639.md), and
-[Advisory-SVG-CVE-2018-3620](./SVG:Advisory-SVG-CVE-2018-3620.md) below.
+advisories[Advisory-SVG-CVE-2017-5753](./2017/SVG:Advisory-SVG-CVE-2017-5753.md),
+[Advisory-SVG-CVE-2018-3639](./2018/SVG:Advisory-SVG-CVE-2018-3639.md), and
+[Advisory-SVG-CVE-2018-3620](./2018/SVG:Advisory-SVG-CVE-2018-3620.md) below.
 
 | Date                                       | Title                                                                                             | Contents/Link                                                                | Risk           | Status  |
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------------- | ------- |
