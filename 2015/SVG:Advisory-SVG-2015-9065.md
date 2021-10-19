@@ -4,24 +4,24 @@ permalink: /SVG:Advisory-SVG-2015-9065/
 ---
 
 ```
-
 ** WHITE information - Unlimited distribution allowed                       **
-
 ** see https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions **
 
-Title:       EGI SVG/CSIRT **Update** OpenSSL release on 9th July - CVE-2015-1793
+Title:   EGI SVG/CSIRT **Update** OpenSSL release on 9th July - CVE-2015-1793
 
-Date:        2015-07-07
-Updated:     2015-07-13
+Date:    2015-07-07
+Updated: 2015-07-13
 
 
 On 7th July we alerted sites to the announcement by OpenSSL [R 1]
 
-OpenSSL has released the advisory concerning 'Alternative chains certificate forgery (CVE-2015-1793)'  [R 2]
+OpenSSL has released the advisory concerning 'Alternative chains certificate
+forgery (CVE-2015-1793)'  [R 2]
 
-Most Linux releases (with some exceptions) do NOT contain a version of OpenSSL containing this vulnerability.
-It is probably not exploitable in EGI as it is unlikely that any vulnerable versions of OpenSSL are installed
-but sites should read through below and check.
+Most Linux releases (with some exceptions) do NOT contain a version of OpenSSL
+containing this vulnerability.  It is probably not exploitable in EGI as it is
+unlikely that any vulnerable versions of OpenSSL are installed but sites should
+read through below and check.
 
 
 
@@ -33,7 +33,8 @@ Not vulnerable [R 3]
 Debian
 ---------
 
-Stable and oldstable releases are not vulnerable, only testing and unstable releases are vulnerable  [R 4]
+Stable and oldstable releases are not vulnerable, only testing and unstable
+releases are vulnerable  [R 4]
 
 Ubuntu
 ------
@@ -50,9 +51,11 @@ Fedora 21 and 22 ARE affected [R 6], [R 7], [R 8]
 Recommendations
 ===============
 
-For most sites there is no need to take any specific action due to this vulnerability.
+For most sites there is no need to take any specific action due to this
+vulnerability.
 
-Sites which install OpenSSL directly from the OpenSSL site or use vulnerable versions of linux should update.
+Sites which install OpenSSL directly from the OpenSSL site or use vulnerable
+versions of linux should update.
 
 Sites should, of course, keep their systems up to date.
 

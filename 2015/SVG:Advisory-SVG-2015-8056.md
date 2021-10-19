@@ -4,27 +4,28 @@ permalink: /SVG:Advisory-SVG-2015-8056/
 ---
 
 ```
-
 ** WHITE information - Unlimited distribution allowed                       **
-
 ** see https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions **
 
 EGI SVG ADVISORY [EGI-SVG-2015-8056]
 
-Title:       EGI SVG Advisory 'High' RISK - CVE-2015-1195 OpenStack  for [EGI-SVG-2015-8056]
+Title:   EGI SVG Advisory 'High' RISK - CVE-2015-1195 OpenStack for
+         [EGI-SVG-2015-8056]
 
-Date:        2015-02-11
+Date:    2015-02-11
 Updated:
 
-URL:         https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2015-8056
+URL:     https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2015-8056
 
 Introduction
 ============
 
-A vulnerability has been announced in OpenStack Image service (glance) which allows authorized users to access
-and delete files accessible by the glance user.
+A vulnerability has been announced in OpenStack Image service (glance) which
+allows authorized users to access and delete files accessible by the glance
+user.
 
-Sites running OpenStack are recommended to update as soon as possible if they have not already done so.
+Sites running OpenStack are recommended to update as soon as possible if they
+have not already done so.
 
 
 Details
@@ -42,7 +43,8 @@ This issue has been assessed as 'High' risk by the EGI SVG Risk Assessment Team.
 Affected software
 =================
 
-V2 API in OpenStack Image Registry and Delivery Service (Glance) before 2014.1.4 and 2014.2.x before 2014.2.2
+V2 API in OpenStack Image Registry and Delivery Service (Glance) before
+2014.1.4 and 2014.2.x before 2014.2.2
 
 
 Mitigation
@@ -54,26 +56,32 @@ N/A
 Component installation information
 ==================================
 
-In Juno (2014.2) the fix has been included in the 2014.2.2 release (https://wiki.openstack.org/wiki/ReleaseNotes/2014.2.2)
-therefore sites should update all the glance packages to the 2014.2.2 version.
+In Juno (2014.2) the fix has been included in the 2014.2.2 release
+(https://wiki.openstack.org/wiki/ReleaseNotes/2014.2.2) therefore sites should
+update all the glance packages to the 2014.2.2 version.
 
-In Icehouse (2014.1) the fix be included in the 2014.1.4 release, planned for February 19th.
-A patch may be made available sooner, and the version of this advisory on the wiki will be updated if it is.
+In Icehouse (2014.1) the fix be included in the 2014.1.4 release, planned for
+February 19th.
+A patch may be made available sooner, and the version of this advisory on the
+wiki will be updated if it is.
 
 
 Recommendations
 ===============
 
-Sites are recommended to update relevant components if they have not done so already.
+Sites are recommended to update relevant components if they have not done so
+already.
 
-Once the update is complete, all the credentials accessible by the glance user (e.g. OpenStack service username and password,
-MySQL connection details, etc.) should be revoked as a precautionary measure.
+Once the update is complete, all the credentials accessible by the glance user
+(e.g. OpenStack service username and password, MySQL connection details, etc.)
+should be revoked as a precautionary measure.
 
 
 Credit
 ======
 
-This vulnerability was announced publicly and EGI SVG alerted to it by Alvaro Lopez Garcia
+This vulnerability was announced publicly and EGI SVG alerted to it by Alvaro
+Lopez Garcia
 
 
 References
@@ -88,6 +96,7 @@ References
 
 Timeline
 ========
+
 Yyyy-mm-dd
 
 2015-01-15 Vulnerability announced publicly

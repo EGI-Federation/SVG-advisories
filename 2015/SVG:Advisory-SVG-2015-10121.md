@@ -4,11 +4,10 @@ permalink: /SVG:Advisory-SVG-2015-10121/
 ---
 
 ```
+Title:   EGI SVG Advisory [TLP:White] 'Low' risk dCache WebDAV interface XXE
+         vulnerability [EGI-SVG-2015-10121]
 
-
-Title:       EGI SVG Advisory [TLP:White] 'Low' risk dCache WebDAV interface XXE vulnerability [EGI-SVG-2015-10121]
-
-Date:        2016-06-20
+Date:    2016-06-20
 Updated:
 
 Affected Software and Risk
@@ -45,11 +44,12 @@ dCache versions not affected:
 More information
 ================
 
-WebDAV is a protocol, based on HTTP, that makes use of XML as a machine-readable format.
-The XML External Entity (XXE) processing feature of XML make services that use it, like WebDAV, potentially
-vulnerable to attacks.
+WebDAV is a protocol, based on HTTP, that makes use of XML as a
+machine-readable format.  The XML External Entity (XXE) processing feature of
+XML make services that use it, like WebDAV, potentially vulnerable to attacks.
 
-An XXE problem was identified with the Milton library. dCache uses this library to process WebDAV requests.
+An XXE problem was identified with the Milton library. dCache uses this library
+to process WebDAV requests.
 
 More information on the XML External Entity Vulnerability is available at [R 1]
 
@@ -133,10 +133,9 @@ http://www.brainbell.com/tutors/XML/XML_Book_B/External_Parsed_General_Entities.
 
  Resolution
 
- Milton 2.7.0.3 [lookup IP][Add IP] has been release hardens the configuration of
- the parsers so they will not attempt to retrieve remote
- resources. You should apply this release to your affected
- systems as soon as possible.
+ Milton 2.7.0.3 [lookup IP][Add IP] has been release hardens the configuration
+ of the parsers so they will not attempt to retrieve remote resources. You
+ should apply this release to your affected systems as soon as possible.
 
 
 The next cycle of dCache releases will update the milton library to the
@@ -165,8 +164,9 @@ N/A
 Component installation information
 ==================================
 
-The official repository for the distribution of grid middleware for EGI sites is
-repository.egi.eu which contains the EGI Unified Middleware Distribution (UMD).
+The official repository for the distribution of grid middleware for EGI sites
+is repository.egi.eu which contains the EGI Unified Middleware Distribution
+(UMD).
 
 
 Sites using the EGI UMD 4 should see:
@@ -184,7 +184,8 @@ http://repository.egi.eu/category/umd_releases/distribution/umd-3/
 dCache version 2.10.56 is available in UMD-3.14.2
 
 
-Sites who wish to install directly from the dCache site, which includes all patched versions  should see:
+Sites who wish to install directly from the dCache site, which includes all
+patched versions  should see:
 
 https://www.dcache.org/downloads/IAgree.shtml
 
@@ -215,7 +216,8 @@ Comments
 
 Comments or questions should be sent to svg-rat  at  mailman.egi.eu
 
-If you find or become aware of a vulnerability which is relevant to EGI you may report it by e-mail to
+If you find or become aware of a vulnerability which is relevant to EGI you may
+report it by e-mail to
 
 report-vulnerability at egi.eu
 
@@ -229,7 +231,8 @@ Yyyy-mm-dd  [EGI-SVG-2015-10121]
 2015-12-01 Vulnerability reported by Paul Miller
 2015-12-01 Acknowledgement from the EGI SVG to the reporter
 2015-12-10 EGI SVG Risk Assessment completed
-2015-12-10 Assessment by the EGI Software Vulnerability Group reported to the software providers
+2015-12-10 Assessment by the EGI Software Vulnerability Group reported to the
+           software providers
 2016-06-08 Updated packages available at dCache sites and in UMD 4
 2016-06-16 Updated packages available in UMD 3
 2016-06-20 Advisory/Alert sent to sites

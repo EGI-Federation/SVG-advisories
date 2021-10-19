@@ -4,10 +4,10 @@ permalink: /SVG:Advisory-SVG-2015-10134/
 ---
 
 ```
+Title:   EGI SVG Advisory [TLP:White] 'Low' risk STORM WebDAV interface XXE
+         vulnerability [EGI-SVG-2015-10134]
 
-Title:       EGI SVG Advisory [TLP:White] 'Low' risk STORM WebDAV interface XXE vulnerability [EGI-SVG-2015-10134]
-
-Date:        2016-06-20
+Date:    2016-06-20
 Updated:
 
 Affected Software and Risk
@@ -32,11 +32,12 @@ This is fixed in Version 1.11.10
 More information
 ================
 
-WebDAV is a protocol, based on HTTP, that makes use of XML as a machine-readable format.
-The XML External Entity (XXE) processing feature of XML make services that use it, like WebDAV, potentially
-vulnerable to attacks.
+WebDAV is a protocol, based on HTTP, that makes use of XML as a
+machine-readable format.  The XML External Entity (XXE) processing feature of
+XML make services that use it, like WebDAV, potentially vulnerable to attacks.
 
-An XXE problem was identified with the Milton library. STORM uses this library to process WebDAV requests.
+An XXE problem was identified with the Milton library. STORM uses this library
+to process WebDAV requests.
 
 More information on the XML External Entity Vulnerability is available at [R 1]
 
@@ -49,8 +50,9 @@ N/A
 Component installation information
 ==================================
 
-The official repository for the distribution of grid middleware for EGI sites is
-repository.egi.eu which contains the EGI Unified Middleware Distribution (UMD).
+The official repository for the distribution of grid middleware for EGI sites
+is repository.egi.eu which contains the EGI Unified Middleware Distribution
+(UMD).
 
 Sites using the EGI UMD 4 should see:
 
@@ -98,7 +100,8 @@ Comments
 
 Comments or questions should be sent to svg-rat  at  mailman.egi.eu
 
-If you find or become aware of a vulnerability which is relevant to EGI you may report it by e-mail to
+If you find or become aware of a vulnerability which is relevant to EGI you may
+report it by e-mail to
 
 report-vulnerability at egi.eu
 
@@ -111,7 +114,8 @@ Yyyy-mm-dd  [EGI-SVG-2015-10134]
 
 2015-12-01 Andrea Manzi noted that STORM is affected by this vulnerability
 2015-12-10 EGI SVG Risk Assessment completed
-2015-12-10 Assessment by the EGI Software Vulnerability Group reported to the software providers
+2015-12-10 Assessment by the EGI Software Vulnerability Group reported to the
+           software providers
 2016-01-22 Vulnerability fixed by the STORM developers
 2016-06-08 Updated packages available in the EGI UMD 4
 2016-06-16 Updated packages available in the EGI UMD 3

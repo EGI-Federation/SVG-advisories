@@ -4,19 +4,18 @@ permalink: /SVG:Advisory-SVG-2015-8464/
 ---
 
 ```
-
 ** WHITE information - Unlimited distribution allowed                       **
-
 ** see https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions **
 
 EGI SVG ADVISORY [EGI-SVG-2015-8464]
 
-Title:       EGI SVG Advisory 'Low' RISK Buffer overflow vulnerability in XRootD client [EGI-SVG-2015-8464]
+Title:   EGI SVG Advisory 'Low' RISK Buffer overflow vulnerability in XRootD
+         client [EGI-SVG-2015-8464]
 
-Date:        2015-05-13
+Date:    2015-05-13
 Updated:
 
-URL:         https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2015-8464
+URL:     https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2015-8464
 
 Introduction
 ============
@@ -31,8 +30,8 @@ Details
 
 A buffer overflow vulnerability has been found in the XRootD client.
 
-If a client were to be directed to a malicious XRootD server it is possible that a compromised could occur.
-This seems unlikely hence the risk category.
+If a client were to be directed to a malicious XRootD server it is possible
+that a compromised could occur.  This seems unlikely hence the risk category.
 
 
 Risk category
@@ -85,11 +84,13 @@ Comments
 
 Comments or questions should be sent to svg-rat at  mailman.egi.eu
 
-We are currently revising the vulnerability issue handling procedure so suggestions and comments are welcome.
+We are currently revising the vulnerability issue handling procedure so
+suggestions and comments are welcome.
 
 
 Timeline
 ========
+
 Yyyy-mm-dd
 
 2015-04-10 Vulnerability reported by Gerd Behrmann
