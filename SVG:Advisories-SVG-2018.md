@@ -1,9 +1,10 @@
 ---
 title: SVG:Advisories-SVG-2018
-permalink: ./SVG:Advisories-SVG-2018/
 ---
 
-All advisories which are disclosed publicly by SVG are placed on this wiki.
+## Advisories for 2018
+
+Recent [Advisories](./README.md)
 
 A guide to the risk categories is available at
 [Notes On Risk](https://wiki.egi.eu/wiki/SVG:Notes_On_Risk)

@@ -1,7 +1,10 @@
 ---
 title: SVG:Advisories-SVG-2011-2013
-permalink: ./SVG:Advisories-SVG-2011-2013/
 ---
+
+## Advisories from 2011 to 2013
+
+Recent [Advisories](./README.md)
 
 EGI SVG primarily issues advisories concerning gLite Middleware.
 
@@ -10,8 +13,6 @@ CSIRT also issues general alerts at
 
 A guide to the risk categories is available at
 [Notes On Risk](https://wiki.egi.eu/wiki/SVG:Notes_On_Risk)
-
-Recent [Advisories](./index.md)
 
 | Date       | Title                                                                                             | Contents/Link                                                  | Risk     | Status    |
 | ---------- | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | -------- | --------- |

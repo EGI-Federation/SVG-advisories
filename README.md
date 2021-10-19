@@ -1,4 +1,4 @@
-# EGI SVG advisories
+## EGI SVG advisories
 
 All advisories which are disclosed publicly by
 [EGI SVG](https://ims.egi.eu/display/EGIBG/SVG) are placed on this website.
@@ -13,6 +13,8 @@ A guide to the risk categories is available at
 SVG also provides information that may be useful to various sites concerning the
 various
 [SVG Speculative execution vulnerabilities](https://wiki.egi.eu/wiki/SVG:Speculative_Execution_Vulnerabilities)
+
+## Current advisories
 
 | Date                                                               | Title                                                                                      | Contents/Link                                                            | Risk           | Status |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------ | -------------- | ------ |
@@ -40,25 +42,18 @@ Note that SVG is currently working on how to better cope with reducing
 homogeneity of the infrastructure and handle vulnerabilities related to the
 EOSC-hub services.
 
-Earlier Advisories: [Advisories from 2020](./SVG:Advisories-SVG-2020.md)
+## Earlier advisories
 
-Earlier Advisories: [Advisories from 2019](./SVG:Advisories-SVG-2019.md)
-
-Earlier Advisories: [Advisories from 2018](./SVG:Advisories-SVG-2018.md)
-
-Earlier Advisories: [Advisories from 2017](./SVG:Advisories-SVG-2017.md)
-
-Earlier Advisories: [Advisories from 2016](./SVG:Advisories-SVG-2016.md)
-
-Earlier Advisories:
-[Advisories from 2014 and 2015](./SVG:Advisories-SVG-2014-2015.md)
+- [Advisories from 2020](./SVG:Advisories-SVG-2020.md)
+- [Advisories from 2019](./SVG:Advisories-SVG-2019.md)
+- [Advisories from 2018](./SVG:Advisories-SVG-2018.md)
+- [Advisories from 2017](./SVG:Advisories-SVG-2017.md)
+- [Advisories from 2016](./SVG:Advisories-SVG-2016.md)
+- [Advisories from 2014 and 2015](./SVG:Advisories-SVG-2014-2015.md)
+- [Advisories from 2011 to 2013](./SVG:Advisories-SVG-2011-2013.md)
+- Advisories from prior to 2011
+  [Gridpp Advisories Archive](https://archive.gridpp.ac.uk/gsvg/advisories/)
 
 In the past (up to the end of 2015) CSIRT also issued general alerts at
 [EGI_CSIRT:Alerts](https://wiki.egi.eu/wiki/EGI_CSIRT:Alerts) and EGI SVG
 advisories primarily concerned gLite Middleware.
-
-Earlier Advisories:
-[Advisories from 2011 to 2013](./SVG:Advisories-SVG-2011-2013.md)
-
-Advisories from prior to 2011
-[Gridpp Advisories Archive](https://archive.gridpp.ac.uk/gsvg/advisories/)
