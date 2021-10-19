@@ -113,7 +113,8 @@ Comments
 
 Comments or questions should be sent to svg-rat  at  mailman.egi.eu
 
-If you find or become aware of another vulnerability which is relevant to EGI you may
+If you find or become aware of another vulnerability which is relevant to EGI
+you may
 
 report it by e-mail to
 
