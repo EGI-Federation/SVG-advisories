@@ -1,7 +1,12 @@
+---
+site.title: "EGI SVG Advisories"
+site.description: "EGI Security Vulnerability Group (SVG) advisories"
+
 # Using default theme
 # See https://pages.github.com/themes/ for more themes
 # theme: jekyll-theme-hacker
 # https://github.com/pages-themes/primer
 remote_theme: pages-themes/primer@v0.6.0
+
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
