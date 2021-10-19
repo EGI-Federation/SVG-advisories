@@ -14,8 +14,8 @@ CSIRT also issues general alerts at
 A guide to the risk categories is available at
 [Notes On Risk](https://wiki.egi.eu/wiki/SVG:Notes_On_Risk)
 
-| Date       | Title                                                                                             | Contents/Link                                                  | Risk     | Status    |
-| ---------- | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | -------- | --------- |
+| Date       | Title                                                                                             | Contents/Link                                              | Risk     | Status    |
+| ---------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | -------- | --------- |
 | 2013-10-25 | Globus GSI-OpenSSH vulnerability                                                                  | [Advisory-SVG-2013-5168](./2013/Advisory-SVG-2013-5168.md) | Moderate | Fixed     |
 | 2013-10-25 | BDII Password access vulnerability                                                                | [Advisory-SVG-2013-5266](./2013/Advisory-SVG-2013-5266.md) | Moderate | Fixed     |
 | 2013-09-26 | CVMFS root exploit                                                                                | [Advisory-SVG-2013-5890](./2013/Advisory-SVG-2013-5890.md) | Critical | Fixed     |

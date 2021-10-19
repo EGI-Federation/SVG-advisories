@@ -12,8 +12,8 @@ Earlier Advisories:
 Earlier Advisories:
 [Advisories from 2011 to 2013](./Advisories-SVG-2011-2013.md)
 
-| Date                                      | Title                                                                               | Contents/Link                                                                    | Risk          | Status         |
-| ----------------------------------------- | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------- | -------------- |
+| Date                                      | Title                                                                               | Contents/Link                                                                | Risk          | Status         |
+| ----------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ------------- | -------------- |
 | 2016-12-20                                | Linux kernel's IPv6 implementation - mishandled socket options                      | [Advisory-SVG-CVE-2016-3841](./2016/Advisory-SVG-CVE-2016-3841.md)           | High          | Fixed          |
 | 2016-11-10 updated 2016-12-14, 2017-01-13 | Linux kernel vulnerability                                                          | [Advisory-SVG-CVE-2016-7117](./2016/Advisory-SVG-CVE-2016-7117.md)           | High          | Heads up       |
 | 2016-12-06                                | HIGH risk vulnerabilities concerning Xen                                            | [Advisory-SVG-CVE-2016-9379](./2016/Advisory-SVG-CVE-2016-9379.md)           | High          | Fixed          |

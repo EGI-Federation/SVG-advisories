@@ -17,8 +17,8 @@ various
 
 ## Current advisories
 
-| Date                                                               | Title                                                                                      | Contents/Link                                                            | Risk           | Status |
-| ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------ | -------------- | ------ |
+| Date                                                               | Title                                                                                      | Contents/Link                                                        | Risk           | Status |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- | -------------- | ------ |
 | 2021-07-22, updated 2021-07-28, 2021-08-26, 2021-10-06             | Sequoia Privilege escalation in Linux file system CVE-2021-33909                           | [Advisory-SVG-CVE-2021-33909](./2021/Advisory-SVG-CVE-2021-33909.md) | CRITICAL       | Fixed  |
 | 2021-07-28, updated 2021-08-12, 2021-08-18, 2021-09-01, 2021-10-06 | Linux kernel vulnerability affecting RHEL/CentOS 8 and derivatives - CVE-2021-22555        | [Advisory-SVG-CVE-2021-22555](./2021/Advisory-SVG-CVE-2021-22555.md) | CRITICAL       | Fixed  |
 | 2021-08-17, updated 2021-09-07                                     | Remote Code execution in JupyterLab and Jupyter Notebook CVE-2021–32797 and CVE-2021–32798 | [Advisory-SVG-CVE-2021-32798](./2021/Advisory-SVG-CVE-2021-32798.md) | Up to CRITICAL | Fixed  |

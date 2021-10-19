@@ -6,8 +6,8 @@ title: SVG:Advisories-SVG-2017
 
 Recent [Advisories](./README.md)
 
-| Date                                      | Title                                                                     | Contents/Link                                                                | Risk           | Status  |
-| ----------------------------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------------- | ------- |
+| Date                                      | Title                                                                     | Contents/Link                                                            | Risk           | Status  |
+| ----------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------ | -------------- | ------- |
 | 2017-12-07                                | Various Intel Vulnerabilities                                             | [Advisory-SVG-CVE-2017-5712](./2017/Advisory-SVG-CVE-2017-5712.md)       | (Alert)        | Fixed   |
 | 2017-11-02                                | SLURM privilege escalation vulnerability                                  | [Advisory-SVG-CVE-2017-15566](./2017/Advisory-SVG-CVE-2017-15566.md)     | Critical       | Fixed   |
 | 2017-11-02                                | Tomcat remote execution vulnerability in non-standard configurations      | [Advisory-SVG-CVE-2017-12615](./2017/Advisory-SVG-CVE-2017-12615.md)     | (Alert)        | Fixed   |

@@ -16,11 +16,10 @@ various
 This may be useful to sites in conjunction with the
 advisories[Advisory-SVG-CVE-2017-5753](./2017/Advisory-SVG-CVE-2017-5753.md),
 [Advisory-SVG-CVE-2018-3639](./2018/Advisory-SVG-CVE-2018-3639.md), and
-[Advisory-SVG-CVE-2018-3620](./2018/Advisory-SVG-CVE-2018-3620.md)
-from 2018.
+[Advisory-SVG-CVE-2018-3620](./2018/Advisory-SVG-CVE-2018-3620.md) from 2018.
 
-| Date                                      | Title                                                                         | Contents/Link                                                            | Risk           | Status   |
-| ----------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------ | -------------- | -------- |
+| Date                                      | Title                                                                         | Contents/Link                                                        | Risk           | Status   |
+| ----------------------------------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------- | -------- |
 | 2019-12-19 updated 2020-02-10             | Singularity File Permission Vulnerability                                     | [Advisory-SVG-CVE-2019-19724](./2019/Advisory-SVG-CVE-2019-19724.md) |                | Fixed    |
 | 2019-11-11 updated 2019-12-09             | dCache xrootd protocol implementation vulnerability                           | [Advisory-SVG-2019-16022](./2019/Advisory-SVG-2019-16022.md)         | Low            | Fixed    |
 | 2019-11-13 updated 2019-12-02             | Vulnerabilities in Squid CVE-2019-12526, CVE-2019-12523 and others            | [Advisory-SVG-CVE-2019-12526](./2019/Advisory-SVG-CVE-2019-12526.md) | High           | Fixed    |

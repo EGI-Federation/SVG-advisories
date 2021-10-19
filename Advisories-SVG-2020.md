@@ -9,8 +9,8 @@ Recent [Advisories](./README.md)
 A guide to the risk categories is available at
 [Notes On Risk](https://wiki.egi.eu/wiki/SVG:Notes_On_Risk)
 
-| Date                                                  | Title                                                                     | Contents/Link                                                            | Risk           | Status         |
-| ----------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------ | -------------- | -------------- |
+| Date                                                  | Title                                                                     | Contents/Link                                                        | Risk           | Status         |
+| ----------------------------------------------------- | ------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------- | -------------- |
 | 2020-09-22 updated 2020-10-22                         | Privilege escalation vulnerability in recent kernels (e.g. RHEL/CentOS 8) | [Advisory-SVG-CVE-2020-14386](./2020/Advisory-SVG-CVE-2020-14386.md) | High           | Fixed          |
 | 2020-10-20                                            | Singularity - file overwrite vulnerability                                | [Advisory-SVG-CVE-2020-15229](./2020/Advisory-SVG-CVE-2020-15229.md) |                | Fixed          |
 | 2020-09-16                                            | Cache Poisoning Squid Vulnerabilities                                     | [Advisory-SVG-2020-16840](./2020/Advisory-SVG-2020-16840.md)         | Moderate       | Fixed          |

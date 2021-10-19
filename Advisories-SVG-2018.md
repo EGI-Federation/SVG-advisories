@@ -18,8 +18,8 @@ advisories[Advisory-SVG-CVE-2017-5753](./2017/Advisory-SVG-CVE-2017-5753.md),
 [Advisory-SVG-CVE-2018-3639](./2018/Advisory-SVG-CVE-2018-3639.md), and
 [Advisory-SVG-CVE-2018-3620](./2018/Advisory-SVG-CVE-2018-3620.md) below.
 
-| Date                                       | Title                                                                                             | Contents/Link                                                                | Risk           | Status  |
-| ------------------------------------------ | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------------- | ------- |
+| Date                                       | Title                                                                                             | Contents/Link                                                            | Risk           | Status  |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | -------------- | ------- |
 | 2018-12-13 updated 2019-01-03              | Vulnerability in Singularity on CentOS/EL7                                                        | [Advisory-SVG-CVE-2018-19295](./2018/Advisory-SVG-CVE-2018-19295.md)     | Critical       | Fixed   |
 | 2018-12-19                                 | VMware integer overflow vulnerability                                                             | [Advisory-SVG-CVE-2018-6983](./2018/Advisory-SVG-CVE-2018-6983.md)       | Alert          | Fixed   |
 | 2018-12-14                                 | Remote authenticated DoS on CREAM-CE                                                              | [Advisory-SVG-2017-12435](./2017/Advisory-SVG-2017-12435.md)             | Low            | Fixed   |
