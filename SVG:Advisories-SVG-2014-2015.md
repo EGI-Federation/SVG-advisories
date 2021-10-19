@@ -10,7 +10,7 @@ Up to November 2015 CSIRT also issued general alerts at
 issued on the SVG wiki.
 
 A guide to the risk categories is available at
-[Notes On Risk](./SVG:Notes_On_Risk.md)
+[Notes On Risk](https://wiki.egi.eu/wiki/SVG:Notes_On_Risk)
 
 Recent [Advisories](./index.md)
 
