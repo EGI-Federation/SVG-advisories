@@ -57,9 +57,9 @@ distributions, where it's present as a kernel module, this can be achieved by
 either:
 - Adding a modprobe configuration file to disable dccp by running:
 
-```
-echo "install dccp /bin/true" >> /etc/modprobe.d/CVE-2017-6074.conf
-```
+    ```
+    echo "install dccp /bin/true" >> /etc/modprobe.d/CVE-2017-6074.conf
+    ```
 
 - Removing all DCCP kernel modules from /lib/modules
 
