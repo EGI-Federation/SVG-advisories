@@ -1,0 +1,25 @@
+---
+name: Check links
+
+on: [push]
+
+jobs:
+  markdown-link-check:
+    name: Check links using markdown-link-check
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checks out a copy of your repository on the ubuntu-latest machine
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          # Full git history needed to get proper list of changed files
+          fetch-depth: 0
+
+      - name: Check links on new changes
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          check-modified-files-only: "no"
+          use-quiet-mode: "yes"
+          use-verbose-mode: "yes"
+          base-branch: "main"
