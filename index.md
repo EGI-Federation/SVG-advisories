@@ -1,6 +1,7 @@
-# SVG:Advisories
+# EGI SVG advisories
 
-All advisories which are disclosed publicly by SVG are placed on this website.
+All advisories which are disclosed publicly by
+[EGI SVG](https://ims.egi.eu/display/EGIBG/SVG) are placed on this website.
 
 All advisories which are disclosed publicly by SVG are subject to the Creative
 commons licence [CC-BY 4.0.](https://creativecommons.org/licenses/by/4.0/)
