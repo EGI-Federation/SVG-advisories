@@ -15,7 +15,7 @@ take action.
 
 As it is now past the TD, SVG is making it public.
 
-Title: World writable directory in vdt_globus_data_server RPM
+Title: World writeable directory in vdt_globus_data_server RPM
 Date:     28th October 2010
 Updated : 9th January 2012
 URL:      https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2010-457
@@ -30,7 +30,7 @@ Affected sites are likely to have already taken action.
 
 Original from CSIRT on 28th October 2010:
 
-When the vdt_globus_data_server RPM is installed a world writable directory is
+When the vdt_globus_data_server RPM is installed a world writeable directory is
 created.
 
 The EGI CSIRT team recommends that affected sites carry out the mitigation
@@ -126,10 +126,11 @@ This vulnerability was reported by Jan Iven from CERN
 
 Timeline
 ========
+
 Yyyy-mm-dd
 
 2010-10-21 Vulnerability reported by Jan Iven from CERN
-2010-10-21 Acknowlegement from the EGI SVG to the reporter
+2010-10-21 Acknowledgement from the EGI SVG to the reporter
 2010-10-28 CSIRT issued advisory to affected sites.
 2012-01-09 Public disclosure as past TD.
 ```
