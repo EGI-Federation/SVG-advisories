@@ -4,17 +4,18 @@ permalink: /SVG:Advisory-EGI-SVG-2021-17247/
 ---
 
 ```
+Title:   EGI SVG 'ADVISORY' **UPDATE** [TLP:WHITE] HIGH risk - Squid
+         Vulnerability  [EGI-SVG-2021-17247]
 
-Title:       EGI SVG 'ADVISORY' **UPDATE** [TLP:WHITE] HIGH risk - Squid Vulnerability  [EGI-SVG-2021-17247]
-
-Date:        2021-05-12
-Updated:     2021-06-03
+Date:    2021-05-12
+Updated: 2021-06-03
 
 
 Update 2021-06-03
 =================
 
-EGI UMD 4 has been updated with frontier-squid-4.15-1.2 that fixes the vulnerability.
+EGI UMD 4 has been updated with frontier-squid-4.15-1.2 that fixes the
+vulnerability.
 
 
 Affected software and risk
@@ -24,20 +25,26 @@ HIGH risk vulnerability concerning Squid
 
 Package : Squid, including Frontier Squid [R 3] before version 4.15
 
-The Squid project has publicly announced [R 1] new vulnerabilities, one of which is deemed HIGH risk, viz. CVE-2020-25097 [R 2], because it may allow services to be exposed that are not directly accessible from the client host. The other ones only concern potential denial of service and hence are deemed low risk.
+The Squid project has publicly announced [R 1] new vulnerabilities, one of
+which is deemed HIGH risk, viz. CVE-2020-25097 [R 2], because it may allow
+services to be exposed that are not directly accessible from the client host.
+The other ones only concern potential denial of service and hence are deemed
+low risk.
 
 
 Actions required/recommended
 ============================
 
-Sites are recommended to update relevant components or apply the mitigation detailed below as soon as possible.
+Sites are recommended to update relevant components or apply the mitigation
+detailed below as soon as possible.
 
 
 Component installation information
 ==================================
 
-The official repository for the distribution of grid middleware for EGI sites is
-repository.egi.eu which contains the EGI Unified Middleware Distribution (UMD).
+The official repository for the distribution of grid middleware for EGI sites
+is repository.egi.eu which contains the EGI Unified Middleware Distribution
+(UMD).
 
 Sites using frontier-squid from the EGI UMD 4 should see:
 
@@ -46,9 +53,11 @@ Sites using frontier-squid from the EGI UMD 4 should see:
 The fixed version is frontier-squid-4.15-1.2.
 
 
-Sites installing Squid from anywhere else should see information from their provider.
+Sites installing Squid from anywhere else should see information from their
+provider.
 
-Fixed versions (squid-3.5.20-17.el7_9.6) are available for RHEL 7 [R 5], CentOS 7 [R 6], SL 7 [R 7].
+Fixed versions (squid-3.5.20-17.el7_9.6) are available for RHEL 7 [R 5], CentOS
+7 [R 6], SL 7 [R 7].
 
 
 Mitigation
@@ -57,13 +66,15 @@ Mitigation
 For sites that cannot upgrade in a timely manner, temporary workarounds for the
 high-risk vulnerability are provided here.
 
-If frontier-squid is used, update customize.sh with the following line and either reload or restart frontier-squid:
+If frontier-squid is used, update customize.sh with the following line and
+either reload or restart frontier-squid:
 
     setoption("uri_whitespace", "deny")
 
 
 
-If a plain squid is used instead, set the "uri_whitespace" directive in squid.conf to either:
+If a plain squid is used instead, set the "uri_whitespace" directive in
+squid.conf to either:
 
     uri_whitespace deny
 
@@ -83,14 +94,15 @@ All versions of squid and frontier-squid earlier than 4.15 are affected.
 Additional information
 ======================
 
-Note that exposure of squid services should usually be limited by access control to addresses within a local area network.
+Note that exposure of squid services should usually be limited by access
+control to addresses within a local area network.
 
 
 TLP and URL
 ===========
 
 ** WHITE information - Unlimited distribution
-   - see https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions***
+ - see https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions **
 
 URL:   https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2021-17247
 
@@ -102,13 +114,16 @@ Comments
 
 Comments or questions should be sent to svg-rat  at  mailman.egi.eu
 
-If you find or become aware of another vulnerability which is relevant to EGI you may report it by e-mail to
+If you find or become aware of another vulnerability which is relevant to EGI
+you may report it by e-mail to
 
 report-vulnerability at egi.eu
 
-the EGI Software Vulnerability Group will take a look according to the procedure defined in [R 4]
+the EGI Software Vulnerability Group will take a look according to the
+procedure defined in [R 4]
 
-Note that this is undergoing revision to fully handle vulnerabilities in the EOSC-hub era.
+Note that this is undergoing revision to fully handle vulnerabilities in the
+EOSC-hub era.
 
 
 References
@@ -134,7 +149,8 @@ Credit
 
 SVG was alerted to this vulnerability by Dave Dykstra.
 
-Information on these vulnerabilities contained in this advisory is based on the corresponding OSG advisory for these vulnerabilities.
+Information on these vulnerabilities contained in this advisory is based on the
+corresponding OSG advisory for these vulnerabilities.
 
 
 Timeline
@@ -153,16 +169,25 @@ Yyyy-mm-dd  [EGI-SVG-2021-17247]
 Context
 =======
 
-This advisory has been prepared as part of the effort to fulfil EGI SVG's purpose
-"To minimize the risk to the EGI infrastructure arising from software vulnerabilities"
+This advisory has been prepared as part of the effort to fulfil EGI SVG's
+purpose "To minimize the risk to the EGI infrastructure arising from software
+vulnerabilities"
 
-The risk is that assessed by the group, according to the EGI SVG issue handling procedure [R 4]  in the context of how the software is used in the EGI infrastructure. It is the opinion of the group, we do not guarantee it to be correct. The risk may also be higher or lower in other deployments depending on how the software is used.
+The risk is that assessed by the group, according to the EGI SVG issue handling
+procedure [R 4]  in the context of how the software is used in the EGI
+infrastructure. It is the opinion of the group, we do not guarantee it to be
+correct. The risk may also be higher or lower in other deployments depending on
+how the software is used.
 
 -----------------------------
-This advisory is subject to the Creative commons license https://creativecommons.org/licenses/by/4.0/ and the EGI https://www.egi.eu/ Software Vulnerability Group must be credited.
+This advisory is subject to the Creative commons license
+https://creativecommons.org/licenses/by/4.0/ and the EGI https://www.egi.eu/
+Software Vulnerability Group must be credited.
 -----------------------------
 
-Note that the SVG issue handling procedure is currently under review, to take account of the increasing inhomogeneity of the EGI infrastructure and the services in the EOSC-hub catalogue.
+Note that the SVG issue handling procedure is currently under review, to take
+account of the increasing inhomogeneity of the EGI infrastructure and the
+services in the EOSC-hub catalogue.
 
 On behalf of the EGI SVG,
 ```
