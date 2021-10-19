@@ -92,10 +92,10 @@ PermitPAMUserChange feature is disabled by default and must be explicitly
 enabled by the system administrator.  It is used primarily with MEG (MyProxy
 Enabled GSISSHD) [3].
 
-The PermitPAMUserChange feature allows users to log in to a system using a username that
-need not correspond to a local system account, provided that PAM accepts the username,
-authenticates the user, and then maps the user to an existing local system account via
-PAM_USER.
+The PermitPAMUserChange feature allows users to log in to a system using a
+username that need not correspond to a local system account, provided that PAM
+accepts the username, authenticates the user, and then maps the user to an
+existing local system account via PAM_USER.
 The memory management bug can cause the authenticated user to be mapped to an
 account different than PAM_USER.
 
