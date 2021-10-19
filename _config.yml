@@ -1,7 +1,6 @@
 ---
-site:
-  - title: "EGI SVG Advisories"
-  - description: "EGI Security Vulnerability Group (SVG) advisories"
+title: "EGI SVG Advisories"
+description: "EGI Security Vulnerability Group (SVG) advisories"
 
 # Using default theme
 # See https://pages.github.com/themes/ for more themes
