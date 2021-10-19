@@ -57,7 +57,7 @@ In the past (up to the end of 2015) CSIRT also issued general alerts at
 advisories primarily concerned gLite Middleware.
 
 Earlier Advisories:
-[Advisories from 2011 to 2013](./SVG:Advisories-SVG-2011-2013)
+[Advisories from 2011 to 2013](./SVG:Advisories-SVG-2011-2013.md)
 
 Advisories from prior to 2011
 [Gridpp Advisories Archive](https://archive.gridpp.ac.uk/gsvg/advisories/)
