@@ -4,22 +4,24 @@ permalink: /SVG:Advisory-SVG-2016-11288/
 ---
 
 ```
+Title:   EGI SVG Advisory [TLP:AMBER] 'MODERATE' risk dCache READONLY and non-/
+         user root not enforced [EGI-SVG-2016-11288]
 
-Title:       EGI SVG Advisory [TLP:AMBER] 'MODERATE' risk dCache READONLY and non-/ user root not enforced [EGI-SVG-2016-11288]
-
-Date:        2016-06-28
-Updated:     2016-07-12
+Date:    2016-06-28
+Updated: 2016-07-12
 
 Affected software and risk
 ==========================
 
-MODERATE risk vulnerability concerning dCache READONLY and non-/ user root not enforced.
+MODERATE risk vulnerability concerning dCache READONLY and non-/ user root not
+enforced.
 
 Package : dCache
 
-A regression introduced with dCache v2.15 resulted in some access configured to be 'read-only'
-not being honoured. The problem is worse with dCache v2.16 as, in addition, non-default users'
-root directory (i.e., other than "/") are not always honoured.
+A regression introduced with dCache v2.15 resulted in some access configured to
+be 'read-only' not being honoured. The problem is worse with dCache v2.16 as,
+in addition, non-default users' root directory (i.e., other than "/") are not
+always honoured.
 
 This affects some versions of dCache available from the dCache site only.
 
@@ -28,10 +30,12 @@ Note that versions in EGI UMD-3 and EGI UMD-4 are not affected.
 Actions required/recommended
 ============================
 
-Sites which install dCache directly from the dCache site are recommended to check whether they have a
-vulnerable version installed and to update relevant components if necessary.
+Sites which install dCache directly from the dCache site are recommended to
+check whether they have a vulnerable version installed and to update relevant
+components if necessary.
 
-Sites installing dCache from EGI UMD-3 and EGI UMD-4 do not need to take any action.
+Sites installing dCache from EGI UMD-3 and EGI UMD-4 do not need to take any
+action.
 
 Affected software details
 =========================
@@ -120,13 +124,15 @@ Mitigation:
 Component installation information
 ==================================
 
-See the dCache site - only versions installed from the dCache site are vulnerable.
+See the dCache site - only versions installed from the dCache site are
+vulnerable.
 
 https://www.dcache.org/downloads/IAgree.shtml
 
 
-The official repository for the distribution of grid middleware for EGI sites is
-repository.egi.eu which contains the EGI Unified Middleware Distribution (UMD).
+The official repository for the distribution of grid middleware for EGI sites
+is repository.egi.eu which contains the EGI Unified Middleware Distribution
+(UMD).
 
 Note that versions in the EGI UMD are not vulnerable.
 
@@ -142,7 +148,8 @@ http://repository.egi.eu/category/umd_releases/distribution/umd-3/
 TLP and URL
 ===========
 
-** AMBER information - Limited distribution - see https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions***
+** AMBER information - Limited distribution - see
+https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions **
 
 This advisory will be placed on the wiki on or after 2016-07-12
 
@@ -160,7 +167,8 @@ Comments
 
 Comments or questions should be sent to svg-rat  at  mailman.egi.eu
 
-If you find or become aware of a vulnerability which is relevant to EGI you may report it by e-mail to
+If you find or become aware of a vulnerability which is relevant to EGI you may
+report it by e-mail to
 
 report-vulnerability at egi.eu
 
@@ -174,7 +182,8 @@ Yyyy-mm-dd  [EGI-SVG-2016-11288]
 2016-06-27 SVG alerted to this issue by Paul Millar from the dCache team
 2016-06-27 Acknowledgement from the EGI SVG to the reporter
 2016-06-28 EGI SVG Risk Assessment completed
-2016-06-28 Assessment by the EGI Software Vulnerability Group reported to the software providers
+2016-06-28 Assessment by the EGI Software Vulnerability Group reported to the
+           software providers
 2016-06-28 Updated packages available at the dCache site
 2016-06-28 Advisory sent to sites
 2016-07-12 Public disclosure

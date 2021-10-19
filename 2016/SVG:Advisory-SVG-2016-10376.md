@@ -4,35 +4,35 @@ permalink: /SVG:Advisory-SVG-2016-10376/
 ---
 
 ```
+Title:   EGI SVG Advisory 'HIGH' risk CVE-2016-0728 Linux Kernel vulnerability
+         [EGI-SVG-2016-10376]
 
-Title:       EGI SVG Advisory 'HIGH' risk CVE-2016-0728 Linux Kernel vulnerability [EGI-SVG-2016-10376]
-
-Date:        2016-02-03
+Date:    2016-02-03
 Updated:
 
 ** WHITE information - Unlimited distribution allowed                       **
-
 ** see https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions **
 
 Affected Software and Risk
 ==========================
 
 'High' risk vulnerability CVE-2016-0728 concerning some linux kernel versions.
-This includes Redhat 7 based kernels, CentOS Linux 7 and Scientific Linux 7, Debian and
-Ubuntu.
+This includes Redhat 7 based kernels, CentOS Linux 7 and Scientific Linux 7,
+Debian and Ubuntu.
 
 RedHat 6, RedHat 5, and derivatives are not affected.
 
 Actions Required/Recommended
 ============================
 
-Sites running vulnerable versions should apply vendor kernel updates as soon as possible.
+Sites running vulnerable versions should apply vendor kernel updates as soon as
+possible.
 
 More information
 ================
 
-This advisory is being issued because CVE-2016-0728 [R 1] Linux Kernel Vulnerability is
-considered 'High' risk in EGI for vulnerable systems.
+This advisory is being issued because CVE-2016-0728 [R 1] Linux Kernel
+Vulnerability is considered 'High' risk in EGI for vulnerable systems.
 
 Info on this vulnerability is provided by the  [R 1], [R 2] and [R 3]
 
@@ -81,7 +81,8 @@ Credit
 
 SVG was alerted to this vulnerability by Ian Neilson who is a member of SVG.
 
-Vincent Brillault able to demonstrate local exploit using a Redhat 7 based kernel, but did not obtain root.
+Vincent Brillault able to demonstrate local exploit using a Redhat 7 based
+kernel, but did not obtain root.
 
 
 References
@@ -108,14 +109,16 @@ Comments
 
 Comments or questions should be sent to svg-rat  at  mailman.egi.eu
 
-We are working on improving the advisory template/layout and comments are welcome
+We are working on improving the advisory template/layout and comments are
+welcome
 
 Timeline
 ========
 Yyyy-mm-dd  [EGI-SVG-2016-10376]
 
 2016-01-19 SVG alerted to this issue by Ian Neilson
-2016-01-21 Investigation of vulnerability and relevance to EGI carried out by SVG
+2016-01-21 Investigation of vulnerability and relevance to EGI carried out by
+           SVG
 2016-01-26 Updated packages available for RedHat, SL, CentOS.
 2016-01---, 2016-02-01  discussions on risk in EGI.
 2016-02-03 Advisory/Alert sent to sites

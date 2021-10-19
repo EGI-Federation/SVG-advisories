@@ -4,11 +4,10 @@ permalink: /SVG:Advisory-SVG-2016-11363/
 ---
 
 ```
+Title:   EGI SVG Advisory [TLP:WHITE] 'Moderate' risk Two Perfsonar
+         Vulnerabilities announced by the Perfsonar team [EGI-SVG-2016-11363]
 
-Title:       EGI SVG Advisory [TLP:WHITE] 'Moderate' risk Two Perfsonar
-Vulnerabilities announced by the Perfsonar team [EGI-SVG-2016-11363]
-
-Date:        2016-07-15
+Date:    2016-07-15
 Updated:
 
 
@@ -19,8 +18,9 @@ Affected software and risk
 
 Package : Perfsonar
 
-One vulnerability concerns remote unauthenticated file access, the other concerns
- privilege escalation.  In this case has been assessed as 'Moderate' risk.
+One vulnerability concerns remote unauthenticated file access, the other
+concerns privilege escalation.  In this case has been assessed as 'Moderate'
+risk.
 
 Actions required/recommended
 ============================
@@ -43,30 +43,34 @@ More information
 
 Information on this vulnerability is public.
 
-It is considered that the information exposed is not especially sensitive, hence a lower risk
-than would be expected is assigned to this issue allowing unauthenticated file access than would
-normally be the case.
+It is considered that the information exposed is not especially sensitive,
+hence a lower risk than would be expected is assigned to this issue allowing
+unauthenticated file access than would normally be the case.
 
 
 As announced by Perfsonar:
 
-Updated perfSONAR packages were published this morning to address security concerns. A special
-thanks to Luke Young for taking the time to find, document and provide a few patches for the items
-detailed below.  The updates address the following issues:
+Updated perfSONAR packages were published this morning to address security
+concerns. A special thanks to Luke Young for taking the time to find, document
+and provide a few patches for the items detailed below.  The updates address
+the following issues:
 
-1.It was possible to generate a carefully crafted SOAP message that goes to the OPPD service that would
-allow an unauthenticated user to read arbitrary files from the filesystem as the 'perfsonar' user.
-This was done by exploiting a feature of LibXML that processes external entities. The ability to do so
- has since been disabled.
+1.It was possible to generate a carefully crafted SOAP message that goes to the
+OPPD service that would allow an unauthenticated user to read arbitrary files
+from the filesystem as the 'perfsonar' user.  This was done by exploiting a
+feature of LibXML that processes external entities. The ability to do so has
+since been disabled.
 
-2.The second issue allowed someone logged-in to the host via SSH as an unprivileged user to escalate to
-root privileges using a combination of the Toolkit’s ConfigManager and BWCTL’s posthook feature.
-ConfigManager did not actually need access to the BWCTL config file anymore, so access to this file
+2.The second issue allowed someone logged-in to the host via SSH as an
+unprivileged user to escalate to root privileges using a combination of the
+Toolkit’s ConfigManager and BWCTL’s posthook feature.  ConfigManager did not
+actually need access to the BWCTL config file anymore, so access to this file
 (and thus the posthook feature) has been removed.
 
-If auto-updates are enabled, the updates will install automatically. It is also possible to run
-“yum update libperfsonar* perfsonar-toolkit* perfsonar-oppd*” to get the changes manually on RedHat and
-"apt-get update && apt-get upgrade libperfsonar* perfsonar-toolkit* perfsonar-oppd*” on Debian.
+If auto-updates are enabled, the updates will install automatically. It is also
+possible to run “yum update libperfsonar* perfsonar-toolkit* perfsonar-oppd*”
+to get the changes manually on RedHat and "apt-get update && apt-get upgrade
+libperfsonar* perfsonar-toolkit* perfsonar-oppd*” on Debian.
 
 
 Mitigation
@@ -83,7 +87,8 @@ See the Perfsonar site [R 1]
 TLP and URL
 ===========
 
-** WHITE information - Unlimited distribution - see https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions***
+** WHITE information - Unlimited distribution - see
+https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions **
 
 URL:   https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2016-11363
 
@@ -104,7 +109,8 @@ Comments
 
 Comments or questions should be sent to svg-rat  at  mailman.egi.eu
 
-If you find or become aware of a vulnerability which is relevant to EGI you may report it by e-mail to
+If you find or become aware of a vulnerability which is relevant to EGI you may
+report it by e-mail to
 
 report-vulnerability at egi.eu
 
@@ -113,7 +119,8 @@ the EGI Software Vulnerability Group will take a look.
 
 Timeline
 ========
-Yyyy-mm-dd  [EGI-SVG-2016-11363]
+
+Yyyy-mm-dd
 
 2016-07-11 SVG alerted to this issue by Mischa Salle
 2016-07-11 Acknowledgement from the EGI SVG to the reporter

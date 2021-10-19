@@ -4,10 +4,10 @@ permalink: /SVG:Advisory-SVG-2016-11107/
 ---
 
 ```
+Title:   EGI SVG Advisory [TLP:WHITE] 'Moderate' Risk: XSS in DIRAC Webapp and
+         Web portal [EGI-SVG-2016-11107]
 
-Title:       EGI SVG Advisory [TLP:WHITE] 'Moderate' Risk: XSS in DIRAC Webapp and Web portal [EGI-SVG-2016-11107]
-
-Date:        2016-10-21
+Date:    2016-10-21
 Updated:
 
 
@@ -22,7 +22,8 @@ Package : DIRAC Webapp and Web portal
 Actions Required/Recommended
 ============================
 
-Sites are recommended to update relevant components, if they have not done so since
+Sites are recommended to update relevant components, if they have not done so
+since
 
 25th August 2016 when the patched version was made available.
 
@@ -35,8 +36,8 @@ Versions of DIRAC prior to v6r15 are affected.
 More information
 ================
 
-The reporter of the vulnerability stated that he was able to carry out an exploit,
-where an authenticated user could escalate their privilege.
+The reporter of the vulnerability stated that he was able to carry out an
+exploit, where an authenticated user could escalate their privilege.
 
 
 Component installation information
@@ -82,12 +83,14 @@ the EGI Software Vulnerability Group will take a look.
 
 Timeline
 ========
+
 Yyyy-mm-dd  [EGI-SVG-2016-11107]
 
 2016-05-17 Vulnerability reported by Simon Fayer who is a member of SVG.
 2016-05-17 Software providers responded and involved in investigation
 2016-05-18 EGI SVG Risk Assessment completed - discussed at SVG meeting.
-2016-05-19 Assessment by the EGI Software Vulnerability Group reported to the software providers
+2016-05-19 Assessment by the EGI Software Vulnerability Group reported to the
+           software providers
 2016-08-08 Updated packages available on the DIRAC website
 2016-10-18 SVG asked whether it has been fixed, confirmed that it was
 2016-10-21 Advisory/Alert sent to sites

@@ -4,10 +4,10 @@ permalink: /SVG:Advisory-SVG-2016-10837/
 ---
 
 ```
+Title:   EGI SVG Advisory [TLP:WHITE] 'High' risk Configuration issue
+         concerning dCache [EGI-SVG-2016-10837]
 
-Title:       EGI SVG Advisory [TLP:WHITE] 'High' risk Configuration issue concerning dCache [EGI-SVG-2016-10837]
-
-Date:        2016-05-25
+Date:    2016-05-25
 Updated:
 
 Affected Software and Risk
@@ -20,14 +20,16 @@ Package :dCache
 Actions Required/Recommended
 ============================
 
-Sites running dCache should check the configuration of the firewalls against information in [R 1]
-and modify if necessary.  Sites may also follow the instructions below.
+Sites running dCache should check the configuration of the firewalls against
+information in [R 1] and modify if necessary.  Sites may also follow the
+instructions below.
 
 Affected software Details.
 ==========================
 
-This is not a software vulnerability, but some sites running dCache have been found to have an insecure
-configuration (and have already been informed) but we recommend that all sites running dCache check.
+This is not a software vulnerability, but some sites running dCache have been
+found to have an insecure configuration (and have already been informed) but we
+recommend that all sites running dCache check.
 
 A badly configured site could allow the execution of arbitrary commands.
 
@@ -39,28 +41,31 @@ N/A
 TLP and URL
 ===========
 
-** WHITE information - Unlimited distribution                                 **
+** WHITE information - Unlimited distribution                               **
 ** See https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions **
 
 URL:   https://wiki.egi.eu/wiki/SVG:Advisory-SVG-2016-10837
 
 Minor updates may be made without re-distribution to the sites
 
-If you find or become aware of a vulnerability which is relevant to EGI you may report it by e-mail to
+If you find or become aware of a vulnerability which is relevant to EGI you may
+report it by e-mail to
 
 report-vulnerability at egi.eu
 
 the EGI Software Vulnerability Group will take a look.
 
 
-Full description and instructions provided by dCache ====================================================
+Full description and instructions provided by dCache
+====================================================
 
 Executive summary:
 
-Sites that have not correctly configured a server-local firewall restricting UDP and TCP port 11111 traffic
-on the server hosting dCacheDomain are allowing an attacker to execute arbitrary commands within the dCache
-cluster (e.g., delete all data) and, by extension, run arbitrary shell commands on any server within the dCache
-cluster, as whichever user dCache is running under.
+Sites that have not correctly configured a server-local firewall restricting
+UDP and TCP port 11111 traffic on the server hosting dCacheDomain are allowing
+an attacker to execute arbitrary commands within the dCache cluster (e.g.,
+delete all data) and, by extension, run arbitrary shell commands on any server
+within the dCache cluster, as whichever user dCache is running under.
 
 VULNERABILITY #1
 
@@ -115,7 +120,8 @@ Test for vulnerability:
 
         paul@sparkplug:~$ echo "ls setup" | nc -u localhost 11111
         #
-        # This setup was created by the LocationManager at Mon Mar 14 10:29:36 CET 2016
+        # This setup was created by the LocationManager at Mon Mar 14 10:29:36
+        # CET 2016
         #
         define dCacheDomain
         listen dCacheDomain
@@ -248,6 +254,7 @@ Yyyy-mm-dd  [EGI-SVG-2016-10837]
 2016-04-21 EGI SVG Risk Assessment completed
 2016-      Further discussion on how to approach this.
 2016-05-09 Sites known to be vulnerable ticketed by CSIRT
-2016-05-25 All sites running dCache are recommended to check their configuration
+2016-05-25 All sites running dCache are recommended to check their
+           configuration
 2016-06-08 Advisory placed on Wiki
 ```
