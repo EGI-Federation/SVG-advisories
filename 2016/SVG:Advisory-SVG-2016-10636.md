@@ -1,6 +1,5 @@
 ---
 title: SVG:Advisory-SVG-2016-10636
-permalink: /SVG:Advisory-SVG-2016-10636/
 ---
 
 ```

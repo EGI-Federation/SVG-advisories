@@ -1,6 +1,5 @@
 ---
 title: SVG:Advisory-EGI-SVG-2021-17247
-permalink: /SVG:Advisory-EGI-SVG-2021-17247/
 ---
 
 ```

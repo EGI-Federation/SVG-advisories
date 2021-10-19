@@ -1,6 +1,5 @@
 ---
 title: SVG:Advisory-SVG-2014-6883
-permalink: /SVG:Advisory-SVG-2014-6883/
 ---
 
 This refers to the OpenSSL heartbleed vulnerability CVE-2014-0160.
