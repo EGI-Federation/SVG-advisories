@@ -22,7 +22,6 @@ jobs:
         env:
           DEFAULT_BRANCH: main
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          MARKDOWN_CONFIG_FILE: .markdownlint.json
           # Always check all the content
           VALIDATE_ALL_CODEBASE: true
           # Debug super-linter
