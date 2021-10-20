@@ -7,7 +7,7 @@ title: SVG:Advisories-SVG-2018
 Recent [Advisories](./README.md)
 
 A guide to the risk categories is available at
-[Notes On Risk](https://wiki.egi.eu/wiki/SVG:Notes_On_Risk)
+[Notes On Risk](https://confluence.egi.eu/display/EGIBG/Notes+on+Risk)
 
 SVG also provides information that may be useful to various sites concerning the
 various

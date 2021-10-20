@@ -9,7 +9,7 @@ commons licence [CC-BY 4.0.](https://creativecommons.org/licenses/by/4.0/)
 including crediting the [EGI](https://www.egi.eu/) SVG.
 
 A guide to the risk categories is available at
-[Notes On Risk](https://wiki.egi.eu/wiki/SVG:Notes_On_Risk)
+[Notes On Risk](https://confluence.egi.eu/display/EGIBG/Notes+on+Risk)
 
 SVG also provides information that may be useful to various sites concerning the
 various

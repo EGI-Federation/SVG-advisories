@@ -13,7 +13,7 @@ Up to November 2015 CSIRT also issued general alerts at
 issued on the SVG wiki.
 
 A guide to the risk categories is available at
-[Notes On Risk](https://wiki.egi.eu/wiki/SVG:Notes_On_Risk)
+[Notes On Risk](https://confluence.egi.eu/display/EGIBG/Notes+on+Risk)
 
 | Date       | Title                                                                                                                      | Contents/Link                                                                                                         | Risk       | Status |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ---------- | ------ |
