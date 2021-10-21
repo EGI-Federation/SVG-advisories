@@ -147,7 +147,7 @@ RedHat CVE info:
 
 Centos seems to be following Redhat in the revert of the microcode_ctl package,
 see
-[the disclaimer in the sources of the last package](https://git.centos.org/blob/rpms!microcode_ctl.git/c7/SOURCES!disclaimer)
+[the disclaimer in the sources of the last package](https://git.centos.org/rpms/microcode_ctl/blob/c7/f/SOURCES/06-2d-07_disclaimer)
 
 CentOS 7:
 
