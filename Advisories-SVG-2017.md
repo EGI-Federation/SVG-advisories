@@ -1,5 +1,5 @@
 ---
-title: SVG:Advisories-SVG-2017
+title: Advisories-SVG-2017
 ---
 
 ## Advisories for 2017

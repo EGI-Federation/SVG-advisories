@@ -1,5 +1,5 @@
 ---
-title: SVG:Advisories-SVG-2020
+title: Advisories-SVG-2020
 ---
 
 ## Advisories for 2020

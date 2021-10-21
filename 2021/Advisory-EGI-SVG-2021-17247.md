@@ -1,5 +1,5 @@
 ---
-title: SVG:Advisory-EGI-SVG-2021-17247
+title: Advisory-EGI-SVG-2021-17247
 ---
 
 ```

@@ -1,5 +1,5 @@
 ---
-title: SVG:Advisories-SVG-2011-2013
+title: Advisories-SVG-2011-2013
 ---
 
 ## Advisories from 2011 to 2013

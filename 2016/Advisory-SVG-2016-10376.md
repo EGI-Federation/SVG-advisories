@@ -1,5 +1,5 @@
 ---
-title: SVG:Advisory-SVG-2016-10376
+title: Advisory-SVG-2016-10376
 ---
 
 ```
