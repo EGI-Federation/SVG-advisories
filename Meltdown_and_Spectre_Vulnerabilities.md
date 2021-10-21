@@ -134,7 +134,6 @@ RedHat description:
 
 - [RedHat: speculative execution](https://access.redhat.com/security/vulnerabilities/speculativeexecution)
 - [RedHat: 3307751](https://access.redhat.com/articles/3307751)
-- [RedHat: 3315431](https://access.redhat.com/solutions/3315431)
 
 RedHat CVE info:
 
