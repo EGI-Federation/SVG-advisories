@@ -48,8 +48,10 @@ Each CVE can be mitigated via different ways:
 
 ### RedHat
 
-As of Feb 2nd 2018, RedHat has
-[offered new kernel updates that can mitigate Meltdown (CVE-2017-5754), Spectre Variant 1 (CVE-2017-5753) and Spectre Variant 2 (CVE-2017-5715)](https://access.redhat.com/security/vulnerabilities/speculativeexecution).
+As of Feb 2nd 2018, RedHat has offered new kernel updates that can mitigate
+Meltdown (CVE-2017-5754), Spectre Variant 1 (CVE-2017-5753) and Spectre Variant
+2 (CVE-2017-5715), see their page on [Speculative
+Execution]](https://access.redhat.com/security/vulnerabilities/speculativeexecution).
 
 However, due to instability issues, it has
 [removed the microcode updates required for Spectre Variant 2 (CVE-2017-5715)](https://access.redhat.com/errata/RHSA-2018:0093).
@@ -125,7 +127,7 @@ More updates and information:
 
 #### RedHat
 
-**Important! [as of 17th January]**
+> Important! [as of 17th January]
 
 RedHat has issued new microcode_ctl packages to rollback the latest updates, see
 [RHSA-2018:0093](https://access.redhat.com/errata/RHSA-2018:0093).
@@ -143,7 +145,7 @@ RedHat CVE info:
 
 #### CentOS
 
-**Important! [as of 17th January]**
+> Important! [as of 17th January]
 
 Centos seems to be following Redhat in the revert of the microcode_ctl package,
 see
@@ -180,7 +182,7 @@ See further in the centos-announce
 
 #### Scientific Linux
 
-**Important! [as of 18th January]**
+> Important! [as of 18th January]
 
 Scientific Linux is following RedHat in the revert of the microcode_ctl package,
 see
@@ -220,7 +222,7 @@ see
 
 #### Dell
 
-**Important! [as of 23rd January]**
+> Important! [as of 23rd January]
 
 Dell is advising that all customers and partners should not deploy the BIOS
 update for the Spectre vulnerability at this time due to Intel’s advisory
