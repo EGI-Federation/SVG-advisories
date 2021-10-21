@@ -13,7 +13,7 @@ A guide to the risk categories is available at
 
 SVG also provides information that may be useful to various sites concerning the
 various
-[SVG Speculative execution vulnerabilities](https://wiki.egi.eu/wiki/SVG:Speculative_Execution_Vulnerabilities)
+[SVG Speculative execution vulnerabilities](./Speculative_Execution_Vulnerabilities.md)
 
 ## Current advisories
 
