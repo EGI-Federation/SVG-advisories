@@ -228,7 +228,7 @@ acknowledging reboot issues and unpredictable system behaviour.
 
 [DELL: support for meltdown and spectre](http://www.dell.com/support/contents/uk/en/ukbsdt1/article/product-support/self-support-knowledgebase/software-and-downloads/support-for-meltdown-and-spectre)
 
-[DELL: side channel vulnerabilities](https://www.dell.com/support/article/uk/en/ukbsdt1/sln308588/microprocessor-side-channel-vulnerabilities-cve-2017-5715-cve-2017-5753-cve-2017-5754-impact-on-dell-emc-products-dell-enterprise-servers-storage-and-networking-?lang=en)
+[DELL: side channel vulnerabilities](https://www.dell.com/support/kbdoc/en-us/000178106/microprocessor-side-channel-vulnerabilities-cve-2017-5715-cve-2017-5753-cve-2017-5754-impact-on-dell-emc-servers-storage-and-networking)
 
 Note this is changing rather frequently
 
