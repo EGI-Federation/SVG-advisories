@@ -50,8 +50,8 @@ Each CVE can be mitigated via different ways:
 
 As of Feb 2nd 2018, RedHat has offered new kernel updates that can mitigate
 Meltdown (CVE-2017-5754), Spectre Variant 1 (CVE-2017-5753) and Spectre Variant
-2 (CVE-2017-5715), see their page on [Speculative
-Execution]](https://access.redhat.com/security/vulnerabilities/speculativeexecution).
+2 (CVE-2017-5715), see their page on
+[Speculative Execution](https://access.redhat.com/security/vulnerabilities/speculativeexecution).
 
 However, due to instability issues, it has
 [removed the microcode updates required for Spectre Variant 2 (CVE-2017-5715)](https://access.redhat.com/errata/RHSA-2018:0093).
