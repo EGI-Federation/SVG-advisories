@@ -2,7 +2,7 @@
 
 All advisories which are disclosed publicly by
 [EGI Software Vulnerability Group (SVG)](https://ims.egi.eu/display/EGIBG/SVG)
-are placed on this website.
+are placed on this site.
 
 All advisories which are disclosed publicly by SVG are subject to the Creative
 commons licence [CC-BY 4.0.](https://creativecommons.org/licenses/by/4.0/)
