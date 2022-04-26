@@ -1,6 +1,7 @@
 ---
 title: Advisory-SVG-CVE-XXXX-XXXX
 permalink: /Advisory-SVG-CVE-XXXX-XXXX.html
+published: false
 ---
 
 ```
