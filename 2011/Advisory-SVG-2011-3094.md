@@ -16,7 +16,7 @@ Title:        High Risk - Torque Munge Impersonation vulnerability
 Date:         2011-12-21
 Updated:      2012-01-24
 
-URL:          https://wiki.egi.eu/wiki/Advisory-SVG-2011-3094
+URL:          https://advisories.egi.eu/2011/Advisory-SVG-2011-3094
 
 
 Introduction

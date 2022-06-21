@@ -12,7 +12,7 @@ Title:       'Low' RISK - L&B servers not being checked properly
 Date:         2013-02-25
 Updated:
 
-URL:         https://wiki.egi.eu/wiki/Advisory-SVG-2011-3202
+URL:         https://advisories.egi.eu/2011/Advisory-SVG-2011-3202
 
 Introduction
 ============

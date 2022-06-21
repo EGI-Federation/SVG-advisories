@@ -12,7 +12,7 @@ Title:       'Low' RISK - gLExec - processes not properly cleaned up.
 Date:        2012-05-09
 Updated:     2012-11-15
 
-URL:         https://wiki.egi.eu/wiki/Advisory-SVG-2011-1474
+URL:         https://advisories.egi.eu/2011/Advisory-SVG-2011-1474
 
 Introduction
 ============
