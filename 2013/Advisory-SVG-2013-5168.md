@@ -15,7 +15,7 @@ Title:   EGI SVG Advisory 'Moderate' RISK  Globus GSI-OpenSSH vulnerability
 Date:    2013-10-25
 Updated: <date  yyyy-mm-dd>
 
-URL:     https://wiki.egi.eu/wiki/Advisory-SVG-2013-5168
+URL:     https://advisories.egi.eu/2013/Advisory-SVG-2013-5168
 
 Introduction
 ============

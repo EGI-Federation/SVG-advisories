@@ -14,7 +14,7 @@ Title:       CREAM Axis2 configuration file permissions [EGI-ADV-20130322]
 Date:        2013-03-22
 Updated:     2013-04-09
 
-URL:         https://wiki.egi.eu/wiki/Advisory-SVG-2013-5244
+URL:         https://advisories.egi.eu/2013/Advisory-SVG-2013-5244
 
 Introduction
 ============

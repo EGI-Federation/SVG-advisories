@@ -16,7 +16,7 @@ Updated: 2014-06-23
 Only update is to place on public wiki, as sites deploying a vulnerable version
 should have migrated away from this by now.
 
-URL:         https://wiki.egi.eu/wiki/Advisory-SVG-2013-5331
+URL:         https://advisories.egi.eu/2013/Advisory-SVG-2013-5331
 
 
 Introduction

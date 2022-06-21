@@ -14,7 +14,7 @@ Title:   *No action required* EGI SVG Advisory 'Low' RISK - CREAM DoS
 Date:    2015-08-20
 Updated:
 
-URL:     https://wiki.egi.eu/wiki/Advisory-SVG-2013-5995
+URL:     https://advisories.egi.eu/2013/Advisory-SVG-2013-5995
 
 
 Introduction

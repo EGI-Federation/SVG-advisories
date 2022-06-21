@@ -13,7 +13,7 @@ Title:   EGI SVG Advisory 'Moderate' RISK - Incorrect permission for APEL
 Date:    2013-08-17
 Updated: <date  yyyy-mm-dd>
 
-URL:     https://wiki.egi.eu/wiki/Advisory-SVG-2013-5615
+URL:     https://advisories.egi.eu/2013/Advisory-SVG-2013-5615
 
 Introduction
 ============

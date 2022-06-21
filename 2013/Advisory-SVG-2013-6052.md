@@ -14,7 +14,7 @@ Title:   EGI SVG Advisory 'Moderate' RISK - PerfSONAR web interface
 Date:    2014-08-05
 Updated:
 
-URL:     https://wiki.egi.eu/wiki/Advisory-SVG-2013-6052
+URL:     https://advisories.egi.eu/2013/Advisory-SVG-2013-6052
 
 Introduction
 ============

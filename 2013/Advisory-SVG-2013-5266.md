@@ -14,7 +14,7 @@ Title:   EGI SVG Advisory 'Moderate' RISK - BDII Password access vulnerability
 Date:    2013-09-17
 Updated: 2013-10-25
 
-URL:     https://wiki.egi.eu/wiki/Advisory-SVG-2013-5266
+URL:     https://advisories.egi.eu/2013/Advisory-SVG-2013-5266
 
 Introduction
 ============

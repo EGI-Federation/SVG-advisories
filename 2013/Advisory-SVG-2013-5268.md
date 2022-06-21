@@ -17,7 +17,7 @@ Updated:
 
 In 2 weeks this will be placed on public wiki at:
 
-URL:         https://wiki.egi.eu/wiki/Advisory-SVG-2013-5268
+URL:         https://advisories.egi.eu/2013/Advisory-SVG-2013-5268
 
 Introduction
 ============

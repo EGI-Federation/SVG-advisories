@@ -15,7 +15,7 @@ Title: EGI SVG Advisory 'Moderate' RISK - glite_wms_wmproxy_dirmanager allows
 Date:  2014-08-06
 
 
-URL:   https://wiki.egi.eu/wiki/Advisory-SVG-2013-5560
+URL:   https://advisories.egi.eu/2013/Advisory-SVG-2013-5560
 
 Introduction
 ============
