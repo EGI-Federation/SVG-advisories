@@ -15,7 +15,7 @@ Title:   EGI SVG Advisory - Up to 'High' RISK - Persistent XSS in OpenStack
 Date:    2015-06-05
 Updated:
 
-URL:     https://wiki.egi.eu/wiki/Advisory-SVG-2015-8706
+URL:     https://advisories.egi.eu/2015/Advisory-SVG-2015-8706
 
 Introduction
 ============

@@ -14,7 +14,7 @@ Title:   EGI SVG Advisory 'Low' RISK Buffer overflow vulnerability in XRootD
 Date:    2015-05-13
 Updated:
 
-URL:     https://wiki.egi.eu/wiki/Advisory-SVG-2015-8464
+URL:     https://advisories.egi.eu/2015/Advisory-SVG-2015-8464
 
 Introduction
 ============

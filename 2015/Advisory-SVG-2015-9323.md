@@ -103,7 +103,7 @@ TLP and URL
 
 ** see https://go.egi.eu/tlp for distribution restrictions **
 
-URL:         https://wiki.egi.eu/wiki/Advisory-SVG-2015-9323
+URL:         https://advisories.egi.eu/2015/Advisory-SVG-2015-9323
 
 
 

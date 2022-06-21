@@ -80,7 +80,7 @@ TLP and URL
 
 ** see https://go.egi.eu/tlp for distribution restrictions**
 
-URL:   https://wiki.egi.eu/wiki/Advisory-SVG-2015-10134
+URL:   https://advisories.egi.eu/2015/Advisory-SVG-2015-10134
 
 Minor updates may be made without re-distribution to the sites
 
