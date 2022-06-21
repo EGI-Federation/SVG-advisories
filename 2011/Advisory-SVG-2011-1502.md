@@ -4,7 +4,7 @@ title: Advisory-SVG-2011-1502
 
 ```
 ** WHITE information - Unlimited distribution allowed  **
-** see https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions **
+** see https://go.egi.eu/tlp for distribution restrictions **
 
 
 EGI Software Vulnerability Group (SVG) ADVISORY [EGI-SVG-2011-1502]

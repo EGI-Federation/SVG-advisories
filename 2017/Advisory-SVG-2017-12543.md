@@ -94,7 +94,7 @@ TLP and URL
 ===========
 
 ** WHITE information - Unimited distribution - see
-https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions **
+https://go.egi.eu/tlp for distribution restrictions **
 
 An advisory will be placed on the wiki after sites have had at least 2 weeks to
 upgrade.

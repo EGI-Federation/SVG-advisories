@@ -4,7 +4,7 @@ title: Advisory-SVG-2015-9517
 
 ```
 ** WHITE information - Unlimited distribution allowed                       **
-** see https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions **
+** see https://go.egi.eu/tlp for distribution restrictions **
 
 
 Title:   EGI SVG Advisory/Alert - security notice regarding signing key and

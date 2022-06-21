@@ -106,7 +106,7 @@ TLP and URL
 ===========
 
 ** AMBER information - Limited distribution
- - see https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions **
+ - see https://go.egi.eu/tlp for distribution restrictions **
 
 This advisory will be placed on the wiki on or after 2020-02-25
 

@@ -99,7 +99,7 @@ TLP and URL
 ===========
 
 ** WHITE information -  Unlimited Distribution - see
-https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions **
+https://go.egi.eu/tlp for distribution restrictions **
 
 This advisory will be placed on the wiki on or after 2016-08-22
 

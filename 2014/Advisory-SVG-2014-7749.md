@@ -4,7 +4,7 @@ title: Advisory-SVG-2014-7749
 
 ```
 ** WHITE information - Unlimited distribution                               **
-** see https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions **
+** see https://go.egi.eu/tlp for distribution restrictions **
 
 EGI SVG ADVISORY [EGI-SVG-2014-7749]
 

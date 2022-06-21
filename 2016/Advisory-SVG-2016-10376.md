@@ -10,7 +10,7 @@ Date:    2016-02-03
 Updated:
 
 ** WHITE information - Unlimited distribution allowed                       **
-** see https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions **
+** see https://go.egi.eu/tlp for distribution restrictions **
 
 Affected Software and Risk
 ==========================

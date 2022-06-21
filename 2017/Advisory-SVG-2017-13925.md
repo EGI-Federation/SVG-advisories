@@ -27,7 +27,7 @@ TLP and URL
 ===========
 
 ** WHITE information - Unlimited distribution
-- see https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions **
+- see https://go.egi.eu/tlp for distribution restrictions **
 
 URL:   https://wiki.egi.eu/wiki/Advisory-SVG-2017-13925
 

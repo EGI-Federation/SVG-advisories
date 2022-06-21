@@ -6,7 +6,7 @@ title: Advisory-SVG-2011-3094
 Update 26th January 2012 - fix for gLite 3.2 released on 24th January.
 
 ** White information - Unlimited distribution allowed            **
-** see https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions **
+** see https://go.egi.eu/tlp for distribution restrictions **
 
 EGI SVG   ADVISORY [EGI-SVG-2011-3904]
 

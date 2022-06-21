@@ -4,7 +4,7 @@ title: Advisory-SVG-2015-8343
 
 ```
 ** WHITE information - Unlimited distribution                               **
-** see https://wiki.egi.eu/wiki/EGI_CSIRT:TLP for distribution restrictions **
+** see https://go.egi.eu/tlp for distribution restrictions **
 
 
 Title:   OpenSSL updates released on 19th March 2015 and VOMS
