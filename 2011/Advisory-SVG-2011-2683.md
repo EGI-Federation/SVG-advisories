@@ -6,13 +6,13 @@ title: Advisory-SVG-2011-2683
 ** WHITE information - unimited distribution allowed                        **
 ** see https://go.egi.eu/tlp for distribution restrictions **
 
-EGI SVG ADVISORY [EGI-SVG-2012-2683]
+EGI SVG ADVISORY [EGI-SVG-2011-2683]
 
 Title:       "High" Risk: DPM SQL injection vulnerability
 Date:        2013-02-08
 Updated:     2013-02-19
 
-URL:         https://wiki.egi.eu/wiki/Advisory-SVG-2012-2683
+URL:         https://advisories.egi.eu/2011/Advisory-SVG-2011-2683
 
 Introduction
 ============
