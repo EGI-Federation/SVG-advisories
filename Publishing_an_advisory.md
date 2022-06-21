@@ -92,6 +92,16 @@ Another solution is to edit it online. It can be done in the following way:
 - Adding a `Commit` message
 - Clicking `Commit changes`
 
+> If needed edit the relevant index file to reference the new advisory.
+
+Editing the index file can be done in a similar way, by:
+
+- Right clicking the file at
+  [https://github.com/EGI-Federation/SVG-advisories](https://github.com/EGI-Federation/SVG-advisories)
+- Clicking on the pen icon at the top of the file to edit it
+- Adding a `Commit` message
+- Clicking `Commit changes`
+
 #### Using the GitHub.dev web IDE to create a file online
 
 Another solution is to edit it online using the
@@ -108,6 +118,7 @@ It can be done in the following way:
 - Left click the file to open it, if it's not already opened in a tab.
 - Add the file content, it will be automatically saved.
 - Once the file is ready you need to commit it to the repository to publish it
+- If needed edit the relevant index file to reference the new advisory.
 - Open the `Source control` view in the left panel, you should see a GIT icon
   with the number of changed files
 - In the `Changes` section, you can review the changes that are to be pushed
