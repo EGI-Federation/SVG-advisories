@@ -100,6 +100,8 @@ Editing the index file can be done in a similar way, by:
 - Right clicking the file at
   [https://github.com/EGI-Federation/SVG-advisories](https://github.com/EGI-Federation/SVG-advisories)
 - Clicking on the pen icon at the top of the file to edit it
+- Adding the reference to the new advisory
+- Previewing the change
 - Adding a `Commit` message
 - Clicking `Commit changes`
 
