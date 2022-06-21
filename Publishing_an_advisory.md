@@ -13,6 +13,8 @@ site.
 
 New site builds are triggered automatically whenever the repository is updated.
 
+## Overall procedure
+
 > Only selected people having write access to this repository can publish
 > advisories.
 
@@ -36,6 +38,8 @@ Advisories are stored in subdirectories named as the current year.
 - Edit the relevant index file to reference the new advisory.
 
 ## Adding content to the repository
+
+> An advisory template is available, see `Advisory-SVG-YYYY-XX-Template.md`.
 
 It's possible to add files using different ways, by using the GitHub web
 interface, using a cloned repository or using an online IDE.
