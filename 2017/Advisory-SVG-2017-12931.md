@@ -54,7 +54,7 @@ TLP and URL
 ** WHITE information - Unlimited distribution - see
 https://go.egi.eu/tlp for distribution restrictions  **
 
-URL:   https://wiki.egi.eu/wiki/Advisory-SVG-2017-12931
+URL:   https://advisories.egi.eu/2017/Advisory-SVG-2017-12931
 
 Comments
 ========

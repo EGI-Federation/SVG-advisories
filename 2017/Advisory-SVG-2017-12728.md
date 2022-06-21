@@ -63,7 +63,7 @@ TLP and URL
 https://go.egi.eu/tlp for distribution restrictions **
 
 
-URL:   https://wiki.egi.eu/wiki/Advisory-SVG-2017-12728
+URL:   https://advisories.egi.eu/2017/Advisory-SVG-2017-12728
 
 Minor updates may be made without re-distribution to the sites
 
