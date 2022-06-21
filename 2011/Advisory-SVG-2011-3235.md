@@ -39,7 +39,7 @@ Risk Category
 =============
 
 This issue was not individually assessed as it was a partial failure to resolve
-issue described at https://wiki.egi.eu/wiki/Advisory-SVG-2011-1414
+issue described at https://advisories.egi.eu/2011/Advisory-SVG-2011-1414
 
 
 Affected Software
@@ -93,7 +93,7 @@ References
 
 [R 1] https://twiki.cern.ch/twiki/bin/view/EGEE/BDII
 
-[R 2] https://wiki.egi.eu/wiki/Advisory-SVG-2011-1414
+[R 2] https://advisories.egi.eu/2011/Advisory-SVG-2011-1414
 
 [R 3] http://repository.egi.eu/category/umd_releases/distribution/umd_1/
 
