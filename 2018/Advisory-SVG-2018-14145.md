@@ -69,7 +69,7 @@ TLP and URL
 
 This advisory will be placed on the wiki on or after 2018-03-19
 
-URL:   https://wiki.egi.eu/wiki/Advisory-SVG-2018-14145
+URL:   https://advisories.egi.eu/2018/Advisory-SVG-2018-14145
 
 Minor updates may be made without re-distribution to the sites
 
