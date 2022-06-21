@@ -1,10 +1,10 @@
 # Publishing an advisory
 
 Advisories are to be published by pushing a new file to
-https://github.com/EGI-Federation/SVG-advisories
+[https://github.com/EGI-Federation/SVG-advisories](https://github.com/EGI-Federation/SVG-advisories).
 
-https://advisories.egi.eu is built using
-[GitHub pages](https://pages.github.com/).
+[https://github.com/EGI-Federation/SVG-advisories](https://github.com/EGI-Federation/SVG-advisories)
+is built using [GitHub pages](https://pages.github.com/).
 
 Source files are in
 [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
@@ -28,7 +28,7 @@ Advisories are stored in subdirectories named as the current year.
     useful when drafting.
   - permalink: the public to the advisory, allowing to configure the public URL
     used to access the advisory. Only specify what have to be used after
-    https://advisories.egi.eu
+    `https://advisories.egi.eu`
     - permalink `/Advisory-SVG-YYYY-XX` will mean that an advisory stored in the
       `2022` folder will be accessible at those two URLs:
       - `https//advisories.egi.eu/Advisory-SVG-YYYY-XX`
@@ -41,9 +41,9 @@ It's possible to add files using different ways, by using the GitHub web
 interface, using a cloned repository or using an online IDE.
 
 - The standard GitHub web interface is available at:
-  https://github.com/EGI-Federation/SVG-advisories
+  [https://github.com/EGI-Federation/SVG-advisories](https://github.com/EGI-Federation/SVG-advisories)
 - The GitHub.dev web IDE is available at:
-  https://github.dev/EGI-Federation/SVG-advisories
+  [https://github.dev/EGI-Federation/SVG-advisories](https://github.dev/EGI-Federation/SVG-advisories)
 
 The standard GitHub web interface is the most simple, but the editor is very
 basic.
@@ -63,7 +63,8 @@ It's possible to prepare the file locally and then upload it to GitHub once it
 is ready. Once you have prepared the local file that should be named
 `Advisory-SVG-YYYY-XX.md`, you can upload it by:
 
-- opening https://github.com/EGI-Federation/SVG-advisories
+- opening
+  [https://github.com/EGI-Federation/SVG-advisories](https://github.com/EGI-Federation/SVG-advisories)
 - browsing to the destination directory
 - Clicking `Add file` -> `Upload files` at the top of the screen
 - Selecting the local file
@@ -74,7 +75,8 @@ is ready. Once you have prepared the local file that should be named
 
 Another solution is to edit it online. It can be done in the following way:
 
-- opening https://github.com/EGI-Federation/SVG-advisories
+- opening
+  [https://github.com/EGI-Federation/SVG-advisories](https://github.com/EGI-Federation/SVG-advisories)
 - browsing to the destination directory
 - Clicking `Add file` -> `Create new file` at the top of the screen
 - Naming the file `Advisory-SVG-YYYY-XX.md`
@@ -88,8 +90,9 @@ Another solution is to edit it online using the
 [GitHub.dev web IDE](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor).
 It can be done in the following way:
 
-- Open https://github.dev/EGI-Federation/SVG-advisories - wait for the web IDE
-  to be fully loaded.
+- Open
+  [https://github.dev/EGI-Federation/SVG-advisories](https://github.dev/EGI-Federation/SVG-advisories) -
+  wait for the web IDE to be fully loaded.
 - Right click the template file `Advisory-SVG-YYYY-XX-Template.md` => `Copy`
 - Right click the destination directory => `Paste`
 - Right click the new file create => `Rename`. Name the file
@@ -104,4 +107,4 @@ It can be done in the following way:
   the `Commit and push` button (with a checked icon), you can commit and push
   all the changes at once.
   - If you made multiple changes, it's also possible to select changes to be
-    commited, by staging them individually.
+    committed, by staging them individually.
