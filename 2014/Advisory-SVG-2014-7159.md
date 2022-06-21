@@ -13,7 +13,7 @@ Title:   EGI SVG Advisory 'Low' RISK - VOMs Potential DoS  [EGI-SVG-2014-7159]
 Date:    2015-08-18
 Updated:
 
-URL:     https://wiki.egi.eu/wiki/Advisory-SVG-2014-7159
+URL:     https://advisories.egi.eu/2014/Advisory-SVG-2014-7159
 
 Introduction
 ============

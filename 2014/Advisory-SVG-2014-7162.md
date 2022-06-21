@@ -15,7 +15,7 @@ Title:   EGI SVG Advisory "Critical" Risk. EGI-SVG-2014-7162 Perfsonar "Cacti
 Date:    2014-06-25
 Updated:
 
-URL:     https://wiki.egi.eu/wiki/Advisory-SVG-2014-7162
+URL:     https://advisories.egi.eu/2014/Advisory-SVG-2014-7162
 
 Introduction
 ============

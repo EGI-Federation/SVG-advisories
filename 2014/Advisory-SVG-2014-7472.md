@@ -18,7 +18,7 @@ Updated:
 
 
 
-URL:         https://wiki.egi.eu/wiki/Advisory-SVG-2014-7472
+URL:         https://advisories.egi.eu/2014/Advisory-SVG-2014-7472
 
 Introduction
 ============

@@ -15,7 +15,7 @@ Title:    EGI SVG Advisory 'HIGH' RISK - Buffer Overflow Vulnerability in
 Date:     2014-09-11
 Updated:
 
-URL:      https://wiki.egi.eu/wiki/Advisory-SVG-2014-7372
+URL:      https://advisories.egi.eu/2014/Advisory-SVG-2014-7372
 
 Introduction
 ============
