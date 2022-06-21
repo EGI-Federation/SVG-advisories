@@ -78,7 +78,7 @@ Minor updates may be made without re-distribution to the sites
 
 Advisory also issued concerning singularity:--
 
-URL:  https://wiki.egi.eu/wiki/Advisory-SVG-2018-14145
+URL:  https://advisories.egi.eu/2018/Advisory-SVG-2018-14145
 
 
 Comments

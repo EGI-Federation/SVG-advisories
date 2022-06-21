@@ -35,7 +35,7 @@ Actions required/recommended
 
 This is fixed in version 2.5.0, which also fixes another critical
 vulnerability:--
-https://wiki.egi.eu/wiki/Advisory-SVG-2018-14311
+https://advisories.egi.eu/2018/Advisory-SVG-2018-14311
 
 
 Mitigation
