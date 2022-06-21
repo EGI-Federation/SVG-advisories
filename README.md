@@ -1,7 +1,7 @@
 ## EGI SVG advisories
 
 All advisories which are disclosed publicly by
-[EGI Software Vulnerability Group (SVG)](https://ims.egi.eu/display/EGIBG/SVG)
+[EGI Software Vulnerability Group (SVG)](https://go.egi.eu/svg)
 are placed on this site.
 
 All advisories which are disclosed publicly by SVG are subject to the Creative
