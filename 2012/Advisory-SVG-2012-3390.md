@@ -13,7 +13,7 @@ Title:       "Low" Risk: DPM Information Leak Vulnerability
 Date:        2014-08-05
 Updated:
 
-URL:         https://wiki.egi.eu/wiki/Advisory-SVG-2012-3390
+URL:         https://advisories.egi.eu/2012/Advisory-SVG-2012-3390
 
 Introduction
 ============

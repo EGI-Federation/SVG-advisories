@@ -15,7 +15,7 @@ Date:         2012-03-03
 Updated:      2012-04-02
 
 
-URL:         https://wiki.egi.eu/wiki/Advisory-SVG-2012-3438
+URL:         https://advisories.egi.eu/2012/Advisory-SVG-2012-3438
 
 Introduction
 ============

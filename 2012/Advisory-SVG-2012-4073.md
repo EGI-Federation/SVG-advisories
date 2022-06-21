@@ -15,7 +15,7 @@ Date:    2012-07-15
 Updated: 2012-07-16, 2012-08-13, 2012-08-28
 
 
-URL: https://wiki.egi.eu/wiki/Advisory-SVG-2012-4073
+URL: https://advisories.egi.eu/2012/Advisory-SVG-2012-4073
 
 Introduction
 ============
