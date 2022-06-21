@@ -58,7 +58,7 @@ TLP and URL
    Unlimited distribution - see https://go.egi.eu/tlp for
    distribution restrictions **
 
-URL:   https://wiki.egi.eu/wiki/Advisory-SVG-2019-15258
+URL:   https://advisories.egi.eu/2019/Advisory-SVG-2019-15258
 
 Minor updates may be made without re-distribution to the sites
 
