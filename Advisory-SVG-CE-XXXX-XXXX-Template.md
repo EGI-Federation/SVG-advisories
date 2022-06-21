@@ -48,10 +48,10 @@ TLP and URL
 ===========
 
 ** WHITE information - Limited distribution
- - see https://confluence.egi.eu/display/EGIG/Traffic+Light+Protocol for
+ - see https://go.egi.eu/tlp for
    distribution restrictions **
 
-URL: https://advisories.egi.eu/Advisory-SVG-CVE-XXXX-XXXX.html
+URL: https://advisories.egi.eu/YYYY/Advisory-SVG-CVE-XXXX-XXXX.html
 
 Minor updates may be made without re-distribution to the sites
 
