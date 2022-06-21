@@ -40,7 +40,8 @@ Advisories are stored in subdirectories named as the current year.
 
 ## Adding content to the repository
 
-> An advisory template is available, see `Advisory-SVG-YYYY-XX-Template.md`.
+> An advisory template is available, see
+> [Advisory-SVG-YYYY-XX-Template.md](https://raw.githubusercontent.com/EGI-Federation/SVG-advisories/main/Advisory-SVG-YYYY-XX-Template.md).
 
 It's possible to add files using different ways, by using the GitHub web
 interface, using a cloned repository or using an online IDE.
@@ -65,8 +66,9 @@ powerful.
 #### Using the GitHub.com web interface to upload a file created locally
 
 It's possible to prepare the file locally and then upload it to GitHub once it
-is ready. Once you have prepared the local file that should be named
-`Advisory-SVG-YYYY-XX.md`, you can upload it by:
+is ready. Once you have prepared the local file (see the
+[advisory template](https://raw.githubusercontent.com/EGI-Federation/SVG-advisories/main/Advisory-SVG-YYYY-XX-Template.md))
+that should be named `Advisory-SVG-YYYY-XX.md`, you can upload it by:
 
 - opening
   [https://github.com/EGI-Federation/SVG-advisories](https://github.com/EGI-Federation/SVG-advisories)
@@ -85,7 +87,8 @@ Another solution is to edit it online. It can be done in the following way:
 - browsing to the destination directory
 - Clicking `Add file` -> `Create new file` at the top of the screen
 - Naming the file `Advisory-SVG-YYYY-XX.md`
-- Adding the file content
+- Adding the file content (see
+  [advisory template](https://raw.githubusercontent.com/EGI-Federation/SVG-advisories/main/Advisory-SVG-YYYY-XX-Template.md))
 - Adding a `Commit` message
 - Clicking `Commit changes`
 
