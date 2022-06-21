@@ -46,7 +46,7 @@ Sites are therefore advised to deploy the proposed mitigation now and to
 plan for a kernel update campaign (including reboot) within the time lines
 stated in:
 
-    https://wiki.egi.eu/wiki/SEC03_EGI-CSIRT_Critical_Vulnerability_Handling
+    https://go.egi.eu/sec03
 
 Mitigation
 ==========
