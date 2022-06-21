@@ -8,8 +8,9 @@ https://github.com/EGI-Federation/SVG-advisories
 
 Advisories are stored in subdirectories named as the current year.
 
-- Copy the template `Advisory-SVG-YYYY-XX-Template.md` to the destination
-  directory, renaming using the advisory name (i.e. `Advisory-SVG-YYYY-XX.md`)
+- Use the template `Advisory-SVG-YYYY-XX-Template.md` to create a file in the
+  destination directory, renaming using the advisory name (i.e.
+  `Advisory-SVG-YYYY-XX.md`)
 - Edit the advisory content
 - Update the metadata concerning the advisory at the top of the file
   - tile: page title, usually the advisory name `Advisory-SVG-YYYY-XX`
@@ -23,3 +24,13 @@ Advisories are stored in subdirectories named as the current year.
       - `https//advisories.egi.eu/Advisory-SVG-YYYY-XX`
       - `https//advisories.egi.eu/YYYY/Advisory-SVG-YYYY-XX`
 - Edit the relevant index file to reference the new advisory.
+
+## Adding content to the repository
+
+It's possible to add files using different ways, by using the GitHub web
+interface, using a cloned repository or using an online IDE.
+
+- The standard GitHub web interface is available at:
+  https://github.com/EGI-Federation/SVG-advisories
+- The online IDE is available at:
+  https://github.dev/EGI-Federation/SVG-advisories
