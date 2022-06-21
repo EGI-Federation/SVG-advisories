@@ -50,7 +50,7 @@ TLP and URL
 ** WHITE information - Unlimited distribution                               **
 ** see https://go.egi.eu/tlp for distribution restrictions **
 
-URL:   https://wiki.egi.eu/wiki/Advisory-SVG-2016-11107
+URL:   https://advisories.egi.eu/2016/Advisory-SVG-2016-11107
 
 Minor updates may be made without re-distribution to the sites
 
