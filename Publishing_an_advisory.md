@@ -3,8 +3,8 @@
 Advisories are to be published by pushing a new file to
 [https://github.com/EGI-Federation/SVG-advisories](https://github.com/EGI-Federation/SVG-advisories).
 
-[https://github.com/EGI-Federation/SVG-advisories](https://github.com/EGI-Federation/SVG-advisories)
-is built using [GitHub pages](https://pages.github.com/).
+[https://advisories.egi.eu](https://advisories.egi.eu) is built using
+[GitHub pages](https://pages.github.com/).
 
 Source files are in
 [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
@@ -12,7 +12,8 @@ format, and [Jekyll](https://jekyllrb.com/) will be used to generate the static
 site.
 
 New site builds are triggered automatically whenever the repository is updated.
-It can take up to a few minutes to see the changes being published.
+
+> It can take up to a few minutes to see the changes being published.
 
 ## Overall procedure
 
