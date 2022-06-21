@@ -58,3 +58,7 @@ EOSC-hub services.
 In the past (up to the end of 2015) CSIRT also issued general alerts at
 [EGI_CSIRT:Alerts](https://wiki.egi.eu/wiki/EGI_CSIRT:Alerts) and EGI SVG
 advisories primarily concerned gLite Middleware.
+
+## Publishing an advisory
+
+See [Publishing an Advisory](./Publishing_an_advisory.md)
