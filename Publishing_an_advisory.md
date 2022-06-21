@@ -12,6 +12,7 @@ format, and [Jekyll](https://jekyllrb.com/) will be used to generate the static
 site.
 
 New site builds are triggered automatically whenever the repository is updated.
+It can take up to a few minutes to see the changes being published.
 
 ## Overall procedure
 
