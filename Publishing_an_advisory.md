@@ -64,7 +64,7 @@ powerful.
 > [Pull Requests](https://docs.github.com/en/pull-requests) so that changes can
 > be reviewed and approved before being pushed to production.
 
-#### Using the GitHub.com web interface to upload a file created locally
+### Using the GitHub.com web interface to upload a file created locally
 
 It's possible to prepare the file locally and then upload it to GitHub once it
 is ready. Once you have prepared the local file (see the
@@ -79,7 +79,7 @@ that should be named `Advisory-SVG-YYYY-XX.md`, you can upload it by:
 - Adding a `Commit` message
 - Clicking `Commit changes`
 
-#### Using the GitHub.com web interface to create a file online
+### Using the GitHub.com web interface to create a file online
 
 Another solution is to edit it online. It can be done in the following way:
 
@@ -105,7 +105,7 @@ Editing the index file can be done in a similar way, by:
 - Adding a `Commit` message
 - Clicking `Commit changes`
 
-#### Using the GitHub.dev web IDE to create a file online
+### Using the GitHub.dev web IDE to create a file online
 
 Another solution is to edit it online using the
 [GitHub.dev web IDE](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor).
