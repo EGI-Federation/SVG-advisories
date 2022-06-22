@@ -109,11 +109,13 @@ Editing the index file can be done in a similar way, by:
 
 Another solution is to edit it online using the
 [GitHub.dev web IDE](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor).
+It's an IDE based on Microsoft Visual Code.
+
 It can be done in the following way:
 
 - Open
-  [https://github.dev/EGI-Federation/SVG-advisories](https://github.dev/EGI-Federation/SVG-advisories) -
-  wait for the web IDE to be fully loaded.
+  [https://github.dev/EGI-Federation/SVG-advisories](https://github.dev/EGI-Federation/SVG-advisories)
+  (Loading the IDE can take some time, wait for the completion)
 - Right click the template file `Advisory-SVG-YYYY-XX-Template.md` => `Copy`
 - Right click the destination directory => `Paste`
 - Right click the new file create => `Rename`. Name the file
