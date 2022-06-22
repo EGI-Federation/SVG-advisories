@@ -7,7 +7,7 @@ Advisories are to be published by pushing a new file to
 [GitHub pages](https://pages.github.com/).
 
 Source files are in
-[markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
+[Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
 format, and [Jekyll](https://jekyllrb.com/) will be used to generate the static
 site.
 
