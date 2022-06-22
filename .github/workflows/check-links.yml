@@ -19,6 +19,7 @@ jobs:
       - name: Check links on new changes
         uses: gaurav-nelson/github-action-markdown-link-check@v1
         with:
+          config-file: ".github/linters/mlc_config.json"
           check-modified-files-only: "no"
           use-quiet-mode: "yes"
           use-verbose-mode: "yes"
