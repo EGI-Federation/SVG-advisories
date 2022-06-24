@@ -44,10 +44,10 @@ services.
 
 ## Earlier advisories
 
-- [Advisories from 2020](./Advisories-SVG-2020.md)
-- [Advisories from 2019](./Advisories-SVG-2019.md)
-- [Advisories from 2018](./Advisories-SVG-2018.md)
-- [Advisories from 2017](./Advisories-SVG-2017.md)
+- [Advisories from 2020](./2020/Advisories-SVG-2020.md)
+- [Advisories from 2019](./2019/Advisories-SVG-2019.md)
+- [Advisories from 2018](./2018/Advisories-SVG-2018.md)
+- [Advisories from 2017](./2017/Advisories-SVG-2017.md)
 - [Advisories from 2016](./2016/Advisories-SVG-2016.md)
 - [Advisories from 2014 and 2015](./Advisories-SVG-2014-2015.md)
 - [Advisories from 2011 to 2013](./Advisories-SVG-2011-2013.md)
