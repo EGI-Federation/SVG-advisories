@@ -1,10 +1,11 @@
 ---
 title: Advisories-SVG-2011-2013
+permalink: /Advisories-SVG-2011-2013
 ---
 
 ## Advisories from 2011 to 2013
 
-Recent [Advisories](./README.md)
+Recent [Advisories](../README.md)
 
 EGI SVG primarily issues advisories concerning gLite Middleware.
 

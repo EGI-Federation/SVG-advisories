@@ -1,10 +1,11 @@
 ---
 title: Advisories-SVG-2014-2015
+permalink: /Advisories-SVG-2014-2015
 ---
 
 ## Advisories for 2014 and 2015
 
-Recent [Advisories](./README.md)
+Recent [Advisories](../README.md)
 
 EGI SVG primarily issues advisories concerning gLite Middleware.
 
@@ -44,17 +45,17 @@ A guide to the risk categories is available at
 | 2015-01-14 | FTS3 and GFAL2 allow attacker to impersonate other users and destroy their data                                            | [Advisory-SVG-2014-7696](./2014/Advisory-SVG-2014-7696.md)                            | High       | Fixed  |
 | 2014-11-12 | User introduction of Rogue VMs - Openstack                                                                                 | [Advisory-SVG-2014-7472](./2014/Advisory-SVG-2014-7472.md)                            | High       | Fixed  |
 | 2014-09-29 | Buffer Overflow Vulnerability (Atlas FAX sites)                                                                            | [Advisory-SVG-2014-7372](./2014/Advisory-SVG-2014-7372.md)                            | High       | Fixed  |
-| 2014-08-06 | WMS allows other users to access logging information                                                                       | [Advisory-SVG-2013-5346](./2013/Advisory-SVG-2013-5346.md)                            | Moderate   | Fixed  |
-| 2014-08-06 | glite_wms_wmproxy_dirmanager allows any user to change the permissions on any directory                                    | [Advisory-SVG-2013-5560](./2013/Advisory-SVG-2013-5560.md)                            | Moderate   | Fixed  |
+| 2014-08-06 | WMS allows other users to access logging information                                                                       | [Advisory-SVG-2013-5346](./2011-2013/2013/Advisory-SVG-2013-5346.md)                  | Moderate   | Fixed  |
+| 2014-08-06 | glite_wms_wmproxy_dirmanager allows any user to change the permissions on any directory                                    | [Advisory-SVG-2013-5560](./2011-2013/2013/Advisory-SVG-2013-5560.md)                  | Moderate   | Fixed  |
 | 2014-08-05 | Remote access to dCache configuration information                                                                          | [Advisory-SVG-2014-7009](./2014/Advisory-SVG-2014-7009.md)                            | Moderate   | Fixed  |
-| 2014-08-05 | DPM Information Leak Vulnerability                                                                                         | [Advisory-SVG-2012-3390](./2012/Advisory-SVG-2012-3390.md)                            | Low        | Fixed  |
-| 2014-08-05 | PerfSONAR web interface vulnerabilities                                                                                    | [Advisory-SVG-2013-6052](./2013/Advisory-SVG-2013-6052.md)                            | Moderate   | Fixed  |
-| 2014-08-05 | FTS3 - Lack of Authorization on config commands                                                                            | [Advisory-SVG-2013-5769](./2013/Advisory-SVG-2013-5769.md)                            | Low        | Fixed  |
+| 2014-08-05 | DPM Information Leak Vulnerability                                                                                         | [Advisory-SVG-2012-3390](./2011-2013/2012/Advisory-SVG-2012-3390.md)                  | Low        | Fixed  |
+| 2014-08-05 | PerfSONAR web interface vulnerabilities                                                                                    | [Advisory-SVG-2013-6052](../2011-2013/2013/Advisory-SVG-2013-6052.md)                 | Moderate   | Fixed  |
+| 2014-08-05 | FTS3 - Lack of Authorization on config commands                                                                            | [Advisory-SVG-2013-5769](../2011-2013/2013/Advisory-SVG-2013-5769.md)                 | Low        | Fixed  |
 | 2014-07-17 | Perfsonar 'Cacti' graphs web vulnerability                                                                                 | [Advisory-SVG-2014-7162](./2014/Advisory-SVG-2014-7162.md)                            | Critical   | Fixed  |
-| 2014-06-23 | EMI WMS Impersonation vulnerability                                                                                        | [Advisory-SVG-2013-5331](./2013/Advisory-SVG-2013-5331.md)                            | High       | Fixed  |
+| 2014-06-23 | EMI WMS Impersonation vulnerability                                                                                        | [Advisory-SVG-2013-5331](./2011-2013/2013/Advisory-SVG-2013-5331.md)                  | High       | Fixed  |
 | 2014-06-02 | DPM version in EPEL                                                                                                        | [Advisory-SVG-2014-6963](./2014/Advisory-SVG-2014-6963.md)                            | High       | Fixed  |
 | 2014-04-10 | WN and UI tarballs in the EMI repository contain a version of OpenSSL vulnerable to CVE-2014-016                           | [Advisory-SVG-2014-6884](./2014/Advisory-SVG-2014-6884.md)                            | Critical   | Fixed  |
 | 2014-04-08 | OpenSSL "Heartbleed" vulnerability CVE-2014-0160 (Link to CSIRT alert)                                                     | [OpenSSL-2014-04-08](./2014/OpenSSL-2014-04-08.md)                                    | Critical   | Fixed  |
 | 2014-03-27 | Torque Vulnerability: arbitrary code execution via job submission                                                          | [Advisory-SVG-2014-6627](./2014/Advisory-SVG-2014-6627.md)                            | High       | Fixed  |
-| 2014-03-25 | Vulnerabilities in STORM                                                                                                   | [Advisory-SVG-2013-6116](./2013/Advisory-SVG-2013-6116.md)                            | High       | Fixed  |
-| 2014-02-13 | Results of CREAM vulnerability Assessment                                                                                  | [Advisory-SVG-2013-5813](./2013/Advisory-SVG-2013-5813.md)                            | High       | Fixed  |
+| 2014-03-25 | Vulnerabilities in STORM                                                                                                   | [Advisory-SVG-2013-6116](./2011-2013/2013/Advisory-SVG-2013-6116.md)                  | High       | Fixed  |
+| 2014-02-13 | Results of CREAM vulnerability Assessment                                                                                  | [Advisory-SVG-2013-5813](./2011-2013/2013/Advisory-SVG-2013-5813.md)                  | High       | Fixed  |
