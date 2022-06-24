@@ -29,8 +29,7 @@ The important thing is that sites carry out recommended updates, including if
 appropriate their kernel versions. In some cases this may result in reduced
 performance, but the update should not be omitted because of this.
 
-[Wikipedia:
-Spectre]<https://en.wikipedia.org/wiki/Spectre_(security_vulnerability))
+[Wikipedia: Spectre](https://en.wikipedia.org/wiki/Spectre_(security_vulnerability))
 provides some information on the variants, the recommended changes concern
 windows.
 
