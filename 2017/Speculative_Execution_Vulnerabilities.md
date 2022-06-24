@@ -12,14 +12,13 @@ processors.
 See also
 [EGI SVG Information on Meltdown and Spectre Vulnerabilities](./Meltdown_and_Spectre_Vulnerabilities.md)
 and its related advisory
-[Advisory-SVG-CVE-2017-5753](./2017/Advisory-SVG-CVE-2017-5753.md) which was
-compiled in January and early February 2018.
+[Advisory-SVG-CVE-2017-5753](./Advisory-SVG-CVE-2017-5753.md) which was compiled
+in January and early February 2018.
 
 EGI SVG has at present (14th September 2018) issued 3 advisories related to
 Speculative Execution Vulnerabilities:
 
-- [Advisory-SVG-CVE-2017-5753](./2017/Advisory-SVG-CVE-2017-5753.md) in January
-  2018,
+- [Advisory-SVG-CVE-2017-5753](./Advisory-SVG-CVE-2017-5753.md) in January 2018,
 - [Advisory-SVG-CVE-2018-3639](../2018/Advisory-SVG-CVE-2018-3639.md) in May
   2018 and
 - [Advisory-SVG-CVE-2018-3620](../2018/Advisory-SVG-CVE-2018-3620.md) in
