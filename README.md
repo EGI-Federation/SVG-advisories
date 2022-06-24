@@ -39,8 +39,8 @@ EGI SVG produces advisories according to the
 [SEC02 EGI Software Vulnerability Issue Handling](https://go.egi.eu/sec02).
 
 Note that SVG is currently working on how to better cope with reducing
-homogeneity of the infrastructure and handle vulnerabilities related to the
-EOSC services.
+homogeneity of the infrastructure and handle vulnerabilities related to the EOSC
+services.
 
 ## Earlier advisories
 
