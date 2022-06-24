@@ -34,9 +34,8 @@ Advisories are stored in subdirectories named as the current year.
     used to access the advisory. Only specify what have to be used after
     `https://advisories.egi.eu`
     - permalink `/Advisory-SVG-YYYY-XX` will mean that an advisory stored in the
-      `2022` folder will be accessible at those two URLs:
-      - `https//advisories.egi.eu/Advisory-SVG-YYYY-XX`
-      - `https//advisories.egi.eu/YYYY/Advisory-SVG-YYYY-XX`
+      `2022` folder will be accessible at this URL:
+      `https//advisories.egi.eu/Advisory-SVG-YYYY-XX`
 - Edit the relevant index file to reference the new advisory.
 
 ## Adding content to the repository
