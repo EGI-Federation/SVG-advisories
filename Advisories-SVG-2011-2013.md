@@ -9,7 +9,7 @@ Recent [Advisories](./README.md)
 EGI SVG primarily issues advisories concerning gLite Middleware.
 
 CSIRT also issues general alerts at
-[EGI_CSIRT:Alert](https://wiki.egi.eu/wiki/EGI_CSIRT:Alerts)
+[EGI CSIRT Alert](https://advisories.egi.eu/CSIRT_Alerts)
 
 A guide to the risk categories is available at
 [Notes On Risk](https://confluence.egi.eu/display/EGIBG/Notes+on+Risk)
