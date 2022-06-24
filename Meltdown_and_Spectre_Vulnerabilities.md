@@ -1,8 +1,11 @@
 ---
 title: Meltdown and Spectre Vulnerabilities
+permalink: /Meltdown_and_Spectre_Vulnerabilities
 ---
 
-## Purpose of this page
+## Meltdown and Spectre Vulnerabilities
+
+### Purpose of this page
 
 To provide more detailed information about the Meltdown and Spectre
 vulnerabilities, to complement the advisory,
@@ -13,7 +16,7 @@ This was compiled in January and early February 2018
 Information including more recent
 [SVG Speculative execution vulnerabilities](./Speculative_Execution_Vulnerabilities.md)
 
-## What are they?
+### What are they?
 
 These are vulnerabilities in the design of the chip hardware, and cannot be
 fully resolved by patching operating systems. However patches are available
@@ -26,7 +29,7 @@ For more details, see [Meltdown attack](https://meltdownattack.com/),
 [Spectre attack](https://spectreattack.com/) and
 [Project zero: Reading privileged memory with side](https://googleprojectzero.blogspot.dk/2018/01/reading-privileged-memory-with-side.html)
 
-## How to mitigate these vulnerabilities
+### How to mitigate these vulnerabilities
 
 Each CVE can be mitigated via different ways:
 
@@ -46,7 +49,7 @@ Each CVE can be mitigated via different ways:
   - Using "retpoline", a new software construct that can mitigate, on most CPUs,
     the vulnerability
 
-### RedHat
+#### RedHat
 
 As of Feb 2nd 2018, RedHat has offered new kernel updates that can mitigate
 Meltdown (CVE-2017-5754), Spectre Variant 1 (CVE-2017-5753) and Spectre Variant
@@ -66,7 +69,7 @@ Variant 1 (CVE-2017-5753) by:
 - On RHEL6: Updating the kernel to 2.6.32-696.18.7.el6, see
   [RHSA-2018:0008](https://access.redhat.com/errata/RHSA-2018:0008)
 
-### Centos
+#### Centos
 
 Centos is following RedHat (see above).
 
@@ -78,7 +81,7 @@ Variant 1 (CVE-2017-5753) by:
 - On Centos 6: Updating the kernel to 2.6.32-696.18.7.el6, see
   [CESA-2018:0008](https://lists.centos.org/pipermail/centos-announce/2018-January/022701.html)
 
-### Scientific Linux
+#### Scientific Linux
 
 Scientific Linux is following RedHat (see above).
 
@@ -93,17 +96,17 @@ Variant 1 (CVE-2017-5753) by:
 Additional details as well as information on other systems and platforms can be
 found in the next section.
 
-## More Information
+### More Information
 
-### Relevant Advisories
+#### Relevant Advisories
 
-#### CERN
+##### CERN
 
 CERN has compiled information which is useful for many EGI sites:
 
 - [CERN: spectre - meltdown](https://security.web.cern.ch/security/advisories/spectre-meltdown/spectre-meltdown.shtml)
 
-#### Intel
+##### Intel
 
 Intel has initially, on January 8th,
 [released new microcodes](https://downloadcenter.intel.com/download/27431/Linux-Processor-Microcode-Data-File)
@@ -123,9 +126,9 @@ More updates and information:
 - [Jan 17th](https://newsroom.intel.com/news/firmware-updates-and-initial-performance-data-for-data-center-systems/)
 - [Jan 22th: Instabilities causes found for 2 Intel series](https://newsroom.intel.com/news/root-cause-of-reboot-issue-identified-updated-guidance-for-customers-and-partners/)
 
-### Linux Distributions
+#### Linux Distributions
 
-#### RedHat
+##### RedHat
 
 > Important! [as of 17th January]
 
@@ -143,7 +146,7 @@ RedHat CVE info:
 - [CVE-2017-5753](https://access.redhat.com/security/cve/CVE-2017-5753)
 - [CVE-2017-5715](https://access.redhat.com/security/cve/CVE-2017-5715)
 
-#### CentOS
+##### CentOS
 
 > Important! [as of 17th January]
 
@@ -180,7 +183,7 @@ CentOS 6:
 See further in the centos-announce
 [Security mails for January](https://lists.centos.org/pipermail/centos-announce/2018-January/date.html)
 
-#### Scientific Linux
+##### Scientific Linux
 
 > Important! [as of 18th January]
 
@@ -204,23 +207,23 @@ see
   - libvirt:
     [SLSA 2018:0029-1](http://scientificlinux.org/category/sl-errata/slsa-20180029-1/)
 
-#### Ubuntu
+##### Ubuntu
 
 [Ubuntu: Spectre and Meltdown](https://wiki.ubuntu.com/SecurityTeam/KnowledgeBase/SpectreAndMeltdown)
 
-#### Debian
+##### Debian
 
 - [CVE-2017-5715](https://security-tracker.debian.org/tracker/CVE-2017-5715)
 - [CVE-2017-5753](https://security-tracker.debian.org/tracker/CVE-2017-5753)
 - [CVE-2017-5754](https://security-tracker.debian.org/tracker/CVE-2017-5754)
 
-### System Vendors
+#### System Vendors
 
-#### Supermicro
+##### Supermicro
 
 [Supermicro: SA 00088](https://www.supermicro.com/support/security_Intel-SA-00088.cfm)
 
-#### Dell
+##### Dell
 
 > Important! [as of 23rd January]
 
@@ -234,7 +237,7 @@ acknowledging reboot issues and unpredictable system behaviour.
 
 Note this is changing rather frequently
 
-#### HPE
+##### HPE
 
 [as of January 23]
 
@@ -244,24 +247,24 @@ suit with DELL.
 
 [HPE: hpesbhf03805en_us](https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_US&docId=emr_na-hpesbhf03805en_us)
 
-#### Lenovo
+##### Lenovo
 
 [as of January 23]
 
 Lenovo security advisory
 
-### Hypervisors
+#### Hypervisors
 
 [Lenovn: LEN 18282](https://support.lenovo.com/gb/en/solutions/len-18282)
 
-#### Xen
+##### Xen
 
 - [XEN: advisory 254](https://xenbits.xen.org/xsa/advisory-254.html)
 - [XEN: Spectre meltdown FAQ](https://blog.xenproject.org/2018/01/04/xen-project-spectremeltdown-faq/)
 - [XEN: Meltdown and Spectre technical FAQ](https://wiki.xenproject.org/wiki/Xen_Project_Meltdown_and_Spectre_Technical_FAQ)
 - [XEN: Respond to Meltdown and Spectre](https://wiki.xenproject.org/wiki/Respond_to_Meltdown_and_Spectre)
 
-#### QEMU-KVM
+##### QEMU-KVM
 
 In order to protect hypervisors from malicious VMs, the kernel, microcode and
 QEMU must be updated:
