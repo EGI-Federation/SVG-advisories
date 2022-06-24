@@ -49,8 +49,8 @@ services.
 - [Advisories from 2018](./2018/Advisories-SVG-2018.md)
 - [Advisories from 2017](./2017/Advisories-SVG-2017.md)
 - [Advisories from 2016](./2016/Advisories-SVG-2016.md)
-- [Advisories from 2014 and 2015](../2014-2015/Advisories-SVG-2014-2015.md)
-- [Advisories from 2011 to 2013](../2011-2013/Advisories-SVG-2011-2013.md)
+- [Advisories from 2014 and 2015](./2014-2015/Advisories-SVG-2014-2015.md)
+- [Advisories from 2011 to 2013](./2011-2013/Advisories-SVG-2011-2013.md)
 - Advisories from prior to 2011
   [Gridpp Advisories Archive](https://archive.gridpp.ac.uk/gsvg/advisories/)
 
