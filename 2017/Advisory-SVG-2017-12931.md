@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2017-12931
+permalink: /Advisory-SVG-2017-12931
 ---
+
+## Advisory-SVG-2017-12931
 
 ```
 Title:   EGI SVG Advisory/Alert [TLP:WHITE] Attacks on Hadoop installations
@@ -54,7 +57,7 @@ TLP and URL
 ** WHITE information - Unlimited distribution - see
 https://go.egi.eu/tlp for distribution restrictions  **
 
-URL:   https://advisories.egi.eu/2017/Advisory-SVG-2017-12931
+URL:   https://advisories.egi.eu/Advisory-SVG-2017-12931
 
 Comments
 ========

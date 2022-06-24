@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2017-12728
+permalink: /Advisory-SVG-2017-12728
 ---
+
+## Advisory-SVG-2017-12728
 
 ```
 Title:   EGI SVG Advisory [TLP:WHITE] 'LOW' risk - XROOTD potential for remote
@@ -63,7 +66,7 @@ TLP and URL
 https://go.egi.eu/tlp for distribution restrictions **
 
 
-URL:   https://advisories.egi.eu/2017/Advisory-SVG-2017-12728
+URL:   https://advisories.egi.eu/Advisory-SVG-2017-12728
 
 Minor updates may be made without re-distribution to the sites
 

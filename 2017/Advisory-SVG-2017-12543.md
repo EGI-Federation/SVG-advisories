@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2017-12543
+permalink: /Advisory-SVG-2017-12543
 ---
+
+## Advisory-SVG-2017-12543
 
 ```
 Title:   EGI SVG ADVISORY [TLP:WHITE] 'CRITICAL' risk vulnerability concerning
@@ -99,7 +102,7 @@ https://go.egi.eu/tlp for distribution restrictions **
 An advisory will be placed on the wiki after sites have had at least 2 weeks to
 upgrade.
 
-URL:   https://advisories.egi.eu/2017/Advisory-SVG-2017-12543
+URL:   https://advisories.egi.eu/Advisory-SVG-2017-12543
 
 After that, minor updates may be made without re-distribution to the sites
 

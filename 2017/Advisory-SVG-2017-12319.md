@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2017-12319
+permalink: /Advisory-SVG-2017-12319
 ---
+
+## Advisory-SVG-2017-12319
 
 ```
 
@@ -65,7 +68,7 @@ TLP and URL
 ** WHITE information - Unlimited distribution - see
 https://go.egi.eu/tlp for distribution restrictions **
 
-URL:   https://advisories.egi.eu/2017/Advisory-SVG-2017-12319
+URL:   https://advisories.egi.eu/Advisory-SVG-2017-12319
 
 
 Comments

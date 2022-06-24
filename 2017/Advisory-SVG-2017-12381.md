@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2017-12381
+permalink: /Advisory-SVG-2017-12381
 ---
+
+## Advisory-SVG-2017-12381
 
 ```
 Title:   EGI SVG Advisory [TLP:WHITE] Up to 'High' risk - Singularity container
@@ -65,7 +68,7 @@ TLP and URL
 ** WHITE information - Unlimited distribution - see
 https://go.egi.eu/tlp for distribution restrictions **
 
-URL:   https://advisories.egi.eu/2017/Advisory-SVG-2017-12381
+URL:   https://advisories.egi.eu/Advisory-SVG-2017-12381
 
 Minor updates may be made without re-distribution to the sites
 

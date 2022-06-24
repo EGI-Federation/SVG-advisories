@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2017-13249
+permalink: /Advisory-SVG-2017-13249
 ---
+
+## Advisory-SVG-2017-13249
 
 ```
 Title:   EGI SVG Advisory [TLP:WHITE] VOMS Admin privilege escalation
@@ -63,7 +66,7 @@ TLP and URL
 ** WHITE information - unlimited distribution -
 see https://go.egi.eu/tlp for distribution restrictions **
 
-URL:   https://advisories.egi.eu/2017/Advisory-SVG-2017-13249
+URL:   https://advisories.egi.eu/Advisory-SVG-2017-13249
 
 Minor updates may be made without re-distribution to the sites
 

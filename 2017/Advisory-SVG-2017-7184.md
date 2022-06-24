@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2017-7184
+permalink: /Advisory-SVG-2017-7184
 ---
+
+## Advisory-SVG-2017-7184
 
 ```
 Title:   EGI SVG ALERT [TLP:WHITE] Up to 'CRITICAL' risk, kernel exploit
@@ -96,7 +99,7 @@ TLP and URL
 ** WHITE information - Unlimited distribution -
 see https://go.egi.eu/tlp for distribution restrictions **
 
-URL:   https://advisories.egi.eu/2017/Advisory-SVG-CVE-2017-7184
+URL:   https://advisories.egi.eu/Advisory-SVG-CVE-2017-7184
 
 Minor updates may be made without re-distribution to the sites
 

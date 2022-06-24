@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2017-13915
+permalink: /Advisory-SVG-2017-13915
 ---
+
+## Advisory-SVG-2017-13915
 
 ```
 Title:   EGI SVG 'ADVISORY' [TLP:WHITE] 'Moderate' risk DPM SRM Buffer Overflow  [EGI-SVG-2017-13915]
@@ -72,7 +75,7 @@ TLP and URL
 ** WHITE information - Unlimited distribution
 - see https://go.egi.eu/tlp for distribution restrictions **
 
-URL:   https://advisories.egi.eu/2017/Advisory-SVG-2017-13915
+URL:   https://advisories.egi.eu/Advisory-SVG-2017-13915
 
 Minor updates may be made without re-distribution to the sites
 

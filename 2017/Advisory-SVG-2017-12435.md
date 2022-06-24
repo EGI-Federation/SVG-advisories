@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2017-12435
+permalink: /Advisory-SVG-2017-12435
 ---
+
+## Advisory-SVG-2017-12435
 
 ```
 Title:   EGI SVG Advisory [TLP:WHITE] 'LOW' risk Remote authenticated DoS on
@@ -49,7 +52,7 @@ TLP and URL
 ** WHITE information - Unlimited distribution -
    see https://go.egi.eu/tlp for distribution restrictions**
 
-URL:   https://advisories.egi.eu/2017/Advisory-SVG-2017-12435
+URL:   https://advisories.egi.eu/Advisory-SVG-2017-12435
 
 Minor updates may be made without re-distribution to the sites
 

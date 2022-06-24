@@ -1,8 +1,11 @@
 ---
 title: Advisory-SVG-2017-6074
+permalink: /Advisory-SVG-2017-6074
 ---
 
-```
+## Advisory-SVG-2017-6074
+
+````
 Title: [HEADS-UP] Linux kernel root escalation vulnerability
        [EGI-SVG-2017-6074]
 
@@ -14,7 +17,7 @@ TLP and URL
 WHITE information - Unlimited distribution
 see https://go.egi.eu/tlp for distribution restrictions
 
-URL:   https://advisories.egi.eu/2017/Advisory-SVG-2017-6074
+URL:   https://advisories.egi.eu/Advisory-SVG-2017-6074
 
 Minor updates may be made without re-distribution to the sites
 
@@ -102,4 +105,4 @@ Yyyy-mm-dd  [EGI-SVG-2016-6074]
 
 2017-02-22 Public disclosure, EGI SVG notified by Tobias Dussa
 2017-02-23 Heads-up sent to sites
-```
+````
