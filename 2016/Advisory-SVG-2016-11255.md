@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2016-11255
+permalink: /Advisory-SVG-2016-11255
 ---
+
+## Advisory-SVG-2016-11255
 
 ```
 Title:   EGI SVG Advisory [TLP:AMBER] Up to 'HIGH' risk DIRAC configuration -
@@ -139,7 +142,7 @@ TLP and URL
 ** WHITE information - Unlimited distribution - see
 https://go.egi.eu/tlp for distribution restrictions **
 
-URL:   https://advisories.egi.eu/2016/Advisory-SVG-2016-11255
+URL:   https://advisories.egi.eu/Advisory-SVG-2016-11255
 
 Minor updates may be made without re-distribution to the sites
 

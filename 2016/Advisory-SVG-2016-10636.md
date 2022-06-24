@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2016-10636
+permalink: /Advisory-SVG-2016-10636
 ---
+
+## Advisory-SVG-2016-10636
 
 ```
 
@@ -60,7 +63,7 @@ URL/TLP
 ** WHITE information - Unlimited distribution                               **
 ** See https://go.egi.eu/tlp for distribution restrictions **
 
-URL:   https://advisories.egi.eu/2016/Advisory-SVG-2016-10636
+URL:   https://advisories.egi.eu/Advisory-SVG-2016-10636
 
 Minor updates may be made without re-distribution to the sites
 

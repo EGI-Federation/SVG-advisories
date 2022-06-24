@@ -1,5 +1,6 @@
 ---
 title: Advisory-SVG-2016-10376
+permalink: /Advisory-SVG-2016-10376
 ---
 
 ```
@@ -71,7 +72,7 @@ See [R 3] for Debian
 URL
 ===
 
-URL:         https://advisories.egi.eu/2016/Advisory-SVG-2016-10376
+URL:         https://advisories.egi.eu/Advisory-SVG-2016-10376
 
 Minor updates may be made without re-distribution to the sites
 

@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2016-11107
+permalink: /Advisory-SVG-2016-11107
 ---
+
+## Advisory-SVG-2016-11107
 
 ```
 Title:   EGI SVG Advisory [TLP:WHITE] 'Moderate' Risk: XSS in DIRAC Webapp and
@@ -50,7 +53,7 @@ TLP and URL
 ** WHITE information - Unlimited distribution                               **
 ** see https://go.egi.eu/tlp for distribution restrictions **
 
-URL:   https://advisories.egi.eu/2016/Advisory-SVG-2016-11107
+URL:   https://advisories.egi.eu/Advisory-SVG-2016-11107
 
 Minor updates may be made without re-distribution to the sites
 

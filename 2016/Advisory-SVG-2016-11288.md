@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2016-11288
+permalink: /Advisory-SVG-2016-11288
 ---
+
+## Advisory-SVG-2016-11288
 
 ```
 Title:   EGI SVG Advisory [TLP:AMBER] 'MODERATE' risk dCache READONLY and non-/
@@ -152,7 +155,7 @@ https://go.egi.eu/tlp for distribution restrictions **
 
 This advisory will be placed on the wiki on or after 2016-07-12
 
-URL:   https://advisories.egi.eu/2016/Advisory-SVG-2016-11288
+URL:   https://advisories.egi.eu/Advisory-SVG-2016-11288
 
 Minor updates may be made without re-distribution to the sites
 

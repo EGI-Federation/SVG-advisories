@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2016-11190
+permalink: /Advisory-SVG-2016-11190
 ---
+
+## Advisory-SVG-2016-11190
 
 ```
 Title:   EGI SVG Advisory [TLP:WHITE] 'HIGH' risk - Authorization by user_id to
@@ -69,7 +72,7 @@ TLP and URL
 https://go.egi.eu/tlp for distribution restrictions **
 
 
-URL:   https://advisories.egi.eu/2016/Advisory-SVG-2016-11190
+URL:   https://advisories.egi.eu/Advisory-SVG-2016-11190
 
 Minor updates may be made without re-distribution to the sites
 

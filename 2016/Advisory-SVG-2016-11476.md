@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2016-11476
+permalink: /Advisory-SVG-2016-11476
 ---
+
+## Advisory-SVG-2016-11476
 
 ```
 Title:   EGI SVG Advisory 'CRITICAL' risk - gridsite impersonation
@@ -132,7 +135,7 @@ TLP and URL
 ** WHITE information -Unlimited distribution - see
 https://go.egi.eu/tlp for distribution restrictions **
 
-URL:   https://advisories.egi.eu/2016/Advisory-SVG-2016-11476
+URL:   https://advisories.egi.eu/Advisory-SVG-2016-11476
 
 Minor updates may be made without re-distribution to the sites
 

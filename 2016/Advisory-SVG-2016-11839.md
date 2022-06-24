@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2016-11839
+permalink: /Advisory-SVG-2016-11839
 ---
+
+## Advisory-SVG-2016-11839
 
 ```
 Title:   EGI SVG Advisory [TLP:WHITE] LOW risk vulnerability - VOMS Admin
@@ -44,7 +47,7 @@ TLP and URL
 
 https://go.egi.eu/tlp for distribution restrictions***
 
-URL:   https://advisories.egi.eu/2016/Advisory-SVG-2016-11839
+URL:   https://advisories.egi.eu/Advisory-SVG-2016-11839
 
 Minor updates may be made without re-distribution to the sites
 

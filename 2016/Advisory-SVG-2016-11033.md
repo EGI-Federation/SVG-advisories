@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2016-11033
+permalink: /Advisory-SVG-2016-11033
 ---
+
+## Advisory-SVG-2016-11033
 
 ```
 Title:   EGI SVG Advisory [TLP:WHITE] 'High' Risk Arbitrary file overwrite
@@ -51,7 +54,7 @@ TLP and URL
 ** see https://go.egi.eu/tlp for distribution restrictions **
 
 
-URL:   https://advisories.egi.eu/2016/Advisory-SVG-2016-11033
+URL:   https://advisories.egi.eu/Advisory-SVG-2016-11033
 
 Minor updates may be made without re-distribution to the sites
 
