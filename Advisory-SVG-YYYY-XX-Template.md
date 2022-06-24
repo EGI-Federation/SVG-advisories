@@ -4,6 +4,8 @@ permalink: /Advisory-SVG-YYYY-XX
 published: false
 ---
 
+## Advisory-SVG-YYYY-XX
+
 ```
 Title:   EGI SVG 'ADVISORY' [TLP:<TLP_LEVEL>] <LEVEL> <Title>
 
