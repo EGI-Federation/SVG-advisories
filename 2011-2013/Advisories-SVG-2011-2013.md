@@ -40,7 +40,7 @@ A guide to the risk categories is available at
 | 2012-04-04 | BDII Predictable passwords                                                                        | [Advisory-SVG-2011-3235](./2011/Advisory-SVG-2011-3235.md) | Low      | Fixed     |
 | 2012-01-24 | Torque Munge Impersonation vulnerability                                                          | [Advisory-SVG-2011-3094](./2011/Advisory-SVG-2011-3094.md) | High     | Fixed     |
 | 2012-01-24 | APEL publisher File permission vulnerability                                                      | [Advisory-SVG-2011-504](./2011/Advisory-SVG-2011-504.md)   | Low      | Fixed     |
-| 2012-01-09 | File Permission on directory in vdt_globus_data_server RPM                                        | [Advisory-SVG-2010-457](./2010/Advisory-SVG-2010-457.md)   | Low      | Disclosed |
+| 2012-01-09 | File Permission on directory in vdt_globus_data_server RPM                                        | [Advisory-SVG-2010-457](../2010/Advisory-SVG-2010-457.md)  | Low      | Disclosed |
 | 2011-11-15 | BDII file permission and password vulnerability                                                   | [Advisory-SVG-2011-1414](./2011/Advisory-SVG-2011-1414.md) | Moderate | Fixed     |
 | 2011-08-15 | Torque Authentication Bypass Vulnerability CVE-2011-2907                                          | [Advisory-SVG-2011-2296](./2011/Advisory-SVG-2011-2296.md) | High     | Fixed     |
 | 2011-07-28 | Insecure Library Loading Vulnerability in the VOMS server                                         | [Advisory-SVG-2011-342](./2011/Advisory-SVG-2011-342.md)   | Low      | Fixed     |
