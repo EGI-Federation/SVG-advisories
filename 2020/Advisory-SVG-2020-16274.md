@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2020-16274
+permalink: /Advisory-SVG-2020-16274
 ---
+
+## Advisory-SVG-2020-16274
 
 ```
 Title:   EGI SVG 'ALERT' **UPDATE** [TLP:WHITE] CRITICAL risk vulnerability in
@@ -66,7 +69,7 @@ TLP and URL
 ** WHITE information - Unlimited distribution
  - see https://go.egi.eu/tlp for distribution restrictions **
 
-URL:   https://advisories.egi.eu/2020/Advisory-SVG-2020-16274
+URL:   https://advisories.egi.eu/Advisory-SVG-2020-16274
 
 Minor updates may be made without re-distribution to the sites
 

@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2020-16835
+permalink: /Advisory-SVG-2020-16835
 ---
+
+## Advisory-SVG-2020-16835
 
 ```
 Title:   EGI SVG 'ADVISORY' [TLP:WHITE] MODERATE risk - Disk Pool Manager (DPM)
@@ -53,7 +56,7 @@ TLP and URL
 ** WHITE information - Unlimited distribution
 - see https://go.egi.eu/tlp for distribution restrictions **
 
-URL:   https://advisories.egi.eu/2020/Advisory-SVG-2020-16835
+URL:   https://advisories.egi.eu/Advisory-SVG-2020-16835
 
 Minor updates may be made without re-distribution to the sites
 

@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2020-16939
+permalink: /Advisory-SVG-2020-16939
 ---
+
+## Advisory-SVG-2020-16939
 
 ```
 Title:   EGI SVG 'ADVISORY' **UPDATE** [TLP:WHITE] CRITICAL risk Vulnerability
@@ -99,7 +102,7 @@ https://go.egi.eu/tlp for distribution restrictions **
 
 This advisory will be placed on the wiki on or after 2020-12-19
 
-URL:   https://advisories.egi.eu/2020/Advisory-SVG-2020-16939
+URL:   https://advisories.egi.eu/Advisory-SVG-2020-16939
 
 Minor updates may be made without re-distribution to the sites
 

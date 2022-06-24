@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2020-16203
+permalink: /Advisory-SVG-2020-16203
 ---
+
+## Advisory-SVG-2020-16203
 
 ```
 Title:   EGI SVG 'ADVISORY' [TLP:WHITE] (up to critical) vulnerabilities
@@ -110,7 +113,7 @@ TLP and URL
 
 This advisory will be placed on the wiki on or after 2020-02-25
 
-URL:   https://advisories.egi.eu/2020/Advisory-SVG-2020-16203
+URL:   https://advisories.egi.eu/Advisory-SVG-2020-16203
 
 Minor updates may be made without re-distribution to the sites
 

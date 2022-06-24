@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2020-16840
+permalink: /Advisory-SVG-2020-16840
 ---
+
+## Advisory-SVG-2020-16840
 
 ```
 Title:   EGI SVG 'ADVISORY' [TLP:WHITE] MODERATE risk - Cache Poisoning Squid
@@ -83,7 +86,7 @@ TLP and URL
 ** WHITE information - Unlimited distribution
  - see https://go.egi.eu/tlp for distribution restrictions **
 
-URL:   https://advisories.egi.eu/2020/Advisory-SVG-2020-16840
+URL:   https://advisories.egi.eu/Advisory-SVG-2020-16840
 
 Minor updates may be made without re-distribution to the sites
 

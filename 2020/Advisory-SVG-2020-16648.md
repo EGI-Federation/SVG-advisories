@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2020-16648
+permalink: /Advisory-SVG-2020-16648
 ---
+
+## Advisory-SVG-2020-16648
 
 ```
 Title:   EGI SVG 'ADVISORY' [TLP:WHITE] Singularity and unprivileged user
@@ -107,7 +110,7 @@ TLP and URL
 
 ** WHITE information - Unlimited  distribution
  - see https://go.egi.eu/tlp for distribution restrictions **
-URL:   https://advisories.egi.eu/2020/Advisory-SVG-2020-16648
+URL:   https://advisories.egi.eu/Advisory-SVG-2020-16648
 
 Minor updates may be made without re-distribution to the sites
 
