@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2011-504
+permalink: /Advisory-SVG-2011-504
 ---
+
+## Advisory-SVG-2011-504
 
 ```
 Updated 26th January 2012 - Patch available on 24th January 2012 for gLite 3.2.

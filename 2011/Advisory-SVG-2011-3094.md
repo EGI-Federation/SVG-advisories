@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2011-3094
+permalink: /Advisory-SVG-2011-3094
 ---
+
+## Advisory-SVG-2011-3094
 
 ```
 Update 26th January 2012 - fix for gLite 3.2 released on 24th January.

@@ -1,5 +1,6 @@
 ---
 title: Advisory-SVG-2011-1569
+permalink: /Advisory-SVG-2011-1569
 ---
 
 ## Advisory-SVG-2011-1569

@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2011-505
+permalink: /Advisory-SVG-2011-505
 ---
+
+## Advisory-SVG-2011-505
 
 ```
 19th April 2011.
