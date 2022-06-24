@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2010-457
+permalink: /Advisory-SVG-2010-457
 ---
+
+## Advisory-SVG-2010-457
 
 ```
 ** WHITE information - Unlimited distribution allowed **
@@ -17,7 +20,7 @@ As it is now past the TD, SVG is making it public.
 Title: World writeable directory in vdt_globus_data_server RPM
 Date:     28th October 2010
 Updated : 9th January 2012
-URL:      https://advisories.egi.eu/2010/Advisory-SVG-2010-457
+URL:      https://advisories.egi.eu/Advisory-SVG-2010-457
 
 Introduction
 ============
