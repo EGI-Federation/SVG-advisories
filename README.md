@@ -36,7 +36,7 @@ various
 | 2020-11-19 updated 2020-11-25, 2021-01-14                          | Vulnerability concerning dCache                                                            | [Advisory-SVG-2020-16939](./2020/Advisory-SVG-2020-16939.md)         | Critical       | Fixed  |
 
 EGI SVG produces advisories according to the
-[SEC02 EGI Software Vulnerability Issue Handling ](https://go.egi.eu/sec02).
+[SEC02 EGI Software Vulnerability Issue Handling](https://go.egi.eu/sec02).
 
 Note that SVG is currently working on how to better cope with reducing
 homogeneity of the infrastructure and handle vulnerabilities related to the
