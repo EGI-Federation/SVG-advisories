@@ -1,6 +1,9 @@
 ---
 title: Speculative Execution Vulnerabilities
+permalink: /Speculative_Execution_Vulnerabilities
 ---
+
+## Speculative Execution Vulnerabilities
 
 This provides information that may be useful to sites concerning the various
 speculative execution vulnerabilities concerning Intel chips and other
