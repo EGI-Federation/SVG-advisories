@@ -2,8 +2,10 @@
 title: Advisory-SVG-2011-1569
 ---
 
+## Advisory-SVG-2011-1569
+
 ```
-** WHITE information - Unlimited distribution allowed                       **
+** WHITE information - Unlimited distribution allowed      **
 ** see https://go.egi.eu/tlp for distribution restrictions **
 
 Title:        Critical Vulnerability detected in dCache Admin Web Interface
@@ -14,7 +16,7 @@ Updated:      2011-04-08, 2011-04-19
 
 This advisory will be placed on the public wiki in due course
 
-URL:         https://wiki.egi.eu/wiki/EGI_CSIRT:Alerts/dCache-2011-03-30
+URL:         https://advisories.egi.eu/CSIRT_Alerts/dCache-2011-03-30
 URL:         https://advisories.egi.eu/2011/Advisory-SVG-2011-1569
 
 Introduction
