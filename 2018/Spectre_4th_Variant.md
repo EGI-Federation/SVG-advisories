@@ -15,4 +15,4 @@ Some useful info from us-cert
 [https://www.us-cert.gov/ncas/alerts/TA18-141A](https://www.us-cert.gov/ncas/alerts/TA18-141A)
 
 2018-09-07 Information on this and other
-[Speculative Execution Vulnerabilities](../Speculative_Execution_Vulnerabilities.md).
+[Speculative Execution Vulnerabilities](../2017/Speculative_Execution_Vulnerabilities.md).

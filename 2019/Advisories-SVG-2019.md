@@ -12,7 +12,7 @@ A guide to the risk categories is available at
 
 SVG also provides information that may be useful to various sites concerning the
 various
-[SVG Speculative execution vulnerabilities](./Speculative_Execution_Vulnerabilities.md)
+[SVG Speculative execution vulnerabilities](../2017/Speculative_Execution_Vulnerabilities.md)
 
 This may be useful to sites in conjunction with the
 advisories[Advisory-SVG-CVE-2017-5753](../2017/Advisory-SVG-CVE-2017-5753.md),
