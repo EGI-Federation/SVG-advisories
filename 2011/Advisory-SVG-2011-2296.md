@@ -3,7 +3,7 @@ title: Advisory-SVG-2011-2296
 ---
 
 ```
-** WHITE information - Unlimited distribution allowed                       **
+** WHITE information - Unlimited distribution allowed      **
 ** see https://go.egi.eu/tlp for distribution restrictions **
 
 
@@ -15,7 +15,7 @@ Date:         2011-06-14
 Updated:      2011-06-20
 Updated:      2011-08-15
 
-URL:          https://wiki.egi.eu/wiki/EGI_CSIRT:Alerts/Torque-2011-06-15
+URL:          https://advisories.egi.eu/CSIRT_Alerts/Torque-2011-06-15
 URL:          https://advisories.egi.eu/2011/Advisory-SVG-2011-2296
 
 
