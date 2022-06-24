@@ -1,10 +1,11 @@
 ---
 title: Advisories-SVG-2016
+permalink: /Advisories-SVG-2016
 ---
 
 ## Advisories for 2016
 
-Recent [Advisories](./README.md)
+Recent [Advisories](../README.md)
 
 Earlier Advisories:
 [Advisories from 2014 and 2015](./Advisories-SVG-2014-2015.md)
