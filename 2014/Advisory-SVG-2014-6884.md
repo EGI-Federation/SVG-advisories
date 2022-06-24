@@ -143,7 +143,7 @@ repository by Matt Doidge, who also resolved this.
 References
 ==========
 
-[R 1] https://wiki.egi.eu/wiki/EGI_CSIRT:Alerts/OpenSSL-2014-04-08
+[R 1] https://advisories.egi.eu/CSIRT_Alerts/OpenSSL-2014-04-08
 
 [R 2] https://www.sysadmin.hep.ac.uk/wiki/EMI3Tarball#Downloading
 
