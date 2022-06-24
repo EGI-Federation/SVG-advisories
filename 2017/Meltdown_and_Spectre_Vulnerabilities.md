@@ -9,7 +9,7 @@ permalink: /Meltdown_and_Spectre_Vulnerabilities
 
 To provide more detailed information about the Meltdown and Spectre
 vulnerabilities, to complement the advisory,
-[SVG:Advisory-SVG-CVE-2017-5753](./2017/Advisory-SVG-CVE-2017-5753.md).
+[SVG:Advisory-SVG-CVE-2017-5753](./Advisory-SVG-CVE-2017-5753.md).
 
 This was compiled in January and early February 2018
 
