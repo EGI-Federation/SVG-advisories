@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2021-17247
+permalink: /Advisory-SVG-2021-17247
 ---
+
+## Advisory-SVG-2021-17247
 
 ```
 Title:   EGI SVG 'ADVISORY' **UPDATE** [TLP:WHITE] HIGH risk - Squid

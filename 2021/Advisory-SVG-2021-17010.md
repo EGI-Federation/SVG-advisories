@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2021-17010
+permalink: /Advisory-SVG-2021-17010
 ---
+
+## Advisory-SVG-2021-17010
 
 ```
 Title:   EGI SVG 'ADVISORY' [TLP:AMBER] HIGH risk VOMS-Admin vulnerability

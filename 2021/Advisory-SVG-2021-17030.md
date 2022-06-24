@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2021-17030
+permalink: /Advisory-SVG-2021-17030
 ---
+
+## Advisory-SVG-2021-17030
 
 ```
 Title:   EGI SVG 'ADVISORY' [TLP:WHITE] CRITICAL risk - 2 HTCondor
