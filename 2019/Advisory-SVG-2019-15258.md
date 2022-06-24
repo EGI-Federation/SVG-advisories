@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2019-15258
+permalink: /Advisory-SVG-2019-15258
 ---
+
+## Advisory-SVG-2019-15258
 
 ```
 Title:   EGI SVG 'ADVISORY' [TLP:WHITE] Up to 'CRITICAL' risk systemd-journald
@@ -58,7 +61,7 @@ TLP and URL
    Unlimited distribution - see https://go.egi.eu/tlp for
    distribution restrictions **
 
-URL:   https://advisories.egi.eu/2019/Advisory-SVG-2019-15258
+URL:   https://advisories.egi.eu/Advisory-SVG-2019-15258
 
 Minor updates may be made without re-distribution to the sites
 

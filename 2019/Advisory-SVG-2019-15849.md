@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2019-15849
+permalink: /Advisory-SVG-2019-15849
 ---
+
+## Advisory-SVG-2019-15849
 
 ```
 Title:   EGI SVG 'ADVISORY' [TLP:WHITE] HIGH risk Frontier-Squid-4
@@ -84,7 +87,7 @@ TLP and URL
 ** AMBER information - Limited distribution
 - see https://go.egi.eu/tlp for distribution restrictions **
 
-URL:   https://advisories.egi.eu/2019/Advisory-SVG-2019-15849
+URL:   https://advisories.egi.eu/Advisory-SVG-2019-15849
 
 Minor updates may be made without re-distribution to the sites
 
