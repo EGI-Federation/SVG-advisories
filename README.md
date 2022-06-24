@@ -1,8 +1,8 @@
 ## EGI SVG advisories
 
 All advisories which are disclosed publicly by
-[EGI Software Vulnerability Group (SVG)](https://go.egi.eu/svg)
-are placed on this site.
+[EGI Software Vulnerability Group (SVG)](https://go.egi.eu/svg) are placed on
+this site.
 
 All advisories which are disclosed publicly by SVG are subject to the Creative
 commons licence [CC-BY 4.0.](https://creativecommons.org/licenses/by/4.0/)
@@ -36,12 +36,11 @@ various
 | 2020-11-19 updated 2020-11-25, 2021-01-14                          | Vulnerability concerning dCache                                                            | [Advisory-SVG-2020-16939](./2020/Advisory-SVG-2020-16939.md)         | Critical       | Fixed  |
 
 EGI SVG produces advisories according to the
-[EGI Software Vulnerability Issue Handling Process](https://documents.egi.eu/document/3145),
-which was revised in 2017 and approved by the EGI OMB in November 2017.
+[SEC02 EGI Software Vulnerability Issue Handling ](https://go.egi.eu/sec02).
 
 Note that SVG is currently working on how to better cope with reducing
 homogeneity of the infrastructure and handle vulnerabilities related to the
-EOSC-hub services.
+EOSC services.
 
 ## Earlier advisories
 
@@ -56,8 +55,8 @@ EOSC-hub services.
   [Gridpp Advisories Archive](https://archive.gridpp.ac.uk/gsvg/advisories/)
 
 In the past (up to the end of 2015) CSIRT also issued general alerts at
-[EGI_CSIRT:Alerts](https://wiki.egi.eu/wiki/EGI_CSIRT:Alerts) and EGI SVG
-advisories primarily concerned gLite Middleware.
+[EGI CSIRT Alerts](./CSIRT_Alerts.md) and EGI SVG advisories primarily concerned
+gLite Middleware.
 
 ## Publishing an advisory
 
