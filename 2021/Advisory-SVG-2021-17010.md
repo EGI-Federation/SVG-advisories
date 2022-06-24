@@ -89,7 +89,7 @@ TLP and URL
 
 This advisory will be placed on the wiki on or after 2021-06-22
 
-URL:   https://advisories.egi.eu/2021/Advisory-SVG-2021-17010
+URL:   https://advisories.egi.eu/Advisory-SVG-2021-17010
 
 Minor updates may be made without re-distribution to the sites
 

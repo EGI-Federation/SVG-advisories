@@ -152,7 +152,7 @@ TLP and URL
 ** WHITE information - Unlimited distribution
  - see https://go.egi.eu/tlp for distribution restrictions **
 
-URL:   https://advisories.egi.eu/2021/Advisory-SVG-2021-17030
+URL:   https://advisories.egi.eu/Advisory-SVG-2021-17030
 
 Minor updates may be made without re-distribution to the sites.
 
