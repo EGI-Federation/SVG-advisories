@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2018-14117
+permalink: /Advisory-SVG-2018-14117
 ---
+
+## Advisory-SVG-2018-14117
 
 ```
 Title:   EGI SVG 'ALERT' [TLP:WHITE] data-channel encryption is not enforced in
@@ -72,7 +75,7 @@ TLP and URL
 ** WHITE information - Unlimited distribution
 - see https://go.egi.eu/tlp for distribution restrictions **
 
-URL:   https://advisories.egi.eu/2018/Advisory-SVG-2018-14117
+URL:   https://advisories.egi.eu/Advisory-SVG-2018-14117
 
 Minor updates may be made without re-distribution to the sites
 

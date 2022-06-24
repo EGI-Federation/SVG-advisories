@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2018-14213
+permalink: /Advisory-SVG-2018-14213
 ---
+
+## Advisory-SVG-2018-14213
 
 ```
 Title:   EGI SVG 'ADVISORY' [TLP:WHITE] 'CRITICAL' risk.
@@ -35,7 +38,7 @@ Actions required/recommended
 
 This is fixed in version 2.5.0, which also fixes another critical
 vulnerability:--
-https://advisories.egi.eu/2018/Advisory-SVG-2018-14311
+https://advisories.egi.eu/Advisory-SVG-2018-14311
 
 
 Mitigation
@@ -65,7 +68,7 @@ TLP and URL
 ** WHITE information - Unlimited distribution
   - see https://go.egi.eu/tlp for distribution restrictions **
 
-URL  https://advisories.egi.eu/2018/Advisory-SVG-2018-14213
+URL  https://advisories.egi.eu/Advisory-SVG-2018-14213
 
 Comments
 ========

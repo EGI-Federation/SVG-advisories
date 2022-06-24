@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2018-13999
+permalink: /Advisory-SVG-2018-13999
 ---
+
+## Advisory-SVG-2018-13999
 
 ```
 
@@ -72,13 +75,13 @@ TLP and URL
 ** WHITE information - Unlimited distribution -
 see https://go.egi.eu/tlp for distribution restrictions **
 
-URL:   https://advisories.egi.eu/2018/Advisory-SVG-2018-13999
+URL:   https://advisories.egi.eu/Advisory-SVG-2018-13999
 
 Minor updates may be made without re-distribution to the sites
 
 Advisory also issued concerning singularity:--
 
-URL:  https://advisories.egi.eu/2018/Advisory-SVG-2018-14145
+URL:  https://advisories.egi.eu/Advisory-SVG-2018-14145
 
 
 Comments

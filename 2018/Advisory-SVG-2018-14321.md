@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2018-14321
+permalink: /Advisory-SVG-2018-14321
 ---
+
+## Advisory-SVG-2018-14321
 
 ```
 Title:   EGI SVG 'ADVISORY' [TLP:WHITE] LOW risk CREAM command injection attack
@@ -67,7 +70,7 @@ TLP and URL
 ** WHITE information - Unlimited distribution
   - see https://go.egi.eu/tlp for distribution restrictions **
 
-URL:   https://advisories.egi.eu/2018/Advisory-SVG-2018-14321
+URL:   https://advisories.egi.eu/Advisory-SVG-2018-14321
 
 Minor updates may be made without re-distribution to the sites
 

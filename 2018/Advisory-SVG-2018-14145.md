@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2018-14145
+permalink: /Advisory-SVG-2018-14145
 ---
+
+## Advisory-SVG-2018-14145
 
 ```
 Title:   EGI SVG 'ADVISORY' [TLP:WHITE] HIGH risk vulnerability in Singularity
@@ -69,13 +72,13 @@ TLP and URL
 
 This advisory will be placed on the wiki on or after 2018-03-19
 
-URL:   https://advisories.egi.eu/2018/Advisory-SVG-2018-14145
+URL:   https://advisories.egi.eu/Advisory-SVG-2018-14145
 
 Minor updates may be made without re-distribution to the sites
 
 Other issue concerning singularity where an ALERT was issued:--
 
-URL:   https://advisories.egi.eu/2018/Advisory-SVG-2018-13999
+URL:   https://advisories.egi.eu/Advisory-SVG-2018-13999
 
 Comments
 ========
