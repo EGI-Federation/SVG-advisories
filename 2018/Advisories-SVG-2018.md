@@ -1,5 +1,6 @@
 ---
 title: Advisories-SVG-2018
+permalink: /Advisories-SVG-2018
 ---
 
 ## Advisories for 2018
