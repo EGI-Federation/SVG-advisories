@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2014-6963
+permalink: /Advisory-SVG-2014-6963
 ---
+
+## Advisory-SVG-2014-6963
 
 ```
 Title:   EGI SVG Advisory 'High' RISK - DPM version in EPEL [EGI-SVG-2014-6963]

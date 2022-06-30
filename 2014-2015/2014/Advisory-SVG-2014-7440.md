@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2014-7440
+permalink: /Advisory-SVG-2014-7440
 ---
+
+## Advisory-SVG-2014-7440
 
 ```
 Title:   EGI SVG Advisory [TLP:WHITE] 'Low' Risk - Dirac Pilot factory payload

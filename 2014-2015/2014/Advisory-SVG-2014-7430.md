@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2014-7430
+permalink: /Advisory-SVG-2014-7430
 ---
+
+## Advisory-SVG-2014-7430
 
 ```
 

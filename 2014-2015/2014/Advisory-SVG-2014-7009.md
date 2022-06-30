@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2014-7009
+permalink: /Advisory-SVG-2014-7009
 ---
+
+## Advisory-SVG-2014-7009
 
 ```
 ** WHITE information - Unlimited distribution allowed                       **
