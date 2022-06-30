@@ -1,12 +1,12 @@
 ---
 title: Advisory-SVG-2011-1870
-permalink :/Advisory-SVG-2011-1870
+permalink: /Advisory-SVG-2011-1870
 ---
 
 ## Advisory-SVG-2011-1870
 
 ```
-** WHITE information - Unlimited distribution allowed                       **
+** WHITE information - Unlimited distribution allowed      **
 ** see https://go.egi.eu/tlp for distribution restrictions **
 
 
