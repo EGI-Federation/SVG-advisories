@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2013-5268
+permalink: /Advisory-SVG-2013-5268
 ---
+
+## Advisory-SVG-2013-5268
 
 ```
 

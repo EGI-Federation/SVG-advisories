@@ -1,9 +1,11 @@
 ---
 title: Advisory-SVG-2013-5890
+permalink: /Advisory-SVG-2013-5890
 ---
 
-```
+## Advisory-SVG-2013-5890
 
+```
 ** AMBER information - Limited distribution                                 **
 ** see https://go.egi.eu/tlp for distribution restrictions **
 

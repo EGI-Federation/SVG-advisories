@@ -1,9 +1,11 @@
 ---
 title: Advisory-SVG-2013-5999
+permalink: /Advisory-SVG-2013-5999
 ---
 
-```
+## Advisory-SVG-2013-5999
 
+```
 This advisory has not been made public, and probably won't be.
 
 It refers to issues with Torque.
