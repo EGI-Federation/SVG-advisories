@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2015-9809
+permalink: /Advisory-SVG-2015-9809
 ---
+
+## Advisory-SVG-2015-9808
 
 ```
 Title:   EGI SVG Advisory [TLP:White] 'Low' risk vulnerability concerning LHCb

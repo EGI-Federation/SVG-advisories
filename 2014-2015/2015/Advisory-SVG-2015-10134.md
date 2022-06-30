@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2015-10134
+permalink: /Advisory-SVG-2015-10134
 ---
+
+## Advisory-SVG-2015-10134
 
 ```
 Title:   EGI SVG Advisory [TLP:White] 'Low' risk STORM WebDAV interface XXE

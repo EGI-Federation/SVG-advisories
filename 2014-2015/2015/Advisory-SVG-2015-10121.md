@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2015-10121
+permalink: /Advisory-SVG-2015-10121
 ---
+
+## Advisory-SVG-2015-10121
 
 ```
 Title:   EGI SVG Advisory [TLP:White] 'Low' risk dCache WebDAV interface XXE

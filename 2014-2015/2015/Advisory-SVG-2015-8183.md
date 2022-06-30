@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2015-8183
+permalink: /Advisory-SVG-2015-8183
 ---
+
+## Advisory-SVG-2015-8183
 
 ```
 ** WHITE information - Unlimited distribution allowed                       **

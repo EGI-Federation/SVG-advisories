@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2015-9323
+permalink: /Advisory-SVG-2015-9323
 ---
+
+## Advisory-SVG-2015-9323
 
 ```
 Title:   **UPDATE - re-introduction** EGI SVG Advisory [TLP:WHITE] "Moderate"
