@@ -1,6 +1,6 @@
 ---
 title: Advisories-SVG-2017
-permaling: /Advisories-SVG-2017
+permalink: /Advisories-SVG-2017
 ---
 
 ## Advisories for 2017
