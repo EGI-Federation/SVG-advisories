@@ -19,6 +19,7 @@ various
 
 | Date                                                               | Title                                                                                      | Contents/Link                                                        | Risk           | Status |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- | -------------- | ------ |
+| 2022-03-09, updated 2022-03-15                                     | Linux kernel dirtypipe vulnerability - CVE-2022-0847                                       | [Advisory-SVG-CVE-2022-0847](./2022/Advisory-SVG-CVE-2022-0847.md)   | CRITICAL       | Fixed  |
 | 2022-01-26, updated 2022-01-26                                     | Local privilege escalation vulnerability on polkit's pkexec utility - CVE-2021-4034        | [Advisory-SVG-CVE-2021-4034](./2021/Advisory-SVG-CVE-2021-4034.md)   | CRITICAL       | Fixed  |
 | 2021-09-10, updated 2021-10-12                                     | use-after-free privilege escalation vulnerability in linux kernel - CVE-2021-3715          | [Advisory-SVG-CVE-2021-3715](./2021/Advisory-SVG-CVE-2021-3715.md)   | HIGH           | Fixed  |
 | 2021-07-22, updated 2021-07-28, 2021-08-26, 2021-10-06             | Sequoia Privilege escalation in Linux file system CVE-2021-33909                           | [Advisory-SVG-CVE-2021-33909](./2021/Advisory-SVG-CVE-2021-33909.md) | CRITICAL       | Fixed  |
