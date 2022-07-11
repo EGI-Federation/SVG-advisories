@@ -139,3 +139,6 @@ Others may re-use this information provided they:-
 
 1) Respect the provided TLP classification
 2) Credit the EGI https://www.egi.eu/ Software Vulnerability Group
+
+On behalf of the EGI SVG,
+```
