@@ -58,12 +58,12 @@ redirect_from:
 
 This will lead to having the advisory reachable by the following URLs:
 
-- https://advisorires.egi.eu/Advisory-SVG-CVE-XXXX-XXXX the permalink and the
+- https://advisories.egi.eu/Advisory-SVG-CVE-XXXX-XXXX the permalink and the
   main URL, other links will redirect to this one
-- https://advisorires.egi.eu/Advisory-SVG-CVE-XXXX-YYYY redirected to
-  https://advisorires.egi.eu/Advisory-SVG-CVE-XXXX-XXXX
-- https://advisorires.egi.eu/Advisory-SVG-XXXXXZZZZ redirected to
-  https://advisorires.egi.eu/Advisory-SVG-CVE-XXXX-XXXX
+- https://advisories.egi.eu/Advisory-SVG-CVE-XXXX-YYYY redirected to
+  https://advisories.egi.eu/Advisory-SVG-CVE-XXXX-XXXX
+- https://advisories.egi.eu/Advisory-SVG-XXXXXZZZZ redirected to
+  https://advisories.egi.eu/Advisory-SVG-CVE-XXXX-XXXX
 
 ## Adding content to the repository
 

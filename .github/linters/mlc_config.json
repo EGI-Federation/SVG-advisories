@@ -1,4 +1,9 @@
 {
+  "ignorePatterns": [
+    {
+      "pattern": "^https://advisories.egi.eu/.*XXXX-"
+    }
+  ],
   "httpHeaders": [
     {
       "urls": ["https://docs.github.com/"],
