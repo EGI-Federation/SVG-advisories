@@ -38,6 +38,33 @@ Advisories are stored in subdirectories named as the current year.
       `https//advisories.egi.eu/Advisory-SVG-YYYY-XX`
 - Edit the relevant index file to reference the new advisory.
 
+### Adding aliases to an advisory
+
+In case an advisory should be reachable by multiple URLs, like for an advisory
+covering multiple CVEs, it's possible to specify some URL paths that will be
+redirected automatically to the primary URL of the advisory.
+
+This can be achieved by using the `redirect_from` attribute:
+
+```yaml
+---
+title: Advisory-SVG-CVE-XXXX-XXXX
+permalink: /Advisory-SVG-CVE-XXXX-XXXX
+redirect_from:
+  - /Advisory-SVG-CVE-XXXX-YYYY
+  - /Advisory-SVG-XXXXXZZZZ
+---
+```
+
+This will lead to having the advisory reachable by the following URLs:
+
+- https://advisorires.egi.eu/Advisory-SVG-CVE-XXXX-XXXX the permalink and the
+  main URL, other links will redirect to this one
+- https://advisorires.egi.eu/Advisory-SVG-CVE-XXXX-YYYY redirected to
+  https://advisorires.egi.eu/Advisory-SVG-CVE-XXXX-XXXX
+- https://advisorires.egi.eu/Advisory-SVG-XXXXXZZZZ redirected to
+  https://advisorires.egi.eu/Advisory-SVG-CVE-XXXX-XXXX
+
 ## Adding content to the repository
 
 > An advisory template is available, see
