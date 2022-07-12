@@ -1,7 +1,6 @@
 ---
 title: Advisories-SVG-2021
 permalink: /Advisories-SVG-2021
-published: false
 ---
 
 ## Advisories for 2021
