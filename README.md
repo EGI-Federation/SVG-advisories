@@ -52,6 +52,7 @@ services.
 
 ## Earlier advisories
 
+- [Advisories from 2021](./2021/Advisories-SVG-2021.md)
 - [Advisories from 2020](./2020/Advisories-SVG-2020.md)
 - [Advisories from 2019](./2019/Advisories-SVG-2019.md)
 - [Advisories from 2018](./2018/Advisories-SVG-2018.md)
