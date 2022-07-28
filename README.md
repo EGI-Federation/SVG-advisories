@@ -19,6 +19,7 @@ various
 
 | Date                                       | Title                                                                                             | Contents/Link                                                        | Risk        | Status |
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ----------- | ------ |
+| 2019-01-10 updated 2019-01-15, 2019-05-14, 2022-07-28 | systemd-journald vulnerabilities                                              | [Advisory-SVG-2019-15258](./Advisory-SVG-2019-15258.md)               | Critical | Fixed |
 | 2022-05-05                                 | Vulnerability in SLURM's authentication handling - CVE-2022-29500, CVE-2022-29501, CVE-2022-29502 | [Advisory-SVG-CVE-2022-29500](./2022/Advisory-SVG-CVE-2022-29500.md) | CRITICAL    | Fixed  |
 | 2022-04-26                                 | Vulnerability in Java 15 and later - CVE-2022-21449                                               | [Advisory-SVG-CVE-2022-21449](./2022/Advisory-SVG-CVE-2022-21449.md) | CRITICAL    | Fixed  |
 | 2022-04-13                                 | Linux Kernel vulnerabilities - CVE-2021-4028, CVE-2021-4083                                       | [Advisory-SVG-CVE-2021-4028](./2022/Advisory-SVG-CVE-2021-4028.md)   | HIGH        | Fixed  |
