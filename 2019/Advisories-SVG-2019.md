@@ -32,7 +32,7 @@ advisories[Advisory-SVG-CVE-2017-5753](../2017/Advisory-SVG-CVE-2017-5753.md),
 | 2019-05-16 updated 2019-06-20             | Singularity Vulnerability announced by the Singularity team                   | [Advisory-SVG-CVE-2019-11328](./Advisory-SVG-CVE-2019-11328.md)       | High           | Fixed    |
 | 2019-05-16                                | Microarchitectural Store Buffer Data vulnerability affecting Intel Processors | [Advisory-SVG-CVE-2018-12126](../2018/Advisory-SVG-CVE-2018-12126.md) | High           | Fixed    |
 | 2019-02-13 updated 2019-03-01             | runc malicious container escape affecting Docker, Kubernetes, lxc             | [Advisory-SVG-CVE-2019-5736](./Advisory-SVG-CVE-2019-5736.md)         | Critical       |          |
-| 2019-01-10 updated 2019-01-15, 2019-05-14 | systemd-journald vulnerabilities                                              | [Advisory-SVG-2019-15258](./Advisory-SVG-2019-15258.md)               | Up to Critical | Heads Up |
+| 2019-01-10 updated 2019-01-15, 2019-05-14, 2022-07-28 | systemd-journald vulnerabilities                                              | [Advisory-SVG-2019-15258](./Advisory-SVG-2019-15258.md)               | Critical | Fixed |
 
 EGI SVG produces advisories according to the
 [EGI Software Vulnerability Issue Handling Process](https://documents.egi.eu/document/3145),
