@@ -1,17 +1,22 @@
 ---
 title: Advisory-SVG-2019-15258
 permalink: /Advisory-SVG-2019-15258
+redirect_from:
+  - /Advisory-CVE-2018-16864 
+  - /Advisory-CVE-2018-16865
+  - /Advisory-CVE-2018-16866
 ---
 
 ## Advisory-SVG-2019-15258
 
 ```
-Title:   EGI SVG 'ADVISORY' [TLP:WHITE] Up to 'CRITICAL' risk systemd-journald
+Title:   EGI SVG 'ADVISORY' [TLP:WHITE] 'CRITICAL' risk systemd-journald
          vulnerabilities [EGI-SVG-2019-15258]
 
 Date:    2019-01-10
 Updated: 2019-01-15   Updates available therefore Advisory issued.
          2019-05-14   Update to inform that an exploit has been released.
+         2022-07-28   Changed to 'CRITICAL' rather than 'Up to CRITICAL'
 
 Affected software and risk
 ==========================
@@ -53,6 +58,16 @@ The RPM installer for the new version of systemd will re-exec the systemd
 daemon, so a reboot is not required.
 Sites may in addition wish to restart the systemd-journald process using, for
 example, `systemctl restart systemd-journald`.
+
+More information
+================
+
+** UPDATE 2022-07-28 **
+
+Changed from 'Up to CRITICAL' to 'CRITICAL' as serious public exploit available 
+at the end of 2021, and include redirect from CVE's
+Decided NOT to send to sites again. 
+
 
 TLP and URL
 ===========
@@ -111,6 +126,7 @@ Yyyy-mm-dd  [EGI-SVG-2019-15258]
 2019-01-10 Heads Up sent to sites
 2019-01-15 Changing to Advisory with updates being released by RedHat/SL/CentOS
 2019-05-14 Added that an exploit has been released.
+2022-07-28 Changed on web only that changed from up to Critical to Critical.
 
 Context
 =======
