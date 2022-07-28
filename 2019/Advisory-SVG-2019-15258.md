@@ -2,9 +2,9 @@
 title: Advisory-SVG-2019-15258
 permalink: /Advisory-SVG-2019-15258
 redirect_from:
-  - /Advisory-CVE-2018-16864 
-  - /Advisory-CVE-2018-16865
-  - /Advisory-CVE-2018-16866
+  - /Advisory-SVG-CVE-2018-16864 
+  - /Advisory-SVG-CVE-2018-16865
+  - /Advisory-SVG-CVE-2018-16866
 ---
 
 ## Advisory-SVG-2019-15258
