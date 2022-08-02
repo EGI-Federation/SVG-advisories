@@ -19,6 +19,7 @@ various
 
 | Date                                       | Title                                                                                             | Contents/Link                                                        | Risk        | Status |
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ----------- | ------ |
+| 2022-02-21 Updated 2022-08-02              | xcache image vulnerability and image purge                                                        | [Advisory-SVG-2022-17581](./2022/Advisory-SVG-2022-217581.md)   | ALERT    | Fixed  |
 | 2022-02-18 Updated 2022-07-28              | Privilege escalation vulnerabilities in VMWare CVE-2021-22040, CVE-2021-11041                     | [Advisory-SVG-CVE-2021-22040](./2022/Advisory-SVG-CVE-2021-22040.md) | ALERT    | Fixed  |
 | 2019-01-10 updated 2019-01-15, 2019-05-14, 2022-07-28 | systemd-journald vulnerabilities                                                       | [Advisory-SVG-2019-15258](./2019/Advisory-SVG-2019-15258.md)          | CRITICAL | Fixed |
 | 2022-05-05                                 | Vulnerability in SLURM's authentication handling - CVE-2022-29500, CVE-2022-29501, CVE-2022-29502 | [Advisory-SVG-CVE-2022-29500](./2022/Advisory-SVG-CVE-2022-29500.md) | CRITICAL    | Fixed  |
