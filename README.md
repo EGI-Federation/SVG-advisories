@@ -19,7 +19,8 @@ various
 
 | Date                                       | Title                                                                                             | Contents/Link                                                        | Risk        | Status |
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ----------- | ------ |
-| 2022-08-08 Updated 2022-09-26               | HIGH risk - Race condition in Linux perf subsystem                                                       | [Advisory-SVG-2022-CVE-2022-1729](./2022/Advisory-SVG-CVE-2022-1729.md)  | HIGH    | Fixed  |
+| 2022-08-31 Updated 2022-09-02. 2022-10-13   | HIGH risk use-after-free  vulnerability was found in systemd                                     | [Advisory-SVG-2022-CVE-2022-2526](./2022/Advisory-SVG-CVE-2022-2526.md)  | HIGH    | Fixed  |
+| 2022-08-08 Updated 2022-09-26               | HIGH risk - Race condition in Linux perf subsystem                                               | [Advisory-SVG-2022-CVE-2022-1729](./2022/Advisory-SVG-CVE-2022-1729.md)  | HIGH    | Fixed  |
 | 2022-08-08 Updated 2022-09-26               | HIGH risk Netfilter Vulnerability                                                                | [Advisory-SVG-2022-CVE-2022-1015](./2022/Advisory-SVG-CVE-2022-1015.md)  | HIGH    | Fixed  |
 | 2022-08-08 Updated 2022-09-26               | HIGH risk vulnerability concerning rsyslog                                                       | [Advisory-SVG-2022-CVE-2022-24903](./2022/Advisory-SVG-CVE-2022-24903.md)  | HIGH    | Fixed  |
 | 2022-07-05 Updated 2022-07-07, 2022-09-26  | Linux kernel's Netfilter vulnerability                                                            | [Advisory-SVG-2022-CVE-2022-32250](./2022/Advisory-SVG-CVE-2022-32250.md)  | CRITICAL | Fixed  |
