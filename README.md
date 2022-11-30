@@ -19,6 +19,9 @@ various
 
 | Date                                       | Title                                                                                             | Contents/Link                                                        | Risk        | Status |
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ----------- | ------ |
+| 2022-11-02 Updated 2022-11-30              | HIGH risk OpenSSL-3.0.X  vulnerability                                                           | [Advisory-SVG-2022-CVE-2022-3602](./2022/Advisory-SVG-CVE-2022-3602.md)  | HIGH    | Fixed  |
+| 2022-10-27  2022-11-30                     | CRITICAL risk device-mapper-multipath vulnerability                                              | [Advisory-SVG-2022-CVE-2022-41974](./2022/Advisory-SVG-CVE-2022-41974.md)  | CRITICAL   | Fixed  |
+| 2022-10-11 Updated 2022-11-30              | CRITICAL risk  - expat vulnerability                                                             | [Advisory-SVG-2022-CVE-2022-40674](./2022/Advisory-SVG-CVE-2022-40674.md)  | CRITICAL   | Fixed  |
 | 2022-08-31 Updated 2022-09-02. 2022-10-13   | HIGH risk use-after-free  vulnerability was found in systemd                                     | [Advisory-SVG-2022-CVE-2022-2526](./2022/Advisory-SVG-CVE-2022-2526.md)  | HIGH    | Fixed  |
 | 2022-08-08 Updated 2022-09-26               | HIGH risk - Race condition in Linux perf subsystem                                               | [Advisory-SVG-2022-CVE-2022-1729](./2022/Advisory-SVG-CVE-2022-1729.md)  | HIGH    | Fixed  |
 | 2022-08-08 Updated 2022-09-26               | HIGH risk Netfilter Vulnerability                                                                | [Advisory-SVG-2022-CVE-2022-1015](./2022/Advisory-SVG-CVE-2022-1015.md)  | HIGH    | Fixed  |
