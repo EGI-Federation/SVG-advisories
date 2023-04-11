@@ -19,11 +19,9 @@ various
 
 | Date                                       | Title                                                                                             | Contents/Link                                                        | Risk        | Status |
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ----------- | ------ |
-
 | 2023-01-26 Updated 2023-04-11                         | HIGH risk kernel vulnerabilities for RHEL 8 with GPU, RHEL 9                          | [Advisory-SVG-CVE-2022-2959](./2023/Advisory-SVG-CVE-2022-2959.md)        | HIGH  | Fixed  |
 | 2023-01-26 Updated 2023-04-11                         | ALERT -   VMware vRealize Log Insight vulnerability                                   | [Advisory-SVG-CVE-2022-47950](./2023/Advisory-SVG-CVE-2022-47950.md)      | ALERT  | Fixed  |
 | 2023-01-23 Updated 2023-04-11                         | CRITICAL risk  Arbitrary file access  through custom S3 XML entities in Swift's XML parser | [Advisory-SVG-CVE-2022-47950](./2023/Advisory-SVG-CVE-2022-47950.md)  | CRITICAL    | Fixed  |
-
 | 2022-10-19 Updated 2022-10-25, 2022-11-03, 2022-11-11 | CRITICAL risk Linux kernel use after free vulnerability in cls_route filter           | [Advisory-SVG-CVE-2022-2588](./2022/Advisory-SVG-CVE-2022-2588.md)  | CRITICAL    | Fixed  |
 | 2022-11-02 Updated 2022-11-30              | HIGH risk OpenSSL-3.0.X  vulnerability                                                           | [Advisory-SVG-2022-CVE-2022-3602](./2022/Advisory-SVG-CVE-2022-3602.md)  | HIGH    | Fixed  |
 | 2022-10-27 Updated 2022-11-30              | CRITICAL risk device-mapper-multipath vulnerability                                              | [Advisory-SVG-2022-CVE-2022-41974](./2022/Advisory-SVG-CVE-2022-41974.md)  | CRITICAL   | Fixed  |
