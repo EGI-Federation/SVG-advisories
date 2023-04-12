@@ -29,7 +29,7 @@ The important thing is that sites carry out recommended updates, including if
 appropriate their kernel versions. In some cases this may result in reduced
 performance, but the update should not be omitted because of this.
 
-[Wikipedia: Spectre](https://en.wikipedia.org/wiki/Spectre_(security_vulnerability))
+[Wikipedia: Spectre](<https://en.wikipedia.org/wiki/Spectre_(security_vulnerability)>)
 provides some information on the variants, the recommended changes concern
 windows.
 
@@ -42,6 +42,6 @@ windows.
 | May 2018     | CVE-2018-3639 | SpectreNG(Variant 4)   | Speculative Store Bypass (SSB)    | [Advisory-SVG-CVE-2018-3639](../2018/Advisory-SVG-CVE-2018-3639.md)            | High         | [RedHat: SSBD](https://access.redhat.com/security/vulnerabilities/ssbd)                                                                                                      |
 | June 2018    | CVE-2018-3665 |                        | Lazy FP state restore             | None                                                                           | Moderate     | [INTEL SA 00145](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00145.html) [CVE-2018-3665](https://access.redhat.com/security/cve/cve-2018-3665) |
 | July 2018    | CVE-2018-3693 | SpectreNG(Variant 1.1) | Bounds Check Bypass Store (BCBS)  | Covered by [Advisory-SVG-CVE-2018-3620](../2018/Advisory-SVG-CVE-2018-3620.md) | None         |                                                                                                                                                                              |
-| August 2018  | CVE-2018-3620 | L1TF                   | OS, SMM related aspects           | [Advisory-SVG-CVE-2018-3620][../2018/advisory-svg-cve-2018-3620.md]            | High         | [Kernerl.org: L1TF](https://www.kernel.org/doc/html/latest/admin-guide/hw-vuln/l1tf.html) [RedHat: L1TF](https://access.redhat.com/security/vulnerabilities/L1TF)            |
+| August 2018  | CVE-2018-3620 | L1TF                   | OS, SMM related aspects           | [Advisory-SVG-CVE-2018-3620](../2018/Advisory-SVG-CVE-2018-3620.md)            | High         | [Kernerl.org: L1TF](https://www.kernel.org/doc/html/latest/admin-guide/hw-vuln/l1tf.html) [RedHat: L1TF](https://access.redhat.com/security/vulnerabilities/L1TF)            |
 | August 2018  | CVE-2018-3646 | L1TF                   | Virtualization related aspects    | [Advisory-SVG-CVE-2018-3620](../2018/Advisory-SVG-CVE-2018-3620.md)            | High         | see links for CVE-2018-3620                                                                                                                                                  |
 | August 2018  | CVE-2018-3615 | L1TF                   | SGX related aspects               | [Advisory-SVG-CVE-2018-3620](../2018/Advisory-SVG-CVE-2018-3620.md)            |              | see links for CVE-2018-3620. RHEL 7 is not vulnerable but other Linux distributions, such as Debian, are.                                                                    |
