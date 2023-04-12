@@ -25,6 +25,8 @@ jobs:
           MARKDOWN_CONFIG_FILE: .markdownlint.json
           # Always check all the content
           VALIDATE_ALL_CODEBASE: true
+          # No need to waste resources looking for copy/paste
+          VALIDATE_JSCPD: false
           # Debug super-linter
           ACTIONS_RUNNER_DEBUG: false
           # Fail on errors
