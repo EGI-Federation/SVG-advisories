@@ -19,6 +19,7 @@ various
 
 | Date                                                  | Title                                                                                    | Contents/Link                                                             | Risk     | Status |
 | ----------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------- | ------ |
+| 2023-02-24 Updated  2023-04-21                        | HIGH risk   Use-after-free flaw affecting RHEL8.  [EGI-SVG-CVE-2022-41222]               | [Advisory-SVG-CVE-2023-41222](./2023/Advisory-SVG-CVE-2022-41222.md)      | HIGH     | Fixed  |
 | 2023-02-13 Updated 2023-02-14, 2023-04-21             | HIGH risk OpenSSL vulnerabilities announced  [EGI-SVG-CVE-2023-0286]                     | [Advisory-SVG-CVE-2023-0286](./2023/Advisory-SVG-CVE-2022-0286.md)        | HIGH     | Fixed  |
 | 2023-01-26 Updated 2023-04-11                         | HIGH risk kernel vulnerabilities for RHEL 8 with GPU, RHEL 9                             | [Advisory-SVG-CVE-2022-2959](./2023/Advisory-SVG-CVE-2022-2959.md)        | HIGH     | Fixed  |
 | 2023-01-26 Updated 2023-04-11                         | ALERT - VMware vRealize Log Insight vulnerability                                        | [Advisory-SVG-CVE-2022-31706](./2023/Advisory-SVG-CVE-2022-31706.md)      | ALERT    | Fixed  |
