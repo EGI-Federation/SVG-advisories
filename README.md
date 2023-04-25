@@ -19,7 +19,7 @@ various
 
 | Date                                                  | Title                                                                                    | Contents/Link                                                             | Risk     | Status |
 | ----------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------- | ------ |
-| 2023-04-21 Updated  2023-04-25                        | ALERT Multiple NVIDIA GPU vulnerabilities [EGI-SVG-CVE-2023-0189]                        | [Advisory-SVG-CVE-2023-0189](./2023/Advisory-SVG-CVE-2023-0189.md) |  | Fixed  |
+| 2023-04-21 Updated  2023-04-25                        | ALERT Multiple NVIDIA GPU vulnerabilities [EGI-SVG-CVE-2023-0189]                        | [Advisory-SVG-CVE-2023-0189](./2023/Advisory-SVG-CVE-2023-0189.md) | ALERT  | Fixed  |
 | 2023-03-13 Updated  2023-04-21                        | CRITICAL risk - RHEL 9 - Buffer overflow vulnerability in Linux Kernel Netfilter. [EGI-SVG-CVE-2023-0179]   | [Advisory-SVG-CVE-2023-0179](./2023/Advisory-SVG-CVE-2023-0179.md) | CRITICAL  | Fixed  |
 | 2023-03-09 Updated  2023-04-21                        | HIGH risk - Stack overflow flaw in the Linux kernel's SYSCTL subsystem  [EGI-SVG-CVE-2022-4378] | [Advisory-SVG-CVE-2022-4378](./2023/Advisory-SVG-CVE-2022-4378.md)        | HIGH     | Fixed  |
 | 2023-02-24 Updated  2023-04-21                        | HIGH risk   Use-after-free flaw affecting RHEL8.  [EGI-SVG-CVE-2022-41222]               | [Advisory-SVG-CVE-2022-41222](./2023/Advisory-SVG-CVE-2022-41222.md)      | HIGH     | Fixed  |
