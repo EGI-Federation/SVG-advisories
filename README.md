@@ -19,6 +19,7 @@ various
 
 | Date                                                  | Title                                                                                    | Contents/Link                                                             | Risk     | Status |
 | ----------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------- | ------ |
+| 2023-04-06 Updated  2023-06-08                        | HIGH Apache HTTP request splitting vulnerability [EGI-SVG-CVE-2023-25690]                | [Advisory-SVG-CVE-2023-25690](./2023/Advisory-SVG-CVE-2023-25690.md) | HIGH  | Fixed  |
 | 2023-04-21 Updated  2023-06-07                        | CRITICAL Linux kernel OverlayFS subsystem vulnerability  [EGI-SVG-CVE-2023-0386]         | [Advisory-SVG-CVE-2023-0386](./2023/Advisory-SVG-CVE-2023-0386.md) | CRITICAL  | Fixed  |
 | 2023-04-21 Updated  2023-04-25                        | ALERT Multiple NVIDIA GPU vulnerabilities [EGI-SVG-CVE-2023-0189]                        | [Advisory-SVG-CVE-2023-0189](./2023/Advisory-SVG-CVE-2023-0189.md) | ALERT  | Fixed  |
 | 2023-03-13 Updated  2023-04-21                        | CRITICAL risk - RHEL 9 - Buffer overflow vulnerability in Linux Kernel Netfilter. [EGI-SVG-CVE-2023-0179]   | [Advisory-SVG-CVE-2023-0179](./2023/Advisory-SVG-CVE-2023-0179.md) | CRITICAL  | Fixed  |
