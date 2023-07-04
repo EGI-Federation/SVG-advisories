@@ -19,6 +19,9 @@ various
 
 | Date                                                  | Title                                                                                    | Contents/Link                                                             | Risk     | Status |
 | ----------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------- | ------ |
+| 2023-05-26 Updated  2023-07-04                        | CRITICAL risk OpenStack Vulnerability with iSCSI or FC based volumes. [EGI-SVG-CVE-2023-2088]           | [Advisory-SVG-CVE-2023-2088](./2023/Advisory-SVG-CVE-2023-2088.md) | CRITICAL  | Fixed  |
+| 2023-05-17 Updated  2023-07-04                        | HIGH risk Use-after-free flaw was found in the Linux kernel’s TLS protocol [EGI-SVG-CVE-2023-0461]      | [Advisory-SVG-CVE-2023-0461](./2023/Advisory-SVG-CVE-2023-0461.md) | HIGH  | Fixed  |
+| 2023-04-27 Updated  2023-06-01, 2023-04-07            | HIGH risk Apptainer /Singularity setuid-root installations vulnerability  [EGI-SVG-CVE-2023-30549]     | [Advisory-SVG-CVE-2023-30549](./2023/Advisory-SVG-CVE-2023-30549.md) | HIGH  | Fixed  |
 | 2023-04-06 Updated  2023-06-08                        | HIGH Apache HTTP request splitting vulnerability [EGI-SVG-CVE-2023-25690]                | [Advisory-SVG-CVE-2023-25690](./2023/Advisory-SVG-CVE-2023-25690.md) | HIGH  | Fixed  |
 | 2023-04-21 Updated  2023-06-07                        | CRITICAL Linux kernel OverlayFS subsystem vulnerability  [EGI-SVG-CVE-2023-0386]         | [Advisory-SVG-CVE-2023-0386](./2023/Advisory-SVG-CVE-2023-0386.md) | CRITICAL  | Fixed  |
 | 2023-04-21 Updated  2023-04-25                        | ALERT Multiple NVIDIA GPU vulnerabilities [EGI-SVG-CVE-2023-0189]                        | [Advisory-SVG-CVE-2023-0189](./2023/Advisory-SVG-CVE-2023-0189.md) | ALERT  | Fixed  |
