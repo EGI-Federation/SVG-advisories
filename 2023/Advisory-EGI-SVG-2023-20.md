@@ -2,10 +2,8 @@
 title: Advisory-EGI-SVG-2023-20
 permalink: /Advisory-EGI-SVG-2023-20
 ---
-
-```
 ## Advisory-EGI-SVG-2023-20
-
+```
 Title:       EGI SVG 'ADVISORY' [TLP:WHITE] MODERATE risk Indigo IAM XSS 
              vulnerability [EGI-SVG-2023-20]
 
