@@ -44,11 +44,13 @@ For this reason, *two* releases have been made.
 More information
 ================
 
-INDIGO-IAM is a centrally-managed service that covers functionality similar to VOMS,
-in a world based on OAuth/OpenID Connect. It is meant to replace VOMS in the not-too-distant future.
-There is one instance of IAM per VO and there are already several deployments in WLCG
-(e.g. for the four LHC experiments), but also in other contexts. It is also one of the AAI
-solutions for the EOSC. More information on the product is available at [R 1] [R 2]  
+INDIGO-IAM is a centrally-managed service that covers functionality similar
+to VOMS, in a world based on OAuth/OpenID Connect. It is meant to replace VOMS
+in the not-too-distant future.
+There is one instance of IAM per VO and there are already several deployments
+in WLCG(e.g. for the four LHC experiments), but also in other contexts.
+It is also one of the AAI solutions for the EOSC.
+More information on the product is available at [R 1] [R 2]  
 
 
 TLP and URL
