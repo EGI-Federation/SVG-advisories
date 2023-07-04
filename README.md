@@ -19,6 +19,7 @@ various
 
 | Date                                                  | Title                                                                                    | Contents/Link                                                             | Risk     | Status |
 | ----------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------- | ------ |
+|  2023-07-04                                           | MODERATE risk Indigo IAM XSS vulnerability [EGI-SVG-2023-20]                             | [Advisory-EGI-SVG-2023-20](./2023/Advisory-EGI-SVG-2023-20.md) | MODERATE  | Fixed  |
 | 2023-05-26 Updated  2023-07-04                        | CRITICAL risk OpenStack Vulnerability with iSCSI or FC based volumes. [EGI-SVG-CVE-2023-2088]           | [Advisory-SVG-CVE-2023-2088](./2023/Advisory-SVG-CVE-2023-2088.md) | CRITICAL  | Fixed  |
 | 2023-05-17 Updated  2023-07-04                        | HIGH risk Use-after-free flaw was found in the Linux kernel’s TLS protocol [EGI-SVG-CVE-2023-0461]      | [Advisory-SVG-CVE-2023-0461](./2023/Advisory-SVG-CVE-2023-0461.md) | HIGH  | Fixed  |
 | 2023-04-27 Updated  2023-06-01, 2023-04-07            | HIGH risk Apptainer /Singularity setuid-root installations vulnerability  [EGI-SVG-CVE-2023-30549]     | [Advisory-SVG-CVE-2023-30549](./2023/Advisory-SVG-CVE-2023-30549.md) | HIGH  | Fixed  |
