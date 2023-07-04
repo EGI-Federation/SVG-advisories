@@ -67,11 +67,13 @@ Comments
 
 Comments or questions should be sent to svg-rat  at  mailman.egi.eu
 
-If you find or become aware of another vulnerability which is relevant to EGI you may report it by e-mail to 
+If you find or become aware of another vulnerability which is relevant to EGI
+you may report it by e-mail to 
 
 report-vulnerability at egi.eu
  
-the EGI Software Vulnerability Group will take a look according to the procedure defined in [R 99]. 
+the EGI Software Vulnerability Group will take a look according to the
+procedure defined in [R 99]. 
 
 References
 ==========
