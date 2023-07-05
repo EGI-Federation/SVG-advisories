@@ -1,6 +1,6 @@
 ---
 title: Test-New-Template
-permalink: / Test-New-Template
+permalink: /Test-New-Template
 ---
 
 ##  'ADVISORY' [TLP:AMBER] HIGH risk Linux kernel vulnerability [EGI-SVG-2023-33]
