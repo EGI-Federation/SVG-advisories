@@ -3,7 +3,7 @@ title: Test-New-Template
 permalink: /Test-New-Template
 ---
 
-##  'ADVISORY' [TLP:AMBER] HIGH risk Linux kernel vulnerability [EGI-SVG-2023-33]
+##  'ADVISORY' [TLP:WHITE] HIGH risk Linux kernel vulnerability [EGI-SVG-2023-33]
 
 (for testing the new template when put in advisories.egi.eu only) 
 
@@ -41,9 +41,7 @@ Note that Scientific Linux is based on RHEL7 therefore is not affected.
 
 ## STATUS OF THIS ADVISORY
                         
-** AMBER information - Limited distribution 
-
- This advisory will be made public on or after 2023-06-14  at  
+** WHITE information - Unlimited distribution  
  
  https://advisories.egi.eu/Advisory-EGI-SVG-2023-33  
 
