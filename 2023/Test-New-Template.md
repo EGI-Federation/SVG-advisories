@@ -4,9 +4,9 @@ permalink: / Test-New-Template
 published: false
 ---
 
-## Test New Template
+##  'ADVISORY' [TLP:AMBER] HIGH risk Linux kernel vulnerability [EGI-SVG-2023-33]
 
-Title:    'ADVISORY' [TLP:AMBER] HIGH risk Linux kernel vulnerability [EGI-SVG-2023-33]
+(for testing the new template when put in advisories.egi.eu only) 
 
 
 Date: 2023-05-17
