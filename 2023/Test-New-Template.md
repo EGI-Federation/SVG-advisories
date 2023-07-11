@@ -11,9 +11,9 @@ Date: 2023-05-17
 
 Updated:
 
-A HIGH risk Use-after-free flaw was found in the Linux kernel’s TLS protocol.
+A HIGH risk Use-after-free flaw was found in the Linux kernel’s TLS protocol, affecting RHEL8 and RHEL9 and their derivatives
 
-## AFFECTED SOFTWARE AND VERSIONS
+## IDs AND CVSS SCORE
 
 EGI SVG ID : EGI-SVG-2023-33
     
@@ -21,7 +21,6 @@ CVE ID     : CVE-2023-0461
 
 CVSS Score : 7.8 [R 1]
     
-
 
 ## ACTIONS REQUIRED/RECOMMENDED
     
