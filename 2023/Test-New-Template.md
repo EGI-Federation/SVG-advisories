@@ -7,8 +7,8 @@ permalink: /Test-New-Template
 
 (for testing the new template when put in advisories.egi.eu only) 
 
-
 Date: 2023-05-17
+
 Updated:
 
 A HIGH risk Use-after-free flaw was found in the Linux kernel’s TLS protocol.
@@ -50,18 +50,16 @@ Note that Scientific Linux is based on RHEL7 therefore is not affected.
 Minor updates may be made without re-distribution to the sites.
 
 
-## CONTEXT AND INFORMATION ON SVG
+## CONTACT AND OTHER INFORMATION ON SVG
 
-See [R 98] for information on how to report vulnerabilities, context and re-use of this information. 
-
-See [R 99] for the EGI SVG software vulnerability handling procedure. 
-
-Comments or questions should be sent to svg-rat  at  mailman.egi.eu
+Comments or questions should be sent to
+	svg-rat at mailman.egi.eu
 
 Vulnerabilities relevant for EGI can be reported at
-    report-vulnerability at egi.eu (see [R 98] for further details)
+	report-vulnerability at egi.eu
     
-    
+(see [R 99] for further details, and other informtion on SVG)
+  
 ## REFERENCES
 
 [R 1] https://access.redhat.com/security/cve/CVE-2023-0461
@@ -76,9 +74,8 @@ Vulnerabilities relevant for EGI can be reported at
 
 [R 6] AlmaLinux https://errata.almalinux.org/
 
-[R 98] <info on SVG> (temp link) https://confluence.egi.eu/display/EGISVG/SVG+Advisories
+[R 99] <info on SVG> (temp link) https://confluence.egi.eu/display/EGISVG/SVG+Advisories
 
-[R 99] https://documents.egi.eu/public/ShowDocument?docid=3867
 
 
   
