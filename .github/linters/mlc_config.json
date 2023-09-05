@@ -2,6 +2,12 @@
   "ignorePatterns": [
     {
       "pattern": "^https://advisories.egi.eu/.*XXXX-"
+    },
+    {
+      "pattern": "^https://advisories.egi.eu/Advisory-EGI-SVG-2023-33"
+    },
+    {
+      "pattern": "^https://advisories.egi.eu/Advisory-EGI-SVG-CVE-2023-0461"
     }
   ],
   "httpHeaders": [
