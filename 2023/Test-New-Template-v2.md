@@ -7,8 +7,9 @@ permalink: /Test-New-Template-v2
 
 > for testing the new template when put in advisories.egi.eu only
 
-- Date: 2023-05-17
-- Updated:
+Date: 2023-05-17
+
+Updated:
 
 A HIGH risk Use-after-free flaw was found in the Linux kernel’s TLS protocol, affecting
 RHEL8 and RHEL9 and their derivatives.
