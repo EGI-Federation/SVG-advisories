@@ -26,13 +26,20 @@ CVSS Score : 7.8 [R 1]
 
 Affected sites are recommended to update relevant components as soon as possible.
 
-Sites should update the relevant components using the RedHat or other vendor updates, see references below.
+Sites should update the relevant components using the RedHat or other vendor updates, see
+references below.
 
 ## MORE INFORMATION
 
-A use-after-free flaw was found in the Linux kernel’s TLS protocol functionality in how a user installs a tls context (struct tls_context) on a connected TCP socket. This flaw allows a local user to crash or potentially escalate their privileges on the system. [R 1]. For RHEL this only affects RHEL8 and RHEL9 nad their derivatives, 7 and its derivatives are not affected.
+A use-after-free flaw was found in the Linux kernel’s TLS protocol functionality in how a
+user installs a TLS context (struct tls_context) on a connected TCP socket. This flaw
+allows a local user to crash or potentially escalate their privileges on the system [R 1].
+For RHEL this only affects RHEL8 and RHEL9 and their derivatives, 7 and its
+derivatives are not affected.
 
-The vulnerability can be exploited only by a local user. Hence sites should update their affected Grid Worker Nodes, User Interfaces and other shared user systems as the risk may be higher than suggested by the CVSS score.
+The vulnerability can be exploited only by a local user. Hence sites should update their
+affected Grid Worker Nodes, User Interfaces and other shared user systems as the risk may
+be higher than suggested by the CVSS score.
 
 Note that Scientific Linux is based on RHEL7 therefore is not affected.
 
