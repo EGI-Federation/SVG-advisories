@@ -109,15 +109,15 @@ CERN has compiled information which is useful for many EGI sites:
 ##### Intel
 
 Intel has initially, on January 8th,
-[released new microcodes](https://downloadcenter.intel.com/download/27431/Linux-Processor-Microcode-Data-File)
+[released new microcodes](https://github.com/intel/Intel-Linux-Processor-Microcode-Data-Files)
 to complement the IBRS kernel patchset. However, these new microcodes are in
 fact **unstable** and Intel has since then recommended to stop deploying them.
 
 Intel latest recommendation can be found in their advisory,
-[INTEL-SA-00088](https://security-center.intel.com/advisory.aspx?intelid=INTEL-SA-00088&languageid=en-fr)
+[INTEL-SA-00088](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00088.html)
 
 More updates and information:
-
+<!-- markdown-link-check-disable -->
 - [Jan 3rd: Initial response](https://newsroom.intel.com/news/intel-responds-to-security-research-findings/)
 - [Jan 4th](https://newsroom.intel.com/news-releases/intel-issues-updates-protect-systems-security-exploits/)
 - [Jan 9th: Microcode released](https://newsroom.intel.com/news/intel-offers-security-issue-update/)
@@ -125,6 +125,7 @@ More updates and information:
 - [Jan 11th: Microcode unstability reported](https://newsroom.intel.com/news/intel-security-issue-update-addressing-reboot-issues/)
 - [Jan 17th](https://newsroom.intel.com/news/firmware-updates-and-initial-performance-data-for-data-center-systems/)
 - [Jan 22th: Instabilities causes found for 2 Intel series](https://newsroom.intel.com/news/root-cause-of-reboot-issue-identified-updated-guidance-for-customers-and-partners/)
+<!-- markdown-link-check-enable -->
 
 #### Linux Distributions
 
