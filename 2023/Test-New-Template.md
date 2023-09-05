@@ -3,7 +3,7 @@ title: Test-New-Template
 permalink: /Test-New-Template
 ---
 
-##  'ADVISORY' [TLP:WHITE] HIGH risk Linux kernel vulnerability [EGI-SVG-2023-33]
+## 'ADVISORY' [TLP:WHITE] HIGH risk Linux kernel vulnerability [EGI-SVG-2023-33]
 
 (for testing the new template when put in advisories.egi.eu only)
 
@@ -17,10 +17,9 @@ A HIGH risk Use-after-free flaw was found in the Linux kernel’s TLS protocol, 
 
 EGI SVG ID : EGI-SVG-2023-33
 
-CVE ID     : CVE-2023-0461
+CVE ID : CVE-2023-0461
 
 CVSS Score : 7.8 [R 1]
-
 
 ## ACTIONS REQUIRED/RECOMMENDED
 
@@ -45,7 +44,7 @@ Note that Scientific Linux is based on RHEL7 therefore is not affected.
 
 ## STATUS OF THIS ADVISORY
 
-** WHITE information - Unlimited distribution
+** WHITE information - Unlimited distribution **
 
 https://advisories.egi.eu/Advisory-EGI-SVG-2023-33
 
@@ -53,14 +52,11 @@ https://advisories.egi.eu/Advisory-EGI-SVG-CVE-2023-0461
 
 Minor updates may be made without re-distribution to the sites.
 
-
 ## CONTACT AND OTHER INFORMATION ON SVG
 
-Comments or questions should be sent to
-	svg-rat at mailman.egi.eu
+Comments or questions should be sent to `svg-rat at mailman.egi.eu`
 
-Vulnerabilities relevant for EGI can be reported at
-	report-vulnerability at egi.eu
+Vulnerabilities relevant for EGI can be reported at `report-vulnerability at egi.eu`
 
 (see [R 99] for further details, and other informtion on SVG)
 
