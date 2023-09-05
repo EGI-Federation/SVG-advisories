@@ -61,13 +61,13 @@ Vulnerabilities relevant for EGI can be reported at `report-vulnerability at egi
 
 ## REFERENCES
 
-- [R 1](https://access.redhat.com/security/cve/CVE-2023-0461)
-- [R 2](https://lists.centos.org/pipermail/centos-announce/)
-- [R 3](https://security-tracker.debian.org/tracker/CVE-2023-0461)
-- [R 4](https://ubuntu.com/security/CVE-2023-0461)
-- [R 5](RockyLinux https://errata.build.resf.org/)
-- [R 6](AlmaLinux https://errata.almalinux.org/)
-- [[R 99] (information on SVG)](https://confluence.egi.eu/display/EGISVG/SVG+Advisories)
+- [R 1] [https://access.redhat.com/security/cve/CVE-2023-0461]
+- [R 2] [https://lists.centos.org/pipermail/centos-announce/]
+- [R 3] [https://security-tracker.debian.org/tracker/CVE-2023-0461]
+- [R 4] [https://ubuntu.com/security/CVE-2023-0461]
+- [R 5] [RockyLinux https://errata.build.resf.org/]
+- [R 6] [AlmaLinux https://errata.almalinux.org/]
+- [[R 99] Information on SVG](https://confluence.egi.eu/display/EGISVG/SVG+Advisories)
 
 ## CREDITS
 
