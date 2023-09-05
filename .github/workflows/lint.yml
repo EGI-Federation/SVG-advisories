@@ -23,8 +23,8 @@ jobs:
           DEFAULT_BRANCH: main
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           MARKDOWN_CONFIG_FILE: .markdownlint.json
-          # Always check all the content
-          VALIDATE_ALL_CODEBASE: true
+          # Only check the changed content
+          VALIDATE_ALL_CODEBASE: false
           # No need to waste resources looking for copy/paste
           VALIDATE_JSCPD: false
           # Debug super-linter
