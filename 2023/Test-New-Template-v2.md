@@ -68,7 +68,7 @@ Vulnerabilities relevant for EGI can be reported at `report-vulnerability at egi
 - [R 4] <https://ubuntu.com/security/CVE-2023-0461>
 - [R 5] RockyLinux <https://errata.build.resf.org/>
 - [R 6] AlmaLinux <https://errata.almalinux.org/>
-- [[R 99] Information on SVG](https://confluence.egi.eu/display/EGISVG/SVG+Advisories)
+- [R 99] [Information on SVG](https://confluence.egi.eu/display/EGISVG/SVG+Advisories)
 
 ## CREDITS
 
