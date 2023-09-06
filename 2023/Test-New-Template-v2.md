@@ -42,7 +42,7 @@ Note that Scientific Linux is based on RHEL7 therefore is not affected.
 
 ## STATUS OF THIS ADVISORY
 
-_TLP:CLEAR information - Unlimited distribution_
+    _TLP:CLEAR information - Unlimited distribution_
 
 - <https://advisories.egi.eu/Advisory-EGI-SVG-2023-33>
 - <https://advisories.egi.eu/Advisory-EGI-SVG-CVE-2023-0461>
