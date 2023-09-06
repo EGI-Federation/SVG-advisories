@@ -3,13 +3,9 @@ title: Test-New-Template-v2
 permalink: /Test-New-Template-v2
 ---
 
-## 'ADVISORY' [TLP:WHITE] HIGH risk Linux kernel vulnerability [EGI-SVG-2023-33]
-
-> for testing the new template when put in advisories.egi.eu only
+## 'ADVISORY' [TLP:CLEAR] HIGH risk Linux kernel vulnerability [EGI-SVG-2023-33]
 
 Date: 2023-05-17
-
-Updated:
 
 A HIGH risk Use-after-free flaw was found in the Linux kernel’s TLS protocol, affecting
 RHEL8 and RHEL9 and their derivatives.
@@ -45,7 +41,7 @@ Note that Scientific Linux is based on RHEL7 therefore is not affected.
 
 ## STATUS OF THIS ADVISORY
 
-> TLP:CLEAR information - Unlimited distribution
+**TLP:CLEAR information - Unlimited distribution**
 
 - <https://advisories.egi.eu/Advisory-EGI-SVG-2023-33>
 - <https://advisories.egi.eu/Advisory-EGI-SVG-CVE-2023-0461>
