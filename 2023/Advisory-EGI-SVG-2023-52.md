@@ -62,8 +62,8 @@ Sites running various linux derivatives should see references below.
 
 ## MORE INFORMATION
 
-For CVE-2023-20593 (Zenbleed) [R 11] we have already sent and 'ALERT' 
-and placed this on our public advisories. 
+For CVE-2023-20593 (Zenbleed) [R 11] we have already sent and 'ALERT'  
+and placed this on our public advisories.  
 There is also a RHEL7 patch relating to this. 
 
 ## STATUS OF THIS ADVISORY
