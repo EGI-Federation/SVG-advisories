@@ -11,7 +11,6 @@ redirect_from:
   - /Advisory-SVG-CVE-2023-1637
   - /Advisory-SVG-CVE-2023-35001
   - /Advisory-SVG-CVE-2023-3776
-  - /Advisory-SVG-CVE-2023-20593
 ---
 ## Advisory-EGI-SVG-2023-52
 
