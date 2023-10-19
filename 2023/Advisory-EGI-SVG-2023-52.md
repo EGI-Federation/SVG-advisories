@@ -29,22 +29,22 @@ EGI SVG ID : EGI-SVG-2023-52
 
 CVE's only affecting RHEL9:- 
  
-CVE ID/CVSS Score     : CVE-2023-3610/7.8 [R 2] 
-CVE ID/CVSS Score     : CVE-2023-4147/7.8 [R 3] 
-CVE ID/CVSS Score     : CVE-2023-31248/7.8 [R 4] 
+CVE ID/CVSS Score     : CVE-2023-3610/7.8 [R 2]  
+CVE ID/CVSS Score     : CVE-2023-4147/7.8 [R 3]  
+CVE ID/CVSS Score     : CVE-2023-31248/7.8 [R 4]  
 
 CVE's affecting RHEL9 and RHEL8:- 
 
-CVE ID/CVSS Score     : CVE-2023-3390/7.8 [R 5] 
-CVE ID/CVSS Score     : CVE-2023-4004/7.8 [R 6] 
-CVE ID/CVSS Score     : CVE-2023-21102/7.8 [R 7] 
-CVE ID/CVSS Score     : CVE-2023-1637/5.5 [R 8] 
+CVE ID/CVSS Score     : CVE-2023-3390/7.8 [R 5]  
+CVE ID/CVSS Score     : CVE-2023-4004/7.8 [R 6]  
+CVE ID/CVSS Score     : CVE-2023-21102/7.8 [R 7]  
+CVE ID/CVSS Score     : CVE-2023-1637/5.5 [R 8]  
 
 CVE's affecting RHEL9, RHEL8 and RHEL7:- 
 
-CVE ID/CVSS Score     : CVE-2023-35001/7.8 [R 9] 
-CVE ID/CVSS Score     : CVE-2023-3776/7.0 [R 10] 
-CVE ID/CVSS Score     : CVE-2023-20593/6.5 [R 11] 
+CVE ID/CVSS Score     : CVE-2023-35001/7.8 [R 9]  
+CVE ID/CVSS Score     : CVE-2023-3776/7.0 [R 10]  
+CVE ID/CVSS Score     : CVE-2023-20593/6.5 [R 11]  
     
 ## ACTIONS REQUIRED/RECOMMENDED 
 
