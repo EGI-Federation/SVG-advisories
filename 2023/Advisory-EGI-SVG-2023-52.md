@@ -20,11 +20,10 @@ redirect_from:
 Date:        2023-09-21  
 Updated:     2023-10-19
 
-Red Hat has produced a new release of RHEL9, fixing  
-Multiple HIGH risk vulnerabilities. [R 1] 
+Red Hat has produced a new release of RHEL9, fixing multiple HIGH risk  
+vulnerabilities. [R 1] 
 Some also affect RHEL8, some RHEL7.  
-A further release [R 17] of RHEL8 fixes most of the vulnerabilities 
-affecting RHEL8.  
+A further release [R 17] of RHEL8 fixes most of the vulnerabilities affecting RHEL8.  
 
 **UPDATE 2023-10-19** 
 
