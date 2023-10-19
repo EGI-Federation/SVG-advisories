@@ -15,13 +15,20 @@ redirect_from:
 ---
 ## Advisory-EGI-SVG-2023-52
 
-# HIGH risk Multiple linux Kernel Vulnerabilities 
+# 'ADVISORY' HIGH risk Multiple linux Kernel Vulnerabilities 
+
+Date:        2023-09-21
+Updated:     2023-10-19
+
 Red Hat has produced a new release of RHEL9, fixing  
 Multiple HIGH risk vulnerabilities. [R 1] 
 Some also affect RHEL8, some RHEL7.  
 A further release [R 17] of RHEL8 fixes most of the vulnerabilities 
 affecting RHEL8.  
-Those affecting RHEL7 (with 1 exception) are NOT yet fixed. 
+
+**UPDATE 2023-10-19** 
+
+Most vulnerabilities are now fixed including for RHEL7.
 
 ## CVE IDS, CVSS SCORES, AND AFFECTED SOFTWARE VERSIONS
 
