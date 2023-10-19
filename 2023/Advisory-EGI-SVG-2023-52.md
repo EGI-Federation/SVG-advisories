@@ -17,7 +17,7 @@ redirect_from:
 
 # 'ADVISORY' HIGH risk Multiple linux Kernel Vulnerabilities 
 
-Date:        2023-09-21
+Date:        2023-09-21  
 Updated:     2023-10-19
 
 Red Hat has produced a new release of RHEL9, fixing  
@@ -62,6 +62,9 @@ see references below.
 Sites running RHEL8 are also recommended to update relevant components,  
 as most of the vulnerabilities affecting RHEL8 have also been fixed. 
     
+Sites running RHEL7 are also recommneded to update releavant components,  
+where patches are available.
+
 Sites running RHEL7 are recommended to carry out mitigation,  
 unless this disables functionality required, again see references below. 
 
