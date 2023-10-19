@@ -19,8 +19,7 @@ various
 
 | Date                                                  | Title                                                                                                     | Contents/Link                                                             | Risk     | Status |
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------- | ------ |
-| 2023-08-16 Updated 2023-10-19                         | HIGH risk Intel Downfall Vulnerability [EGI-SVG-CVE-2022-40982]     | [Advisory-SVG-CVE-2022-](./2023/Advisory-SVG-CVE-2022-40982.md)        | HIGH | Fixed/Mitigated |
-
+| 2023-08-16 Updated 2023-10-19                         | HIGH risk Intel Downfall Vulnerability [EGI-SVG-CVE-2022-40982]     | [Advisory-SVG-CVE-2022-40982](./2023/Advisory-SVG-CVE-2022-40982.md)        | HIGH | Fixed/Mitigated |
 | 2023-09-21 Updated 2023-10-19                         | HIGH Risk Linux kernel vulnerabilities  [EGI-SVG-2023-52]       | [Advisory-EGI-SVG-2023-52](./2023/Advisory-EGI-SVG-2023-52.md)        | HIGH | Fixed (Mostly) |
 | 2023-08-10 Updated 2023-09-15                         | Up to CRITICAL Risk Linux kernel vulnerabilities  [EGI-SVG-CVE-2023-1829]       | [Advisory-SVG-CVE-2023-1829](./2023/Advisory-SVG-CVE-2023-1829.md)        | Up to CRITICAL | Fixed (Partially) |
 | 2023-08-08 Updated 2023-09-15                         | HIGH Risk mod_auth_openidc vulnerability  [EGI-SVG-CVE-2023-37464]              | [Advisory-SVG-CVE-2023-37464](./2023/Advisory-SVG-CVE-2023-37464.md)        | HIGH | Fixed |
