@@ -20,7 +20,7 @@ Red Hat has produced a new release of RHEL9, fixing
 Multiple HIGH risk vulnerabilities. [R 1] 
 Some also affect RHEL8, some RHEL7.  
 A further release [R 17] of RHEL8 fixes most of the vulnerabilities 
-affecting RHEL8. 
+affecting RHEL8.  
 Those affecting RHEL7 (with 1 exception) are NOT yet fixed. 
 
 ## CVE IDS, CVSS SCORES, AND AFFECTED SOFTWARE VERSIONS
@@ -115,11 +115,11 @@ Vulnerabilities relevant for EGI can be reported at
 
 - [R 14] <https://lists.centos.org/pipermail/centos-announce/>
 
-- [R 15] <https://security-tracker.debian.org/tracker/CVE-2023-3610> 
- (and similar references)
+- [R 15] <https://security-tracker.debian.org/tracker/CVE-2023-3610>
+- (and similar references)
  
-- [R 16] <https://ubuntu.com/security/CVE-2023-3610> 
- (and similar references)
+- [R 16] <https://ubuntu.com/security/CVE-2023-3610>
+- (and similar references)
  
 - [R 17] <https://access.redhat.com/errata/RHSA-2023:5244>
 
