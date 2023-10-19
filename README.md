@@ -19,7 +19,7 @@ various
 
 | Date                                                  | Title                                                                                                     | Contents/Link                                                             | Risk     | Status |
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------- | ------ |
-| 2023-09-21 Updated 2023-10-19                         | HIGH Risk Linux kernel vulnerabilities  [EGI-SVG-2023-52]       | [Advisory-SVG-2023-52](./2023/Advisory-SVG-2023-52.md)        | HIGH | Fixed (Mostly) |
+| 2023-09-21 Updated 2023-10-19                         | HIGH Risk Linux kernel vulnerabilities  [EGI-SVG-2023-52]       | [Advisory-EGI-SVG-2023-52](./2023/Advisory-EGI-SVG-2023-52.md)        | HIGH | Fixed (Mostly) |
 | 2023-08-10 Updated 2023-09-15                         | Up to CRITICAL Risk Linux kernel vulnerabilities  [EGI-SVG-CVE-2023-1829]       | [Advisory-SVG-CVE-2023-1829](./2023/Advisory-SVG-CVE-2023-1829.md)        | Up to CRITICAL | Fixed (Partially) |
 | 2023-08-08 Updated 2023-09-15                         | HIGH Risk mod_auth_openidc vulnerability  [EGI-SVG-CVE-2023-37464]              | [Advisory-SVG-CVE-2023-37464](./2023/Advisory-SVG-CVE-2023-37464.md)        | HIGH | Fixed |
 | 2023-05-11 Updated 2023-06-12, 2023-06-22, 2023-09-15, 2023-10-19 | CRITICAL risk Netfilter nf_tables use-after-free flaw. [EGI-SVG-CVE-2023-32233]             | [Advisory-SVG-CVE-2023-32233](./2023/Advisory-SVG-CVE-2023-32233.md)        | CRITICAL | Fixed |
