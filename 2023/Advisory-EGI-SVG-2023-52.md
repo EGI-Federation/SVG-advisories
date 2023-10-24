@@ -14,7 +14,7 @@ redirect_from:
 ---
 ## Advisory-EGI-SVG-2023-52
 
-# 'ADVISORY' HIGH risk Multiple linux Kernel Vulnerabilities 
+# 'ADVISORY' [TLP:WHITE] HIGH risk Multiple linux Kernel Vulnerabilities 
 
 Date:        2023-09-21  
 Updated:     2023-10-19
