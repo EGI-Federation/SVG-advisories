@@ -14,7 +14,7 @@ redirect_from:
 ---
 ## Advisory-EGI-SVG-2023-52
 
-# 'ADVISORY' [TLP:WHITE] HIGH risk Multiple linux Kernel Vulnerabilities 
+# 'ADVISORY' [TLP:CLEAR] HIGH risk Multiple linux Kernel Vulnerabilities 
 
 Date:        2023-09-21  
 Updated:     2023-10-19, 2023-10-24
@@ -78,7 +78,7 @@ There is also a RHEL7 patch relating to this.
 
 ## STATUS OF THIS ADVISORY
                 
-_TLP:WHITE information - Unlimited distribution_  
+_TLP:CLEAR information - Unlimited distribution_  
 
  <https://advisories.egi.eu/Advisory-EGI-SVG-2023-52> 
 
