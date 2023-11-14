@@ -7,7 +7,7 @@ redirect_from:
 
 ## Advisory-EGI-SVG-2023-55
 
-# 'ADVISORY' [TLP:WHITE] HIGH Risk glibc vulnerability 
+# 'ADVISORY' [TLP:CLEAR] HIGH Risk glibc vulnerability 
 
 Date: 2023-10-06
 Updated 2023-11-14
@@ -42,7 +42,7 @@ Since this does not affect RHEL7 and derivatives, scientific Linux is not affect
     
 ## STATUS OF THIS ADVISORY
                         
-_TLP:WHITE information - Unlimited distribution_ 
+_TLP:CLEAR information - Unlimited distribution_ 
 
 <https://advisories.egi.eu/Advisory-EGI-SVG-2023-55> 
 
