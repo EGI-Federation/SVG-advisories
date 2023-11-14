@@ -3,8 +3,6 @@ title: Advisory-EGI-SVG-2023-57
 permalink: /Advisory-EGI-SVG-2023-57
 redirect_from:
   - /Advisory-SVG-CVE-2023-41914
-  
-published: false
 ---
 
 ## Advisory-EGI-SVG-2023-57
@@ -44,7 +42,7 @@ _TLP:CLEAR information - Unlimited distribution_
  
  <https://advisories.egi.eu/Advisory-EGI-SVG-2023-57>
 
- <https://advisories.egi.eu/Advisory-EGI-SVG-41914>
+ <https://advisories.egi.eu/Advisory-EGI-SVG-CVE-41914>
 
 Minor updates may be made without re-distribution to the sites.
 
