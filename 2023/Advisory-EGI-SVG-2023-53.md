@@ -1,8 +1,6 @@
-
 ---
 title: Advisory-EGI-SVG-2023-53
-permalink: /Advisory-EGI-SVG-2023-53
-  
+permalink: /Advisory-EGI-SVG-2023-53 
 ---
 
 ## Advisory-EGI-SVG-2023-53
