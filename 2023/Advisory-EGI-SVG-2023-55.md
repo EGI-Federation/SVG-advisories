@@ -2,7 +2,7 @@
 title: Advisory-EGI-SVG-2023-55
 permalink: /Advisory-EGI-SVG-2023-55
 redirect_from:
-  - /Advisory-EGI-SVG-CVE-2023-4911
+  - /Advisory-SVG-CVE-2023-4911
 ---
 
 ## Advisory-EGI-SVG-2023-55
