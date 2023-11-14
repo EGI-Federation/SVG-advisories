@@ -3,7 +3,6 @@
 title: Advisory-EGI-SVG-2023-53
 permalink: /Advisory-EGI-SVG-2023-53
   
-published: false
 ---
 
 ## Advisory-EGI-SVG-2023-53
@@ -21,7 +20,7 @@ This is fixed in INDIGO-IAM version 1.8.1p2 and 1.8.2p2.
 ## IDs AND CVSS SCORE 
 
 EGI SVG ID : EGI-SVG-2023-53
-    
+
 CVE ID     : N/A
 
 ## ACTIONS REQUIRED/RECOMMENDED
