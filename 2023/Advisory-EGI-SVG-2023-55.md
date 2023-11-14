@@ -46,7 +46,7 @@ _TLP:WHITE information - Unlimited distribution_
 
 <https://advisories.egi.eu/Advisory-EGI-SVG-2023-55> 
 
-<https://advisories.egi.eu/Advisory-EGI-SVG-CVE-2023-4911>
+<https://advisories.egi.eu/Advisory-SVG-CVE-2023-4911>
 
 Minor updates may be made without re-distribution to the sites.
 
