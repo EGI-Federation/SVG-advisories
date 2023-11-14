@@ -5,7 +5,7 @@ permalink: /Advisory-EGI-SVG-2023-53
 
 ## Advisory-EGI-SVG-2023-53
 
-# 'ADVISORY' [TLP:WHITE] 'HIGH' Risk INDIGO-IAM Vulnerability [EGI-SVG-2023-53]
+# 'ADVISORY' [TLP:CLEAR] 'HIGH' Risk INDIGO-IAM Vulnerability [EGI-SVG-2023-53]
 
 Date:        2023-09-21
 Updated      2023-11-14
@@ -35,7 +35,7 @@ authorization by tricking an authorized user to approve a request.
     
 ## STATUS OF THIS ADVISORY
     
-_TLP:WHITE information - Unlimited distribution_ 
+_TLP:CLEAR information - Unlimited distribution_ 
 
 <https://advisories.egi.eu/Advisory-EGI-SVG-2023-53> 
 
