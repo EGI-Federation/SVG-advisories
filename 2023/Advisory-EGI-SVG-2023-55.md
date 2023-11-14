@@ -10,6 +10,7 @@ redirect_from:
 # 'ADVISORY' [TLP:WHITE] HIGH Risk glibc vulnerability 
 
 Date: 2023-10-06
+Updated 2023-11-14
 
 HIGH risk buffer overflow vulnerability in GNU C Library's dynamic loader ld.so 
 which may lead to privilege escalation. [R 1] [R 2]. This affects RHEL8, RHEL9 
