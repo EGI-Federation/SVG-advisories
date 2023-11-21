@@ -3,8 +3,7 @@ title: Advisory-EGI-SVG-2023-58
 permalink: /Advisory-EGI-SVG-2023-58
 redirect_from:
   - /Advisory-SVG-CVE-2023-23583
-  
-published: false
+
 ---
 
 ## Advisory-EGI-SVG-2023-58
@@ -12,8 +11,6 @@ published: false
 # 'ALERT' [TLP:CLEAR] Intel processor vulnerability [EGI-SVG-2023-58]
 
 Date:        2023-11-21 
-
-<include title without id in the body of txt of e-mail>
 
 A security vulnerability was found in some Intel processors potentially allowing privilege escalation, information disclosure and/or a denial of service via local access.   [R 1] [R 2]
 
