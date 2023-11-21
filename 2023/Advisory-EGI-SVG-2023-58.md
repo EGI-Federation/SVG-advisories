@@ -12,7 +12,9 @@ redirect_from:
 
 Date:        2023-11-21 
 
-A security vulnerability was found in some Intel processors potentially allowing privilege escalation, information disclosure and/or a denial of service via local access.   [R 1] [R 2]
+A security vulnerability was found in some Intel processors potentially allowing 
+privilege escalation, information disclosure and/or a denial of service via local 
+access.   [R 1] [R 2]
 
 ## IDs AND CVSS SCORE      
 
@@ -28,7 +30,8 @@ CVSS Score : 8.8 [R 1]
 Sites running intel hardware are recommended to look at the announced 
 information and take appropriate action.
 
-If anyone becomes aware of any situation where this vulnerability has a significant impact on the EGI infrastructure then please inform EGI SVG.
+If anyone becomes aware of any situation where this vulnerability has a 
+significant impact on the EGI infrastructure then please inform EGI SVG.
 
 See references below for further information, especially [R 3] 
 
