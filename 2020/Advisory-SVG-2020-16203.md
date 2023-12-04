@@ -2,7 +2,7 @@
 title: Advisory-SVG-2020-16203
 permalink: /Advisory-SVG-2020-16203
 redirect_from:
-  - /Advisory-SVG-CVE-2020-8499
+  - /Advisory-SVG-CVE-2020-8449
   - /Advisory-SVG-CVE-2020-8450
 ---
 
