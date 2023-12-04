@@ -23,7 +23,7 @@ Various vulnerabilities concerning Squid
 **UPDATE 2023-12-04** added CVE id's
 
 Package    : Squid, including Frontier Squid.
-CVE-ID     : CVE-2020-8499 [R 4], CVE-2020-8450 [R 5]
+CVE-ID     : CVE-2020-8449 [R 4], CVE-2020-8450 [R 5]
 
 Several vulnerabilities have been found in Squid, including one which may allow
 remote code execution.
