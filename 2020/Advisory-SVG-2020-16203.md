@@ -119,7 +119,7 @@ TLP and URL
 
 URL:   https://advisories.egi.eu/Advisory-SVG-2020-16203
 URL:   https://advisories.egi.eu/Advisory-SVG-CVE-2020-8449
-URL:   https://advisories.egi.eu/Advisory-SVG-CVE-2020-8459
+URL:   https://advisories.egi.eu/Advisory-SVG-CVE-2020-8450
 
 Minor updates may be made without re-distribution to the sites
 
