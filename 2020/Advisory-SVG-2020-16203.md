@@ -1,6 +1,9 @@
 ---
 title: Advisory-SVG-2020-16203
 permalink: /Advisory-SVG-2020-16203
+redirect_from:
+  - /Advisory-SVG-CVE-2020-8499
+  - /Advisory-SVG-CVE-2020-8450
 ---
 
 ## Advisory-SVG-2020-16203
@@ -10,14 +13,17 @@ Title:   EGI SVG 'ADVISORY' [TLP:WHITE] (up to critical) vulnerabilities
          concerning Squid [EGI-SVG-2020-16203]
 
 Date:    2020-02-11
-Updated: 2020-04-29
+Updated: 2020-04-29, 2023-12-04
 
 Affected software and risk
 ==========================
 
 Various vulnerabilities concerning Squid
 
-Package : Squid, including Frontier Squid.
+**UPDATE 2023-12-04** added CVE id's
+
+Package    : Squid, including Frontier Squid.
+CVE-ID     : CVE-2020-8499 [R 4], CVE-2020-8450 [R 5]
 
 Several vulnerabilities have been found in Squid, including one which may allow
 remote code execution.
@@ -108,12 +114,12 @@ OSG Security Team
 TLP and URL
 ===========
 
-** AMBER information - Limited distribution
+** WHITE information - Unlimited distribution
  - see https://go.egi.eu/tlp for distribution restrictions **
 
-This advisory will be placed on the wiki on or after 2020-02-25
-
 URL:   https://advisories.egi.eu/Advisory-SVG-2020-16203
+URL:   https://advisories.egi.eu/Advisory-SVG-CVE-202-8499
+URL:   https://advisories.egi.eu/Advisory-SVG-CVE-202-8499
 
 Minor updates may be made without re-distribution to the sites
 
@@ -143,6 +149,9 @@ See references in OSG announcement
 
 [R 3] https://documents.egi.eu/public/ShowDocument?docid=3145
 
+[R 4] https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-8449
+[R 5] https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-8450
+
 Credit
 ======
 
@@ -159,6 +168,8 @@ Yyyy-mm-dd  [EGI-SVG-2020-16203]
 2020-02-10 Updated packages available in the EGI UMD
 2020-02-11 Advisory sent to sites
 2020-04-29 Advisory made public and placed on the wiki.
+2023-12-04 Added CVE's on CSIRT request and links based on CVE's
+           (In advisories.egi.eu.)
 
 
 Context
