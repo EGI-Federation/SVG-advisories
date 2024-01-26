@@ -9,7 +9,8 @@ Recent [Advisories](../README.md).
 
 A guide to the risk categories is available at
 [Notes On Risk](https://confluence.egi.eu/display/EGIBG/Notes+on+Risk).
- Date                                                  | Title                                                                                                     | Contents/Link                                                             | Risk     | Status |
+
+| Date                                                  | Title                                                                                                     | Contents/Link                                                             | Risk     | Status |
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------- | ------ |
 | 2023-11-21                                            | Intel processor vulnerability                [EGI-SVG-2023-58]  | [Advisory-EGI-SVG-2023-58](./2023/Advisory-EGI-SVG-2023-58.md)                | ALERT | Fixed |
 | 2023-10-16 Updated 2023-11-14                         | HIGH risk Slurm race condition vulnerability [EGI-SVG-2023-57]  | [Advisory-EGI-SVG-2023-57](./2023/Advisory-EGI-SVG-2023-57.md)                | HIGH | Fixed |
