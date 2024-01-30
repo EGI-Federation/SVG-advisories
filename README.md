@@ -17,14 +17,14 @@ various
 
 ## Current advisories
 
-| Date                                                  | Title                                                                                                     | Contents/Link                                                             | Risk     | Status |
-| ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------- | ------ |
-| 2023-11-21                                            | Intel processor vulnerability                [EGI-SVG-2023-58]  | [Advisory-EGI-SVG-2023-58](./2023/Advisory-EGI-SVG-2023-58.md)                | ALERT | Fixed |
-| 2023-10-16 Updated 2023-11-14                         | HIGH risk Slurm race condition vulnerability [EGI-SVG-2023-57]  | [Advisory-EGI-SVG-2023-57](./2023/Advisory-EGI-SVG-2023-57.md)                | HIGH | Fixed |
-| 2023-10-06 Updated 2023-11-14                         | HIGH Risk glibc vulnerability [EGI-SVG-2023-55]                 | [Advisory-EGI-SVG-2023-55](./2023/Advisory-EGI-SVG-2023-55.md)                | HIGH | Fixed |
-| 2023-09-21 Updated 2023-11-14                         | HIGH  Risk INDIGO-IAM Vulnerability [EGI-SVG-2023-53]           | [Advisory-EGI-SVG-2023-53](./2023/Advisory-EGI-SVG-2023-53.md)                | HIGH | Fixed |
-| 2023-08-16 Updated 2023-10-19                         | HIGH risk Intel Downfall Vulnerability [EGI-SVG-CVE-2022-40982] | [Advisory-SVG-CVE-2022-40982](./2023/Advisory-SVG-CVE-2022-40982.md)  | HIGH | Fixed/Mitigated |
-| 2023-09-21 Updated 2023-10-19, 2023-10-24             | HIGH Risk Linux kernel vulnerabilities  [EGI-SVG-2023-52]       | [Advisory-EGI-SVG-2023-52](./2023/Advisory-EGI-SVG-2023-52.md)        | HIGH | Fixed (Mostly) |
+| Date                                              | Title                                                           | Contents/Link                                                         | CVE(s) (if applicable) |
+| ------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------------- | --------------         |
+| 2023-11-21                                        | Intel processor vulnerability                [EGI-SVG-2023-58]  | [Advisory-EGI-SVG-2023-58](./2023/Advisory-EGI-SVG-2023-58.md)        | CVE-2023-23583   |
+| 2023-10-16 Updated 2023-11-14                     | HIGH risk Slurm race condition vulnerability [EGI-SVG-2023-57]  | [Advisory-EGI-SVG-2023-57](./2023/Advisory-EGI-SVG-2023-57.md)        | CVE-2023-41914   |
+| 2023-10-06 Updated 2023-11-14                     | HIGH Risk glibc vulnerability [EGI-SVG-2023-55]                 | [Advisory-EGI-SVG-2023-55](./2023/Advisory-EGI-SVG-2023-55.md)        | CVE-2023-4911    |
+| 2023-09-21 Updated 2023-11-14                     | HIGH  Risk INDIGO-IAM Vulnerability [EGI-SVG-2023-53]           | [Advisory-EGI-SVG-2023-53](./2023/Advisory-EGI-SVG-2023-53.md)        | N/A   |
+| 2023-08-16 Updated 2023-10-19                     | HIGH risk Intel Downfall Vulnerability [EGI-SVG-CVE-2022-40982] | [Advisory-SVG-CVE-2022-40982](./2023/Advisory-SVG-CVE-2022-40982.md)  | CVE-2022-40982   |
+| 2023-09-21 Updated 2023-10-19, 2023-10-24         | HIGH Risk Linux kernel vulnerabilities  [EGI-SVG-2023-52]       | [Advisory-EGI-SVG-2023-52](./2023/Advisory-EGI-SVG-2023-52.md)        | CVE-2023-3610 +9 more  |
  |
 
 EGI SVG produces advisories according to the
