@@ -30,14 +30,17 @@ First check if Slurm was built with PMIx support by running:
 ```
 $ srun --mpi=list
 ```
+
 Typical output will be something like
+
 ```
 MPI plugin types are...
 	cray_shasta
 	none
 	pmi2
 	pmix
-specific pmix plugin versions available: pmix_v3,pmix_v4 ```
+specific pmix plugin versions available: pmix_v3,pmix_v4
+```
 
 This gives you information about whether slurm is built with PMIx
 support and if so which version of PMIx.
