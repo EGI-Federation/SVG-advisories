@@ -68,7 +68,7 @@ Vulnerabilities relevant for EGI can be reported at
 ## REFERENCES
 
 - [R 1] https://access.redhat.com/security/cve/CVE-2023-4206
-- 
+ 
 - [R 2] https://access.redhat.com/security/cve/CVE-2023-4207
 
 - [R 3] https://access.redhat.com/security/cve/CVE-2023-4208
