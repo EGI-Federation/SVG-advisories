@@ -2,12 +2,12 @@
 title: Advisory-EGI-SVG-2023-59
 permalink: /Advisory-EGI-SVG-2023-59
 redirect_from:
-  - /Advisory-SVG-CVE-2023-39933
-  - /Advisory-SVG-CVE-2023-39934
-  - /Advisory-SVG-CVE-2023-39935
-  - /Advisory-SVG-CVE-2023-39936
-  - /Advisory-SVG-CVE-2023-39937
-  - /Advisory-SVG-CVE-2023-39938
+  - /Advisory-SVG-CVE-2023-49933
+  - /Advisory-SVG-CVE-2023-49934
+  - /Advisory-SVG-CVE-2023-49935
+  - /Advisory-SVG-CVE-2023-49936
+  - /Advisory-SVG-CVE-2023-49937
+  - /Advisory-SVG-CVE-2023-49938
   
 published: false
 ---
@@ -27,14 +27,14 @@ EGI SVG ID : EGI-SVG-2023-59
     
 CVE ID's:--   
     
-CVE-2023-49933: Slurm Protocol Message Extension
-CVE-2023-49934: SQL injection in SLURM DBD database    
-CVE-2023-49935: Slurmd Message Integrity Bypass
-CVE-2023-49936: Slurm NULL Pointer Dereference
-CVE-2023-49937: Slurm Protocol Double Free
-CVE-2023-49938: Slurm Arbitrary File Overwrite
+CVE-2023-49933: Slurm Protocol Message Extension  
+CVE-2023-49934: SQL injection in SLURM DBD database     
+CVE-2023-49935: Slurmd Message Integrity Bypass  
+CVE-2023-49936: Slurm NULL Pointer Dereference  
+CVE-2023-49937: Slurm Protocol Double Free  
+CVE-2023-49938: Slurm Arbitrary File Overwrite  
 
-CVSS Score : (not available at time of writing)
+CVSS Score : Up to 9.8 [R 3], [R 4]
     
 
 ## ACTIONS REQUIRED/RECOMMENDED
@@ -62,12 +62,12 @@ _TLP:CLEAR information - Limited distribution_
                       
 https://advisories.egi.eu/Advisory-EGI-SVG-2023-59  
 
-https://advisories.egi.eu/Advisory-SVG-CVE-2023-39933  
-https://advisories.egi.eu/Advisory-SVG-CVE-2023-39934  
-https://advisories.egi.eu/Advisory-SVG-CVE-2023-39935  
-https://advisories.egi.eu/Advisory-SVG-CVE-2023-39936  
-https://advisories.egi.eu/Advisory-SVG-CVE-2023-39937  
-https://advisories.egi.eu/Advisory-SVG-CVE-2023-39938   
+https://advisories.egi.eu/Advisory-SVG-CVE-2023-49933  
+https://advisories.egi.eu/Advisory-SVG-CVE-2023-49934  
+https://advisories.egi.eu/Advisory-SVG-CVE-2023-49935  
+https://advisories.egi.eu/Advisory-SVG-CVE-2023-49936  
+https://advisories.egi.eu/Advisory-SVG-CVE-2023-49937  
+https://advisories.egi.eu/Advisory-SVG-CVE-2023-49938   
 
 Minor updates may be made without re-distribution to the sites.
 
@@ -87,6 +87,10 @@ Vulnerabilities relevant for EGI can be reported at
 - [R 1]  <https://www.schedmd.com/news.php?>
     
 - [R 2]  <https://www.schedmd.com/downloads.php>
+
+- [R 3] <https://nvd.nist.gov/vuln/detail/CVE-2023-49934>
+
+- [R 4] <https://nvd.nist.gov/vuln/detail/CVE-2023-49937>
 
 - [R 99] <https://confluence.egi.eu/display/EGIBG/SVG+Advisories>
 
