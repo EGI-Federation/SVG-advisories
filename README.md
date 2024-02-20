@@ -20,7 +20,6 @@ various
 | Date                          | Title                                                           | Contents/Link                                                         | CVE(s) (if applicable) |
 | ------------------------------| --------------------------------------------------------------- | --------------------------------------------------------------------- | --------------         |
 | 2023-09-25 Updated 2024-02-20 | CRITICAL risk PMIX race condition vulnerability [EGI-SVG-2023-51]  | [Advisory-EGI-SVG-2023-51](./2024/Advisory-EGI-SVG-2023-51.md)     | CVE-2023-41915   |
-
 | 2023-08-23 Updated 2024-02-19 | HIGH risk AMD CPU Processor Vulnerability [EGI-SVG-CVE-2023-20569] | [Advisory-SVG-CVE-2023-20569](./2024/Advisory-SVG-CVE-2023-20569.md)     | CVE-2023-20569   |
 | 2023-08-16 Updated 2023-10-19, 2024-02-19 | HIGH risk Intel Downfall Vulnerability [EGI-SVG-CVE-2022-40982] | [Advisory-SVG-CVE-2022-40982](./2023/Advisory-SVG-CVE-2022-40982.md)  | CVE-2022-40982   |
 | 2023-07-26 Updated 2023-08-15, 2023-09-21, 2023-09-22, 2024-02-16  | ALERT Zenbleed speculative execution vulnerability  [EGI-SVG-CVE-2023-20593] | [Advisory-SVG-CVE-2023-20593](./2023/Advisory-SVG-CVE-2023-20593.md)     | CVE-2023-20593   |
