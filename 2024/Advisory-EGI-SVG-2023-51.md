@@ -14,7 +14,7 @@ Updated:     2024-02-20
 
 
 CRITICAL risk vulnerability concerning PMIx, which may permit a malicious 
-user to obtain ownership of an arbitrary file and could thus result in  
+user to obtain ownership of an arbitrary file and could thus result in
 privilege escallation to root. [R 1] This is a critical issue for all 
 sites that are using Slurm built with PMIx support.
 
