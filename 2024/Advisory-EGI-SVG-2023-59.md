@@ -57,8 +57,7 @@ Details of the vulnerabilities are available at the SLURM site [R 1]
     
 ## STATUS OF THIS ADVISORY   
                         
-_TLP:CLEAR information - Limited distribution_ 
-
+_TLP:CLEAR information - Unlimited distribution_ 
                       
 https://advisories.egi.eu/Advisory-EGI-SVG-2023-59  
 
