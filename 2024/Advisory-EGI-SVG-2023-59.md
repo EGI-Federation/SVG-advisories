@@ -62,12 +62,12 @@ _TLP:CLEAR information - Limited distribution_
                       
 https://advisories.egi.eu/Advisory-EGI-SVG-2023-59  
 
-https://advisories.egi.eu/Advisory-SVG-CVE-2023-39933
-https://advisories.egi.eu/Advisory-SVG-CVE-2023-39934
-https://advisories.egi.eu/Advisory-SVG-CVE-2023-39935
-https://advisories.egi.eu/Advisory-SVG-CVE-2023-39936
-https://advisories.egi.eu/Advisory-SVG-CVE-2023-39937
-https://advisories.egi.eu/Advisory-SVG-CVE-2023-39938 
+https://advisories.egi.eu/Advisory-SVG-CVE-2023-39933 
+https://advisories.egi.eu/Advisory-SVG-CVE-2023-39934 
+https://advisories.egi.eu/Advisory-SVG-CVE-2023-39935 
+https://advisories.egi.eu/Advisory-SVG-CVE-2023-39936 
+https://advisories.egi.eu/Advisory-SVG-CVE-2023-39937 
+https://advisories.egi.eu/Advisory-SVG-CVE-2023-39938  
 
 Minor updates may be made without re-distribution to the sites.
 
