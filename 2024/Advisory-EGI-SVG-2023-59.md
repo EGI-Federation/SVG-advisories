@@ -94,6 +94,6 @@ Vulnerabilities relevant for EGI can be reported at
 
 ## CREDITS
 
-SVG was alerted to this vulnerability by Barbara Krasovec
+SVG was alerted to these vulnerabilities by Barbara Krasovec
 
 
