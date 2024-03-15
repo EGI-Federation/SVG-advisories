@@ -19,6 +19,8 @@ various
 
 | Date                          | Title                                                           | Contents/Link                                                         | CVE(s) (if applicable) |
 | ------------------------------| --------------------------------------------------------------- | --------------------------------------------------------------------- | --------------         |
+| 2024-02-12 Updated 2024-03-15 | HIGH risk vulnerability in runc affecting containers [EGI-SVG-2024-03]  | [Advisory-EGI-SVG-2024-03](./2024/Advisory-EGI-SVG-2024-03.md) | CVE-2024-21626 |
+| 2024-01-30 Updated 2024-03-15 | HIGH risk array indexing vulnerability in netfilter  [EGI-SVG-2023-54]  | [Advisory-EGI-SVG-2023-54](./2024/Advisory-EGI-SVG-2023-54.md) | CVE-2023-42753 |
 | 2024-01-18 Updated 2024-02-20 | HIGH risk Linux privilege escalation Vulnerabilities [EGI-SVG-2024-01]  | [Advisory-EGI-SVG-2024-01](./2024/Advisory-EGI-SVG-2024-01.md) | CVE-2023-4206 + 2 more |
 | 2023-12-14 Updated 2024-02-20 | CRITICAL risk Multiple SLURM Vulnerabilities [EGI-SVG-2023-59]  | [Advisory-EGI-SVG-2023-59](./2024/Advisory-EGI-SVG-2023-59.md)        | CVE-2023-49934 + 5 more |
 | 2023-09-25 Updated 2024-02-20 | CRITICAL risk PMIX race condition vulnerability [EGI-SVG-2023-51]  | [Advisory-EGI-SVG-2023-51](./2024/Advisory-EGI-SVG-2023-51.md)     | CVE-2023-41915   |
