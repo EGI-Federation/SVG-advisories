@@ -8,9 +8,14 @@ redirect_from:
 
 ## Advisory-EGI-SVG-2023-42753
 
+Date:        2024-01-30
+Updated      2024-03-15
+
 # HIGH risk array indexing vulnerability in netfilter
 
-HIGH risk array indexing vulnerability in the netfilter subsystem of the Linux kernel which may allow a local user to crash the system or potentially escalate their privileges on the system.[R 1] [R 2] This affects RHEL7, RHEL8, RHEL9 and derivatives
+HIGH risk array indexing vulnerability in the netfilter subsystem of the Linux kernel 
+which may allow a local user to crash the system or potentially escalate their privileges  
+on the system.[R 1] [R 2] This affects RHEL7, RHEL8, RHEL9 and derivatives
 
 ## IDs AND CVSS SCORE      
 
@@ -27,7 +32,8 @@ See references below for further information.
 
 ## MORE INFORMATION
 
-A Proof of Concept exploit has been published [R 4], but it would at most crash the OS and not lead to a privilege escalation.
+A Proof of Concept exploit has been published [R 4], but it would at most crash  
+the OS and not lead to a privilege escalation.
 The vulnerability can be exploited only by a local user. 
 Hence sites should update their affected Grid Worker Nodes, User Interfaces and other
  shared user systems as the risk may be higher than suggested by the CVSS score.   
