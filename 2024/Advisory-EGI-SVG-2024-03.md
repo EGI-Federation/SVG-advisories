@@ -15,7 +15,7 @@ Date:        2024-02-12
 Updated:     2024-03-15
 
 HIGH risk vulnerability concerning runc.
-A file descriptor leak issue was found in the runc package which may 
+A file descriptor leak issue was found in the runc package which may  
 allow container escapes. [R 1] [R 2]
 
 ## IDs AND CVSS SCORE 
