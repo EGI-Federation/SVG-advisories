@@ -8,7 +8,7 @@ redirect_from:
 
 ## Advisory-EGI-SVG-2023-42753
 
-Date:        2024-01-30
+Date:        2024-01-30 
 Updated      2024-03-15
 
 # HIGH risk array indexing vulnerability in netfilter
