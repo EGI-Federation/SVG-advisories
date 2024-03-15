@@ -33,10 +33,10 @@ See references below for further information.
 ## MORE INFORMATION
 
 A Proof of Concept exploit has been published [R 4], but it would at most crash  
-the OS and not lead to a privilege escalation.
-The vulnerability can be exploited only by a local user. 
-Hence sites should update their affected Grid Worker Nodes, User Interfaces and other
- shared user systems as the risk may be higher than suggested by the CVSS score.   
+the OS and not lead to a privilege escalation. 
+The vulnerability can be exploited only by a local user.  
+Hence sites should update their affected Grid Worker Nodes, User Interfaces and other 
+ shared user systems as the risk may be higher than suggested by the CVSS score.    
     
 ## STATUS OF THIS ADVISORY
                          
