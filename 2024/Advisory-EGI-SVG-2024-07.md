@@ -11,6 +11,8 @@ redirect_from:
 # CRITICAL risk Vulnerability in xz data compression tools
 
 Date:        2024-04-03
+Updated      2024-04-10
+
 A CRITICAL risk vulnerability has been found in recent versions of xz data
 compression tools. [R 1] 
 
@@ -48,6 +50,12 @@ Other affected distributions include OpenSUSE Tumbleweed [R 6],
 Gentoo [R 7] and Debian sid (unstable) [R 8].
 
 Also see references below.
+
+**UPDATE 2024-04-10**
+
+It has come to our attention that some versions of ARCH linux may contain
+a vulnerable version of this software, but this is not really in SVG's 
+normal scope but could be used by some containers such as Docker.
    
 ## STATUS OF THIS ADVISORY
     
