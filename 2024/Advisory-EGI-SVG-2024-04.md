@@ -40,9 +40,7 @@ containers through unprivileged instances of Apptainer etc.
     
 ## STATUS OF THIS ADVISORY
                             
-_TLP:AMBER information - Limited distribution_ 
-
- This advisory will be made public on or after 2024-04-03  at 
+_TLP:CLEAR information - Unlimited distribution_ 
  
  https://advisories.egi.eu/Advisory-EGI-SVG-2024-04 
 
@@ -74,9 +72,9 @@ Vulnerabilities relevant for EGI can be reported at
 ## REFERENCES
 
 
-- [R 1] http://lists.lustre.org/pipermail/lustre-announce-lustre.org/2024/000270.html
+- [R 1] <http://lists.lustre.org/pipermail/lustre-announce-lustre.org/2024/000270.html>
 
-- [R 2] https://www.lustre.org/lustre-2-15-4-released/
+- [R 2] <https://www.lustre.org/lustre-2-15-4-released/>
      
 
 - [R 99] <https://confluence.egi.eu/display/EGIBG/SVG+Advisories>
