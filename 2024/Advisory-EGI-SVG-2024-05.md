@@ -53,7 +53,7 @@ against them if they patch.
 
 ## STATUS OF THIS ADVISORY
                         
-_TLP:WHITE information - Unlimited distribution_  
+_TLP:CLEAR information - Unlimited distribution_  
 
  https://advisories.egi.eu/Advisory-EGI-SVG-2024-05 
 
