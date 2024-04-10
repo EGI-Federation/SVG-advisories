@@ -19,6 +19,8 @@ various
 
 | Date                          | Title                                                           | Contents/Link                                                         | CVE(s) (if applicable) |
 | ------------------------------| --------------------------------------------------------------- | --------------------------------------------------------------------- | --------------         |
+| 2024-03-06 Updated 2024-04-10 | HIGH risk Linux Kernel vulnerabilities             [EGI-SVG-2024-05] | [Advisory-EGI-SVG-2024-05](./2024/Advisory-EGI-SVG-2024-05.md)   | CVE-2023-4623 + more |
+| 2024-03-05 Updated 2024-04-10 | HIGH risk vulnerability in Lustre                  [EGI-SVG-2024-04] | [Advisory-EGI-SVG-2024-04](./2024/Advisory-EGI-SVG-2024-04.md)   | CVE-2023-51786 |
 | 2024-02-12 Updated 2024-03-15 | CRITICAL risk vulnerability in xz data compression tools [EGI-SVG-2024-07] | [Advisory-EGI-SVG-2024-07](./2024/Advisory-EGI-SVG-2024-07.md) | CVE-2024-3094 |
 | 2024-02-12 Updated 2024-03-15 | HIGH risk vulnerability in runc affecting containers [EGI-SVG-2024-03]  | [Advisory-EGI-SVG-2024-03](./2024/Advisory-EGI-SVG-2024-03.md) | CVE-2024-21626 |
 | 2024-01-30 Updated 2024-03-15 | HIGH risk array indexing vulnerability in netfilter  [EGI-SVG-2023-54]  | [Advisory-EGI-SVG-2023-54](./2024/Advisory-EGI-SVG-2023-54.md) | CVE-2023-42753 |
