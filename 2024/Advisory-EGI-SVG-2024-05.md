@@ -56,11 +56,13 @@ _TLP:CLEAR information - Unlimited distribution_
 
  https://advisories.egi.eu/Advisory-EGI-SVG-2024-05 
 
- https://advisories.egi.eu/Advisory-SVG-4623
+ https://advisories.egi.eu/Advisory-SVG-CVE-2023-4623
  
- https://advisories.egi.eu/Advisory-SVG-4921 
+ https://advisories.egi.eu/Advisory-SVG-CVE-2023-4921 
  
- https://advisories.egi.eu/Advisory-SVG-6817 
+ https://advisories.egi.eu/Advisory-SVG-CVE-2023-6817 
+
+ (For CVE-2023-6817 also see https://advisories.egi.eu/Advisory-EGI-SVG-2024-05 )
 
 Minor updates may be made without re-distribution to the sites.
 
