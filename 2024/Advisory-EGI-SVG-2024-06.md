@@ -2,11 +2,8 @@
 title: Advisory-EGI-SVG-2024-06
 permalink: /Advisory-EGI-SVG-2024-06
 redirect_from:
-  - /Advisory-SVG-CVE-2023-6817
   - /Advisory-SVG-CVE-2024-0193
   - /Advisory-SVG-CVE-2023-0646
-  
-published: false
 ---
 
 ## Advisory-EGI-SVG-2024-06
@@ -60,17 +57,15 @@ against them if they patch.
     
 ## STATUS OF THIS ADVISORY
                          
-_TLP:AMBER information - Limited distribution_ 
-
-This advisory will be made public on or after 2024-04-17 at
+_TLP:CLEAR information - Unlimited distribution_ 
 
 https://advisories.egi.eu/Advisory-EGI-SVG-2024-06 
 
 https://advisories.egi.eu/Advisory-SVG-CVE-2024-0193
 
-https://advisories.egi.eu/Advisory-SVG-CVE-2023-6817
-
 https://advisories.egi.eu/Advisory-SVG-CVE-2023-0646
+
+(For CVE-2023-6817 also see https://advisories.egi.eu/Advisory-EGI-SVG-2024-05)
 
 Minor updates may be made without re-distribution to the sites.
 
