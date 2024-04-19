@@ -13,7 +13,7 @@ published: false
 
 # HIGH risk Linux Kernel (RHEL9) Vulnerabilities
 
-Date:        2024-03-20 
+Date:        2024-03-20   
 Updated:     2024-04-19
 
 HIGH risk Linux Kernel (RHEL9) Vulnerabilities
