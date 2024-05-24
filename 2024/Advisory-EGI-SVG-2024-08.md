@@ -5,7 +5,7 @@ redirect_from:
   - /Advisory-SVG-CVE-2024-1086
 ---
 
-## Advisory-EGI-SVG-2024-1086
+## Advisory-EGI-SVG-2024-08
 
 # CRITICAL risk Netfilter vulnerability
 
