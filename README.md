@@ -19,6 +19,7 @@ various
 
 | Date                          | Title                                                           | Contents/Link                                                         | CVE(s) (if applicable) |
 | ------------------------------| --------------------------------------------------------------- | --------------------------------------------------------------------- | --------------         |
+| 2024-04-10 Updated 2024-05-24 | CRITICAL risk Netfilter vulnerability              [EGI-SVG-2024-08] | [Advisory-EGI-SVG-2024-08](./2024/Advisory-EGI-SVG-2024-08.md)   | CVE-2024-1086 |
 | 2024-03-06 Updated 2024-04-19 | HIGH risk Linux Kernel vulnerabilities (RHEL9)     [EGI-SVG-2024-06] | [Advisory-EGI-SVG-2024-06](./2024/Advisory-EGI-SVG-2024-06.md)   | CVE-2023-6817 + more |
 | 2024-03-06 Updated 2024-04-10 | HIGH risk Linux Kernel vulnerabilities             [EGI-SVG-2024-05] | [Advisory-EGI-SVG-2024-05](./2024/Advisory-EGI-SVG-2024-05.md)   | CVE-2023-4623 + more |
 | 2024-03-05 Updated 2024-04-10 | HIGH risk vulnerability in Lustre                  [EGI-SVG-2024-04] | [Advisory-EGI-SVG-2024-04](./2024/Advisory-EGI-SVG-2024-04.md)   | CVE-2023-51786 |
