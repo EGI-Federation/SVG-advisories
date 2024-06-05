@@ -10,7 +10,7 @@ redirect_from:
 # HIGH risk glibc vulnerability 
 
 Date:        2024-05-03
-Updated:     2024-06-04
+Updated:     2024-06-05
 
 A HIGH risk vulnerability has been found concerning glibc where an 
 out-of-bounds write flaw in the ISO-2022-CN-EXT plugin for glibc's 
