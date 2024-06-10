@@ -49,16 +49,7 @@ The mitigation would be to disable this encoding:
 Check if your OS is running a vulnerable version:
 
 ```
-# rpm -qa| grep glib
-glibc-2.28-246.el8.x86_64
-or
-# ldd --version
-ldd (GNU libc) 2.28
-```
-
-Check if  the vulnerable encoding is enabled:
-```
-#  echo "iconv -l | grep -E ‘CN-?EXT’" | iconv -t ASCII//TRANSLIT//IGNORE
+# iconv -l | grep -E 'CN-?EXT'
 ISO-2022-CN-EXT//
 ISO2022CNEXT//
 ```
