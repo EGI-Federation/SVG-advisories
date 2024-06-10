@@ -10,7 +10,7 @@ redirect_from:
 # HIGH risk glibc vulnerability 
 
 Date:        2024-05-03
-Updated:     2024-06-05
+Updated:     2024-06-05, 2024-06-10
 
 A HIGH risk vulnerability has been found concerning glibc where an 
 out-of-bounds write flaw in the ISO-2022-CN-EXT plugin for glibc's 
@@ -29,7 +29,7 @@ CVSS Score : 8.8 [R 1]
 The affected version is several years old, version 2.28 [R 2]
 But this version is included with the common Linux versions
 
-**UPDATE 2024-06-03**
+**UPDATE 2024-06-04**
 
 This has been fixed for many Linux versions including RHEL [R 1]
 
@@ -42,6 +42,10 @@ Until then sites are recommended to carry out the mitigation below.
 
 
 ## MITIGATION
+
+**UPDATE 2024-06-10**
+
+Error corrected.
 
 The mitigation would be to disable this encoding:
 
