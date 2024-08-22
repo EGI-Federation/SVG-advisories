@@ -19,6 +19,7 @@ various
 
 | Date                          | Title                                                           | Contents/Link                                                         | CVE(s) (if applicable) |
 | ------------------------------| --------------------------------------------------------------- | --------------------------------------------------------------------- | --------------         |
+| 2024-07-11 Updated 2024-08-22 | HIGH risk *ANOTHER* OpenSSH vulnerability               [EGI-SVG-2024-14] | [Advisory-EGI-SVG-2024-14](./2024/Advisory-EGI-SVG-2024-14.md)   | CVE-2024-6409     |
 | 2024-07-11 Updated 2024-08-22 | HIGH risk OpenSSH vulnerability                         [EGI-SVG-2024-13] | [Advisory-EGI-SVG-2024-13](./2024/Advisory-EGI-SVG-2024-13.md)   | CVE-2024-6387     |
 | 2024-07-09 Updated 2024-08-22 | HIGH risk OpenStack arbitrary file access vulnerability [EGI-SVG-2024-12] | [Advisory-EGI-SVG-2024-12](./2024/Advisory-EGI-SVG-2024-12.md)   | CVE-2024-32498    |
 | 2024-06-03 Updated 2024-07-25 | ALERT Apptainer github/containers/image Vulnerability  [EGI-SVG-2024-11] | [Advisory-EGI-SVG-2024-11](./2024/Advisory-EGI-SVG-2024-11.md)   | CVE-2024-3727 |
