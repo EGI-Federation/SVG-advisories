@@ -19,6 +19,7 @@ various
 
 | Date                          | Title                                                           | Contents/Link                                                         | CVE(s) (if applicable) |
 | ------------------------------| --------------------------------------------------------------- | --------------------------------------------------------------------- | --------------         |
+| 2024-07-09 Updated 2024-08-22 | HIGH risk OpenStack arbitrary file access vulnerability [EGI-SVG-2024-12] | [Advisory-EGI-SVG-2024-12](./2024/Advisory-EGI-SVG-2024-12.md)   | CVE-2024-32498    |
 | 2024-06-03 Updated 2024-07-25 | ALERT Apptainer github/containers/image Vulnerability  [EGI-SVG-2024-11] | [Advisory-EGI-SVG-2024-11](./2024/Advisory-EGI-SVG-2024-11.md)   | CVE-2024-3727 |
 | 2024-05-03 Updated 2024-06-05 | HIGH risk glibc vulnerability                      [EGI-SVG-2024-10] | [Advisory-EGI-SVG-2024-10](./2024/Advisory-EGI-SVG-2024-10.md)   | CVE-2024-2961 |
 | 2024-04-10 Updated 2024-05-24 | CRITICAL risk Netfilter vulnerability              [EGI-SVG-2024-08] | [Advisory-EGI-SVG-2024-08](./2024/Advisory-EGI-SVG-2024-08.md)   | CVE-2024-1086 |
