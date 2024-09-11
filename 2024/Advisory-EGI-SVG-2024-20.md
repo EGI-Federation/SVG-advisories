@@ -1,7 +1,7 @@
 # 'INFORMATION' [TLP:CLEAR] SLUBStick Attack Scenario  [EGI-SVG-2024-20]
 
 Date:        2024-09-10
-Updated:
+
 
 A cross-cache attack Scenario called SLUBStick has been identified 
 which may make it easier to exploit certain vulnerabilities including 
