@@ -7,11 +7,9 @@ published: false
 
 ## Advisory-EGI-SVG-2024-20
 
-
-# 'INFORMATION' SLUBStick Attack Scenario  [EGI-SVG-2024-20]
+#  SLUBStick Attack Scenario  [EGI-SVG-2024-20]
 
 Date:        2024-09-10
-
 
 A cross-cache attack Scenario called SLUBStick has been identified 
 which may make it easier to exploit certain vulnerabilities including 
