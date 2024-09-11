@@ -2,7 +2,6 @@
 title: Advisory-EGI-SVG-2024-15
 permalink: /Advisory-EGI-SVG-2024-15
   
-published: false
 ---
 
 ## Advisory-EGI-SVG-2024-15
