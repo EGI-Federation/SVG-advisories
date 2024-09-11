@@ -1,4 +1,14 @@
-# 'INFORMATION' [TLP:CLEAR] SLUBStick Attack Scenario  [EGI-SVG-2024-20]
+---
+title: Advisory-EGI-SVG-2024-20
+permalink: /Advisory-EGI-SVG-2024-20
+
+published: false
+---
+
+## Advisory-EGI-SVG-2024-20
+
+
+# 'INFORMATION' SLUBStick Attack Scenario  [EGI-SVG-2024-20]
 
 Date:        2024-09-10
 
