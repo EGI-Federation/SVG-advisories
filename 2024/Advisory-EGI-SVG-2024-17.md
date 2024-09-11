@@ -9,7 +9,7 @@ published: false
 
 ## Advisory-EGI-SVG-2024-17
 
-# Docker Authorization Vulnerability 
+# 'CRITICAL' Risk - Docker Authorization Vulnerability 
 
 Date:        2024-07-29 
 Updated:     2024-09-11
