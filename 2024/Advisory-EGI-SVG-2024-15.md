@@ -191,13 +191,3 @@ Vulnerabilities relevant for EGI can be reported at
 
 This vulnerability was reported by Christophe Haen
 
-
-
-- [R 5] <https://linuxsoft.cern.ch/wlcg/>
-
-- [R 99] <https://confluence.egi.eu/display/EGIBG/SVG+Advisories>
-
-## CREDITS
-
-This vulnerability was reported by Christophe Haen
-
