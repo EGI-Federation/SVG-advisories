@@ -19,6 +19,7 @@ various
 
 | Date                          | Title                                                           | Contents/Link                                                         | CVE(s) (if applicable) |
 | ------------------------------| --------------------------------------------------------------- | --------------------------------------------------------------------- | --------------         |
+| 2024-09-11                    | SLUBStick Attack Scenario                      [EGI-SVG-2024-20 | [Advisory-EGI-SVG-2024-20](./2024/Advisory-EGI-SVG-2024-20.md)             | N/A    |
 | 2024-07-23 Updated 2024-08-22 | HIGH risk vulnerability in libndp                       [EGI-SVG-2024-16] | [Advisory-EGI-SVG-2024-16](./2024/Advisory-EGI-SVG-2024-16.md)   | CVE-2024-5564     |
 | 2024-07-11 Updated 2024-08-22 | HIGH risk *ANOTHER* OpenSSH vulnerability               [EGI-SVG-2024-14] | [Advisory-EGI-SVG-2024-14](./2024/Advisory-EGI-SVG-2024-14.md)   | CVE-2024-6409     |
 | 2024-07-11 Updated 2024-08-22 | HIGH risk OpenSSH vulnerability                         [EGI-SVG-2024-13] | [Advisory-EGI-SVG-2024-13](./2024/Advisory-EGI-SVG-2024-13.md)   | CVE-2024-6387     |
