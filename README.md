@@ -19,6 +19,7 @@ various
 
 | Date                          | Title                                                           | Contents/Link                                                         | CVE(s) (if applicable) |
 | ------------------------------| --------------------------------------------------------------- | --------------------------------------------------------------------- | --------------         |
+| 2024-07-31 Updated 20-08-02, 2024-09-12 |  HIGH risk - voms-proxy-init susceptible to proxy theft    [EGI-SVG-2024-15] | [Advisory-EGI-SVG-2024-15](./2024/Advisory-EGI-SVG-2024-15.md)   | N/A  |
 | 2024-09-11                    | SLUBStick Attack Scenario                     [EGI-SVG-2024-20] | [Advisory-EGI-SVG-2024-20](./2024/Advisory-EGI-SVG-2024-20.md)             | N/A    |
 | 2024-07-29 Updated 2024-09-11 | CRITICAL risk Docker Vulnerability            [EGI-SVG-2024-17] | [Advisory-EGI-SVG-2024-17](./2024/Advisory-EGI-SVG-2024-17.md)             | CVE-2024-41110    |
 | 2024-07-23 Updated 2024-08-22 | HIGH risk vulnerability in libndp                       [EGI-SVG-2024-16] | [Advisory-EGI-SVG-2024-16](./2024/Advisory-EGI-SVG-2024-16.md)   | CVE-2024-5564     |
