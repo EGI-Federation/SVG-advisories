@@ -87,6 +87,8 @@ Vulnerabilities relevant for EGI can be reported at
     
 ## REFERENCES
 
+(Note -2024-09-12 - references being checked.)
+
 - [R 1] <https://italiangrid.github.io/voms/>
 
 - [R 2] <https://repo.cloud.cnaf.infn.it/service/rest/repository/browse/voms-rpm-stable/redhat9/>
