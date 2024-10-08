@@ -19,6 +19,7 @@ various
 
 | Date                          | Title                                                           | Contents/Link                                                         | CVE(s) (if applicable) |
 | ------------------------------| --------------------------------------------------------------- | --------------------------------------------------------------------- | --------------         |
+| 2024-10-04 Updated 20-10-08   |  HIGH risk - CUPS vulnerabilities             [EGI-SVG-2024-23] | [Advisory-EGI-SVG-2024-23](./2024/Advisory-EGI-SVG-2024-23.md)        | CVE-2024-47176 + more  |
 | 2024-07-31 Updated 20-08-02, 2024-09-12 |  HIGH risk - voms-proxy-init susceptible to proxy theft    [EGI-SVG-2024-15] | [Advisory-EGI-SVG-2024-15](./2024/Advisory-EGI-SVG-2024-15.md)   | N/A  |
 | 2024-09-11                    | SLUBStick Attack Scenario                     [EGI-SVG-2024-20] | [Advisory-EGI-SVG-2024-20](./2024/Advisory-EGI-SVG-2024-20.md)             | N/A    |
 | 2024-07-29 Updated 2024-09-11 | CRITICAL risk Docker Vulnerability            [EGI-SVG-2024-17] | [Advisory-EGI-SVG-2024-17](./2024/Advisory-EGI-SVG-2024-17.md)             | CVE-2024-41110    |
