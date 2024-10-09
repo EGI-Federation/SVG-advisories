@@ -4,7 +4,6 @@ permalink: /Advisory-EGI-SVG-2024-19
 redirect_from:
   - /Advisory-SVG-CVE-2024-36971
   
-published: false
 ---
 
 ## Advisory-EGI-SVG-2024-19
