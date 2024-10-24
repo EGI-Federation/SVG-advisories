@@ -12,7 +12,7 @@ published: false
 # CRITICAL risk SAML Authentication bypass flaw
 
 Date:        2024-09-20
-Updated:     2024-09-26
+Updated:     2024-09-26, 2024-10-24
 
 CRITICAL Risk vulnerability in the omniauth_saml plugin (via the ruby-saml library), 
 which is used by e.g. GitLab, allowing potential Authentication bypass.
