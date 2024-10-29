@@ -11,6 +11,7 @@ redirect_from:
 # 'ALERT' [TLP:CLEAR] Intel processor vulnerability [EGI-SVG-2023-58]
 
 Date:        2023-11-21 
+Updated      2023-10-29
 
 A security vulnerability was found in some Intel processors potentially allowing 
 privilege escalation, information disclosure and/or a denial of service via local 
@@ -24,6 +25,9 @@ CVE ID     : CVE-2023-23583
 
 CVSS Score : 8.8 [R 1]
     
+**UPDATE 2024-10-29**
+Further information related to this vulnerability and others in:--
+https://advisories.egi.eu/Advisory-EGI-SVG-2024-24
 
 ## ACTIONS REQUIRED/RECOMMENDED
     
