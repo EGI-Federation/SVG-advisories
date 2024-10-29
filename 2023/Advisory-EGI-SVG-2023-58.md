@@ -26,7 +26,9 @@ CVE ID     : CVE-2023-23583
 CVSS Score : 8.8 [R 1]
     
 **UPDATE 2024-10-29**
+
 Further information related to this vulnerability and others in:--
+
 https://advisories.egi.eu/Advisory-EGI-SVG-2024-24
 
 ## ACTIONS REQUIRED/RECOMMENDED
