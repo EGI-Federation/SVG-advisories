@@ -34,7 +34,7 @@ and take appropriate action using the references below.
 Among others, RedHat and derivatives have provided microcode fixes for 
 RHEL 9 [R 1] and RHEL 8 [R 2]. Likewise for the different Debian versions [R 9].
 
-For the new microcode to take effect one needs to reboot the (vulnerable) machine.
+For the new microcode to take effect it is necessary to reboot the (vulnerable) machine.
 
 If anyone becomes aware of any situation where such a vulnerability has a 
 significant impact on the EGI infrastructure, then please inform EGI SVG.
