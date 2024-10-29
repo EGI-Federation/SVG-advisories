@@ -45,7 +45,7 @@ various
 | 2023-08-23 Updated 2024-02-19 | HIGH risk AMD CPU Processor Vulnerability [EGI-SVG-CVE-2023-20569] | [Advisory-SVG-CVE-2023-20569](./2024/Advisory-SVG-CVE-2023-20569.md)     | CVE-2023-20569   |
 | 2023-08-16 Updated 2023-10-19, 2024-02-19 | HIGH risk Intel Downfall Vulnerability [EGI-SVG-CVE-2022-40982] | [Advisory-SVG-CVE-2022-40982](./2023/Advisory-SVG-CVE-2022-40982.md)  | CVE-2022-40982   |
 | 2023-07-26 Updated 2023-08-15, 2023-09-21, 2023-09-22, 2024-02-16  | ALERT Zenbleed speculative execution vulnerability  [EGI-SVG-CVE-2023-20593] | [Advisory-SVG-CVE-2023-20593](./2023/Advisory-SVG-CVE-2023-20593.md)     | CVE-2023-20593   |
-| 2023-11-21                    | Intel processor vulnerability  [EGI-SVG-2023-58]                | [Advisory-EGI-SVG-2023-58](./2023/Advisory-EGI-SVG-2023-58.md)        | CVE-2023-23583   |
+| 2023-11-21 Updated 2024-10-29 | Intel processor vulnerability  [EGI-SVG-2023-58]                | [Advisory-EGI-SVG-2023-58](./2023/Advisory-EGI-SVG-2023-58.md)        | CVE-2023-23583   |
 | 2023-10-16 Updated 2023-11-14 | HIGH risk Slurm race condition vulnerability [EGI-SVG-2023-57]  | [Advisory-EGI-SVG-2023-57](./2023/Advisory-EGI-SVG-2023-57.md)        | CVE-2023-41914   |
 | 2023-10-06 Updated 2023-11-14 | HIGH Risk glibc vulnerability [EGI-SVG-2023-55]                 | [Advisory-EGI-SVG-2023-55](./2023/Advisory-EGI-SVG-2023-55.md)        | CVE-2023-4911    |
 | 2023-09-21 Updated 2023-11-14 | HIGH  Risk INDIGO-IAM Vulnerability [EGI-SVG-2023-53]           | [Advisory-EGI-SVG-2023-53](./2023/Advisory-EGI-SVG-2023-53.md)        | N/A   |
