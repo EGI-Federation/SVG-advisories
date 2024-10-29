@@ -11,8 +11,7 @@ redirect_from:
 
 # 'ADVISORY' Multiple Intel Processor Vulnerabilities [EGI-SVG-2024-24]
 
-Date:        2024-10-29 
-Updated: 
+Date:        2024-10-29  
 
 Multiple vulnerabilities were found in some Intel processors, potentially 
 allowing privilege escalation, information disclosure and/or a denial of 
