@@ -19,11 +19,12 @@ various
 
 | Date                          | Title                                                           | Contents/Link                                                         | CVE(s) (if applicable) |
 | ------------------------------| --------------------------------------------------------------- | --------------------------------------------------------------------- | --------------         |
+| 2024-10-02 Updated 24-11-07   | CRITICAL risk  Nvidia container escape Vulnerability  [EGI-SVG-2024-22] | [Advisory-EGI-SVG-2024-22](./2024/Advisory-EGI-SVG-2024-22.md) | CVE-2024-0132 |
 | 2024-10-29                    | Multiple Intel Processor Vulnerabilities      [EGI-SVG-2024-24] | [Advisory-EGI-SVG-2024-24](./2024/Advisory-EGI-SVG-2024-24.md)        | CVE-2023-42667 + more |
-| 2024-08-20 Updated 20-10-09, 2024-10-24   | CRITICAL risk SAML Authentication bypass flaw  [EGI-SVG-2024-21   | [Advisory-EGI-SVG-2024-21](./2024/Advisory-EGI-SVG-2024-21.md)  | CVE-2024-45409 |
-| 2024-08-20 Updated 20-10-09   |  HIGH risk Flaw in Linux kernel's network route management  [EGI-SVG-2024-19] | [Advisory-EGI-SVG-2024-19](./2024/Advisory-EGI-SVG-2024-19.md)  | CVE-2024-36971 |
-| 2024-10-04 Updated 20-10-08   |  HIGH risk - CUPS vulnerabilities             [EGI-SVG-2024-23] | [Advisory-EGI-SVG-2024-23](./2024/Advisory-EGI-SVG-2024-23.md)        | CVE-2024-47176 + more  |
-| 2024-07-31 Updated 20-08-02, 2024-09-12 |  HIGH risk - voms-proxy-init susceptible to proxy theft    [EGI-SVG-2024-15] | [Advisory-EGI-SVG-2024-15](./2024/Advisory-EGI-SVG-2024-15.md)   | N/A  |
+| 2024-08-20 Updated 2024-10-09, 2024-10-24   | CRITICAL risk SAML Authentication bypass flaw  [EGI-SVG-2024-21   | [Advisory-EGI-SVG-2024-21](./2024/Advisory-EGI-SVG-2024-21.md)  | CVE-2024-45409 |
+| 2024-08-20 Updated 2024-10-09 |  HIGH risk Flaw in Linux kernel's network route management  [EGI-SVG-2024-19] | [Advisory-EGI-SVG-2024-19](./2024/Advisory-EGI-SVG-2024-19.md)  | CVE-2024-36971 |
+| 2024-10-04 Updated 2024-10-08 |  HIGH risk - CUPS vulnerabilities             [EGI-SVG-2024-23] | [Advisory-EGI-SVG-2024-23](./2024/Advisory-EGI-SVG-2024-23.md)        | CVE-2024-47176 + more  |
+| 2024-07-31 Updated 2024-08-02, 2024-09-12 |  HIGH risk - voms-proxy-init susceptible to proxy theft    [EGI-SVG-2024-15] | [Advisory-EGI-SVG-2024-15](./2024/Advisory-EGI-SVG-2024-15.md)   | N/A  |
 | 2024-09-11                    | SLUBStick Attack Scenario                     [EGI-SVG-2024-20] | [Advisory-EGI-SVG-2024-20](./2024/Advisory-EGI-SVG-2024-20.md)             | N/A    |
 | 2024-07-29 Updated 2024-09-11 | CRITICAL risk Docker Vulnerability            [EGI-SVG-2024-17] | [Advisory-EGI-SVG-2024-17](./2024/Advisory-EGI-SVG-2024-17.md)             | CVE-2024-41110    |
 | 2024-07-23 Updated 2024-08-22 | HIGH risk vulnerability in libndp                       [EGI-SVG-2024-16] | [Advisory-EGI-SVG-2024-16](./2024/Advisory-EGI-SVG-2024-16.md)   | CVE-2024-5564     |
