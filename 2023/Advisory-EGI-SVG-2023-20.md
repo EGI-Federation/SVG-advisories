@@ -10,6 +10,7 @@ Title:       EGI SVG 'ADVISORY' [TLP:WHITE] MODERATE risk Indigo IAM XSS
              vulnerability [EGI-SVG-2023-20]
 
 Date:        2023-07-04
+Updated      2024-12-03
 
 Affected software and risk
 ==========================
@@ -42,6 +43,11 @@ Most deployments are still at 1.8.1, because the latest release introduces a sma
 backwards incompatibility that requires some additional work for IAM clients.
 For this reason, *two* releases have been made.
 
+**UPDATE 2024-12-03**
+
+This problem was re-introduced in version 1.9.0.
+It is therefore present 1.8.3, 1.8.4 and 1.9.0.
+and fixed in v. 1.10.0, released on August 5th 2024
 
 More information
 ================
@@ -102,6 +108,7 @@ Yyyy-mm-dd  [EGI-SVG-2023-20]
 2023-03-17 EGI SVG Risk Assessment completed
 2023-07-03 Updated docker images available on Docker Hub
 2023-07-04 Advisory sent to sites and placed on advisories.egi.eu
+2024-12-03 Updated as problem re-introduced and then again fixed.
 
 Context
 =======
