@@ -9,8 +9,9 @@ redirect_from:
 ## Advisory-EGI-SVG-2024-27
 
 # CRITICAL risk Icinga 2 Security releases
-Date:        2024-11-19
-Updated:     
+
+Date:        2024-11-19  
+Updated:     2025-01-28
 
 
 CRITICAL risk vulnerability in Icinga 2, security-fix releases available as of 2024-11-12
