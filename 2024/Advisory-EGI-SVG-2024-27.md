@@ -3,8 +3,7 @@ title: Advisory-EGI-SVG-2024-27
 permalink: /Advisory-EGI-SVG-2024-27
 redirect_from:
   - /Advisory-SVG-CVE-2024-49369
-  
-published: false
+
 ---
 
 ## Advisory-EGI-SVG-2024-27
