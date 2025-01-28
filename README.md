@@ -19,8 +19,8 @@ various
 
 | Date                          | Title                                                           | Contents/Link                                                         | CVE(s) (if applicable) |
 | ------------------------------| --------------------------------------------------------------- | --------------------------------------------------------------------- | --------------         |
-| 2024-11-19 Updated 2025-01-28 | CRITICAL risk Icinga 2 Security releases   [EGI-SVG-2024-27]    | [Advisory-EGI-SVG-2024-27](./Advisory-EGI-SVG-2024-27.md)             | CVE-2024-49369         |       
-| 2023-07-04 Updated 2024-12-03 | MODERATE risk Indigo IAM XSS vulnerability [EGI-SVG-2023-20]    | [Advisory-EGI-SVG-2023-20](./Advisory-EGI-SVG-2023-20.md)             | N/A                    |
+| 2024-11-19 Updated 2025-01-28 | CRITICAL risk Icinga 2 Security releases   [EGI-SVG-2024-27]    | [Advisory-EGI-SVG-2024-27](./2024/Advisory-EGI-SVG-2024-27.md)             | CVE-2024-49369         |       
+| 2023-07-04 Updated 2024-12-03 | MODERATE risk Indigo IAM XSS vulnerability [EGI-SVG-2023-20]    | [Advisory-EGI-SVG-2023-20](./2023/Advisory-EGI-SVG-2023-20.md)             | N/A                    |
 | 2024-10-02 Updated 24-11-07   | CRITICAL risk  Nvidia container escape Vulnerability  [EGI-SVG-2024-22] | [Advisory-EGI-SVG-2024-22](./2024/Advisory-EGI-SVG-2024-22.md) | CVE-2024-0132 |
 | 2024-10-29                    | Multiple Intel Processor Vulnerabilities      [EGI-SVG-2024-24] | [Advisory-EGI-SVG-2024-24](./2024/Advisory-EGI-SVG-2024-24.md)        | CVE-2023-42667 + more |
 
