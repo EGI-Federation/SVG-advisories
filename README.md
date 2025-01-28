@@ -34,7 +34,7 @@ homogeneity of the infrastructure and handle vulnerabilities related to the EOSC
 services.
 
 ## Earlier advisories
-- [Advisories from 2024](./2023/Advisories-SVG-2024.md)
+- [Advisories from 2024](./2024/Advisories-SVG-2024.md)
 - [Advisories from 2023](./2023/Advisories-SVG-2023.md)
 - [Advisories from 2022](./2022/Advisories-SVG-2022.md)
 - [Advisories from 2021](./2021/Advisories-SVG-2021.md)
