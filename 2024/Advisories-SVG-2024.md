@@ -12,7 +12,7 @@ A guide to the risk categories is available at
 
 | Date                          | Title                                                           | Contents/Link                                                         | CVE(s) (if applicable) |
 | ------------------------------| --------------------------------------------------------------- | --------------------------------------------------------------------- | --------------         |
-| 2023-07-04 Updated 2024-12-03 | MODERATE risk Indigo IAM XSS vulnerability [EGI-SVG-2023-20]    | [Advisory-EGI-SVG-2023-20](./Advisory-EGI-SVG-2023-20.md)             | N/A                    |
+| 2023-07-04 Updated 2024-12-03 | MODERATE risk Indigo IAM XSS vulnerability [EGI-SVG-2023-20]    | [Advisory-EGI-SVG-2023-20](..2023/Advisory-EGI-SVG-2023-20.md)             | N/A                    |
 | 2024-10-02 Updated 24-11-07   | CRITICAL risk  Nvidia container escape Vulnerability  [EGI-SVG-2024-22] | [Advisory-EGI-SVG-2024-22](./Advisory-EGI-SVG-2024-22.md) | CVE-2024-0132 |
 | 2024-10-29                    | Multiple Intel Processor Vulnerabilities      [EGI-SVG-2024-24] | [Advisory-EGI-SVG-2024-24](./Advisory-EGI-SVG-2024-24.md)        | CVE-2023-42667 + more |
 | 2024-08-20 Updated 2024-10-09, 2024-10-24   | CRITICAL risk SAML Authentication bypass flaw  [EGI-SVG-2024-21   | [Advisory-EGI-SVG-2024-21](./Advisory-EGI-SVG-2024-21.md)  | CVE-2024-45409 |
