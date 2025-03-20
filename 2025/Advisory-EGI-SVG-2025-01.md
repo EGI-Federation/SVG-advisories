@@ -15,7 +15,7 @@ redirect_from:
 # Up to CRITICAL Vulnerabilities in rsync
 
 Date: 2025-01-16  
-Updated: 2025-03-25
+Updated: 2025-03-20
 
 6 new vulnerabilities concerning rsync, of which the highest risk rating
 is CRITICAL (*not* for RHEL 8/9), have been patched in the latest
