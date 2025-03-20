@@ -7,22 +7,19 @@ redirect_from:
   - /Advisory-SVG-CVE-2024-12086
   - /Advisory-SVG-CVE-2024-12087
   - /Advisory-SVG-CVE-2024-12088
-  - /Advisory-SVG-CVE-2024-12747
-  
+  - /Advisory-SVG-CVE-2024-12747 
 ---
 
 ## Advisory-EGI-SVG-2025-01
 
 # Up to CRITICAL Vulnerabilities in rsync
-Date: 2025-01-16
-Updated: 2025-01-16
 
-<include title without id in the body of txt of e-mail>
+Date: 2025-01-16  
+Updated: 2025-03-25
 
 6 new vulnerabilities concerning rsync, of which the highest risk rating
 is CRITICAL (*not* for RHEL 8/9), have been patched in the latest
 release of rsync.
-
 
 ## IDs AND CVSS SCORE      
 
