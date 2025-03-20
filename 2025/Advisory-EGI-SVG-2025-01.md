@@ -9,7 +9,6 @@ redirect_from:
   - /Advisory-SVG-CVE-2024-12088
   - /Advisory-SVG-CVE-2024-12747
   
-published: false
 ---
 
 ## Advisory-EGI-SVG-2025-01
