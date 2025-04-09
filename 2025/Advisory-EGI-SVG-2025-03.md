@@ -44,7 +44,9 @@ _TLP:CLEAR information - Unlimited distribution_
 https://advisories.egi.eu/Advisory-EGI-SVG-2025-03  
 
 https://advisories.egi.eu/Advisory-SVG-CVE-2025-22224 
+
 https://advisories.egi.eu/Advisory-SVG-CVE-2025-22225 
+
 https://advisories.egi.eu/Advisory-SVG-CVE-2025-22226 
 
 Minor updates may be made without re-distribution to the sites.
@@ -56,7 +58,7 @@ Minor updates may be made without re-distribution to the sites.
     https://creativecommons.org/licenses/by/4.0/ and
     the EGI (https://www.egi.eu/) Software Vulnerability Group 
     must be credited.
--
+---
 
 Comments or questions should be sent to
 	svg-rat at mailman.egi.eu
