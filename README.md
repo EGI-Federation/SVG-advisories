@@ -19,6 +19,7 @@ various
 
 | Date                          | Title                                                           | Contents/Link                                                         | CVE(s) (if applicable) |
 | ------------------------------| --------------------------------------------------------------- | --------------------------------------------------------------------- | --------------         |
+| 2025-03-06 Updated 2025-04-09 | CRITICAL risk VMware Vulnerabilities VMSA-2025-0004 [EGI-SVG-2025-03] | [Advisory-EGI-SVG-2025-03](./2025/Advisory-EGI-SVG-2025-03.md) | CVE-2025-22224 + more |
 | 2025-02-26 Updated 2025-03-26 | CRITICAL risk Vulnerabilities in nvidia-container-toolkit, nvidia-gpu-operator [EGI-SVG-2025-02] | [Advisory-EGI-SVG-2025-02](./2025/Advisory-EGI-SVG-2025-02.md) | CVE-2024-0135 + more |
 | 2025-01-16 Updated 2025-03-20 | Up to CRITICAL Vulnerabilities in rsync [EGI-SVG-2025-01]       |  [Advisory-EGI-SVG-2025-01](./2025/Advisory-EGI-SVG-2025-01.md)       | CVE-2024-12084 + more  | 
 | 2024-12-12 Updated 2025-01-29 | HIGH risk PAM host name spoofing vulnerability [EGI-SVG-2024-28] |  [Advisory-EGI-SVG-2024-28](./2024/Advisory-EGI-SVG-2024-28.md)      | CVE-2024-10963         | 
