@@ -2,8 +2,7 @@
 title: Advisory-EGI-SVG-2025-05
 permalink: /Advisory-EGI-SVG-2025-05
 redirect_from:
-  - /Advisory-SVG-CVE-YYYY-NNNNNN
-  - /Advisory-SVG-CVE-YYYY-NNNNNN
+  - /Advisory-SVG-CVE-2025-30093
   
 published: false
 ---
@@ -67,7 +66,7 @@ Minor updates may be made without re-distribution to the sites.
     https://creativecommons.org/licenses/by/4.0/ and
     the EGI (https://www.egi.eu/) Software Vulnerability Group 
     must be credited.
---
+-
   
 Comments or questions should be sent to
 	svg-rat at mailman.egi.eu
