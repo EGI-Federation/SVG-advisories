@@ -1,8 +1,7 @@
 ---
 title: Advisory-EGI-SVG-2024-25
 permalink: /Advisory-EGI-SVG-2024-25
-  
-published: false
+
 ---
 
 ## Advisory-EGI-SVG-2024-25
@@ -12,7 +11,7 @@ published: false
 PerfSonar by default enables a public webserver endpoint that proxies the prometheus node_exporter, 
 thereby publishing excessive system information.
 
-We do not assign a risk level to this vulnerability at this time, because it would depend on what is 
+We do not assign a risk level to this vulnerability, because it would depend on what is 
 published exactly, not only today, but also after future updates of components involved.
 
 We consider it bad practice to serve - by default - such extensive system information to the world.
