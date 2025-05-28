@@ -9,7 +9,7 @@ redirect_from:
 
 # perfSONAR privilege escalation Vulnerability
 
-Date: 2025-05-21
+Date: 2025-05-28
 
 MODERATE risk vulnerability/vulnerabilities concerning perfSONAR wherein
 excessively permissive sudo rules potentially allow privilege escalation.
