@@ -19,6 +19,7 @@ various
 
 | Date                          | Title                                                           | Contents/Link                                                         | CVE(s) (if applicable) |
 | ------------------------------| --------------------------------------------------------------- | --------------------------------------------------------------------- | --------------         |
+| 2025-05-28 | perfSONAR privilege escalation Vulnerability [EGI-SVG-2025-07] | [Advisory-EGI-SVG-2025-07](./2025/Advisory-EGI-SVG-2025-07.md)        | N/A                    |
 | 2024-11-21 Updated 2025-05-15 | perfSONAR configuration change recommendation [EGI-SVG-2024-25] | [Advisory-EGI-SVG-2024-25](./2025/Advisory-EGI-SVG-2024-25.md)        | N/A                    |
 | 2025-04-02 Updated 2025-05-13 | HT Condor Security Release [EGI-SVG-2025-05]                    | [Advisory-EGI-SVG-2025-05](./2025/Advisory-EGI-SVG-2025-05.md)        | CVE-2025-30093         |
 | 2025-03-06 Updated 2025-05-12 | CRITICAL risk Kubernetes Ingress NGINX Controller vulnerabilities [EGI-SVG-2025-04] | [Advisory-EGI-SVG-2025-04](./2025/Advisory-EGI-SVG-2025-04.md) | CVE-2025-1974 + more |
