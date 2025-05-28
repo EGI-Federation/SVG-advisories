@@ -16,7 +16,7 @@ excessively permissive sudo rules potentially allow privilege escalation.
 
 ## IDs AND CVSS SCORE 
 
-EGI SVG ID : EGI-SVG-2025-09
+EGI SVG ID : EGI-SVG-2025-08
     
 CVE ID     : N/A
 
