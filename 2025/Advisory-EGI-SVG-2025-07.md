@@ -7,7 +7,7 @@ redirect_from:
 
 ## Advisory-EGI-SVG-2025-07
 
-# perfSONAR privilege escalation Vulnerability
+## perfSONAR privilege escalation Vulnerability
 
 Date: 2025-05-28
 
