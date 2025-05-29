@@ -11,7 +11,7 @@ redirect_from:
 # HIGH risk mod_auth_openidc information leak vulnerability
 
 Date:        2025-04-28 
-Updated:     2025-05-28
+Updated:     2025-05-29
 
 mod_auth_openidc information leak vulnerability
 
