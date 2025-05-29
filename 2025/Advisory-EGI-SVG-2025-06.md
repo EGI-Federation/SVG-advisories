@@ -11,7 +11,7 @@ published: false
 
 # HIGH risk mod_auth_openidc information leak vulnerability
 
-Date:        2025-04-24 
+Date:        2025-04-28 
 Updated:     2025-05-28
 
 mod_auth_openidc information leak vulnerability
@@ -60,13 +60,18 @@ _TLP:CLEAR information - Unlimited distribution_
 
  https://advisories.egi.eu/Advisory-SVG-CVE-2025-31492 
 
-
 Minor updates may be made without re-distribution to the sites.
 
 
 ## CONTACT AND OTHER INFORMATION ON SVG
 
-   
+-----------------------------
+    This advisory is subject to the Creative Commons licence 
+    https://creativecommons.org/licenses/by/4.0/ and
+    the EGI (https://www.egi.eu/) Software Vulnerability Group 
+    must be credited.
+-----------------------------
+  
 Comments or questions should be sent to
 	svg-rat at mailman.egi.eu
 
