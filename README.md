@@ -19,6 +19,7 @@ various
 
 | Date                          | Title                                                           | Contents/Link                                                         | CVE(s) (if applicable) |
 | ------------------------------| --------------------------------------------------------------- | --------------------------------------------------------------------- | --------------         |
+| 2025-04-28 Updated 2025-05-29 | HIGH risk mod_auth_openidc information leak vulnerability [EGI-SVG-2025-06] | [Advisory-EGI-SVG-2025-06](./2025/Advisory-EGI-SVG-2025-06.md) | CVE-2025-31492 |
 | 2025-05-28 | perfSONAR privilege escalation Vulnerability [EGI-SVG-2025-08] | [Advisory-EGI-SVG-2025-08](./2025/Advisory-EGI-SVG-2025-08.md)        | N/A                    |
 | 2024-11-21 Updated 2025-05-15 | perfSONAR configuration change recommendation [EGI-SVG-2024-25] | [Advisory-EGI-SVG-2024-25](./2025/Advisory-EGI-SVG-2024-25.md)        | N/A                    |
 | 2025-04-02 Updated 2025-05-13 | HT Condor Security Release [EGI-SVG-2025-05]                    | [Advisory-EGI-SVG-2025-05](./2025/Advisory-EGI-SVG-2025-05.md)        | CVE-2025-30093         |
