@@ -3,8 +3,7 @@ title: Advisory-EGI-SVG-2025-06
 permalink: /Advisory-EGI-SVG-2025-06
 redirect_from:
   - /Advisory-SVG-CVE-2025-31492
-  
-published: false
+
 ---
 
 ## Advisory-EGI-SVG-2025-06
@@ -93,7 +92,7 @@ Vulnerabilities relevant for EGI can be reported at
     
 - [R 5] <https://ubuntu.com/security/CVE-2025-31492>
     
-- [R 6]<https://github.com/OpenIDC/mod_auth_openidc/security/advisories/GHSA-59jp-rwph-878r> 
+- [R 6] <https://github.com/OpenIDC/mod_auth_openidc/security/advisories/GHSA-59jp-rwph-878r> 
     
 - [R 6] <https://errata.build.resf.org/>   (RockyLinux)
 
