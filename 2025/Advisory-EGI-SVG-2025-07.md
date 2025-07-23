@@ -2,9 +2,8 @@
 title: Advisory-EGI-SVG-2025-07
 permalink: /Advisory-EGI-SVG-2025-07
 redirect_from:
-  - /Advisory-SVG-CVECVE-2025-21756
+  - /Advisory-SVG-CVE-2025-21756
   
-published: false
 ---
 
 ## Advisory-EGI-SVG-2025-07
