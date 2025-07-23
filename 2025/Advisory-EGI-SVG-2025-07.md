@@ -83,6 +83,7 @@ Vulnerabilities relevant for EGI can be reported at
 	report-vulnerability at egi.eu
     
 (see [R 99] for further details, and other information on SVG)
+
 ## REFERENCES
 
 - [R 1] <https://access.redhat.com/security/cve/CVE-2025-21756>
@@ -97,7 +98,13 @@ Vulnerabilities relevant for EGI can be reported at
     
 - [R 6] <https://github.com/hoefler02/CVE-2025-21756>
     
-- [R 7] <https://hoefler.dev/articles/vsock.html> 
-
+- [R 7] <https://hoefler.dev/articles/vsock.html>
 
 - [R 99] <https://confluence.egi.eu/display/EGIBG/SVG+Advisories>
+
+## CREDITS
+
+SVG was alerted to this vulnerability by Mischa Salle
+
+
+
