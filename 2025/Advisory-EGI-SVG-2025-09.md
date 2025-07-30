@@ -50,9 +50,8 @@ In addition, the FTS team recommends the followings [R 1]:
     
 ## STATUS OF THIS ADVISORY    
                         
-_TLP:AMBER information - Limited distribution_ 
+_TLP:CLEAR information - Unlimited distribution_ 
 
- This advisory will be made public on or after 2025-07-25 at
  https://advisories.egi.eu/Advisory-EGI-SVG-2025-09 
 
 Minor updates may be made without re-distribution to the sites.
