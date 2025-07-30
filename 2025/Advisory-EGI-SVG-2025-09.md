@@ -1,5 +1,4 @@
 ---
----
 title: Advisory-EGI-SVG-2025-09
 permalink: /Advisory-EGI-SVG-2025-09
   
