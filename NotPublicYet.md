@@ -8,3 +8,5 @@ published: false
 **Advisory EGI-SVG-YYYY-NN is not public yet**
 
 When it is it will be here.
+
+You are looking in the right place
