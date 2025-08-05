@@ -80,29 +80,29 @@ Vulnerabilities relevant for EGI can be reported at
     
 ## REFERENCES
 
-- [R 1] https://nvd.nist.gov/vuln/detail/CVE-2025-32462
+- [R 1] <https://nvd.nist.gov/vuln/detail/CVE-2025-32462>
      
-- [R 2] https://nvd.nist.gov/vuln/detail/CVE-2025-32463
+- [R 2] <https://nvd.nist.gov/vuln/detail/CVE-2025-32463>
 
-- [R 3] https://access.redhat.com/security/cve/cve-2025-32462
+- [R 3] <https://access.redhat.com/security/cve/cve-2025-32462>
 
-- [R 4] https://access.redhat.com/security/cve/cve-2025-32463
+- [R 4] <https://access.redhat.com/security/cve/cve-2025-32463>
     
-- [R 5] https://security-tracker.debian.org/tracker/CVE-2025-32462
+- [R 5] <https://security-tracker.debian.org/tracker/CVE-2025-32462>
     
-- [R 6] https://security-tracker.debian.org/tracker/CVE-2025-32463
+- [R 6] <https://security-tracker.debian.org/tracker/CVE-2025-32463>
 
-- [R 7] https://ubuntu.com/security/CVE-2025-32462
+- [R 7] <https://ubuntu.com/security/CVE-2025-32462>
 
-- [R 8] https://ubuntu.com/security/CVE-2025-32463
+- [R 8] <https://ubuntu.com/security/CVE-2025-32463>
 
-- [R 9] https://www.stratascale.com/vulnerability-alert-CVE-2025-32462-sudo-host
+- [R 9] <https://www.stratascale.com/vulnerability-alert-CVE-2025-32462-sudo-host>
     
-- [R 10] https://www.stratascale.com/vulnerability-alert-CVE-2025-32463-sudo-chroot
+- [R 10] <https://www.stratascale.com/vulnerability-alert-CVE-2025-32463-sudo-chroot>
     
-- [R 11] https://www.sudo.ws/security/advisories/host_any/
+- [R 11] <https://www.sudo.ws/security/advisories/host_any/>
     
-- [R 12] https://www.sudo.ws/security/advisories/chroot_bug/
+- [R 12] <https://www.sudo.ws/security/advisories/chroot_bug/>
 
 - [R 99] <https://confluence.egi.eu/display/EGIBG/SVG+Advisories>
 
