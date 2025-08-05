@@ -19,6 +19,7 @@ various
 
 | Date                          | Title                                                           | Contents/Link                                                         | CVE(s) (if applicable) |
 | ------------------------------| --------------------------------------------------------------- | --------------------------------------------------------------------- | --------------         |
+| 2025-07-02 Updated 2025-08-05 | HIGH risk Sudo Vulnerabilities  [EGI-SVG-2025-10]               | [Advisory-EGI-SVG-2025-10](./2025/Advisory-EGI-SVG-2025-10.md)        | CVE-2025-32462, CVE-2025-32463 |
 | 2025-06-26 Updated 2025-07-30 | CRITICAL Risk FTS3 Web Monitoring Security Vulnerability [EGI-SVG-2025-09]  | [Advisory-EGI-SVG-2025-09](./2025/Advisory-EGI-SVG-2025-09.md)        | N/A |
 | 2025-05-28 Updated 2025-07-23 | CRITICAL Risk Linux Kernel Vulnerability [EGI-SVG-2025-07]      | [Advisory-EGI-SVG-2025-07](./2025/Advisory-EGI-SVG-2025-07.md)        | CVE-2025-21756 |
 | 2025-04-28 Updated 2025-05-29 | HIGH risk mod_auth_openidc information leak vulnerability [EGI-SVG-2025-06] | [Advisory-EGI-SVG-2025-06](./2025/Advisory-EGI-SVG-2025-06.md) | CVE-2025-31492 |
