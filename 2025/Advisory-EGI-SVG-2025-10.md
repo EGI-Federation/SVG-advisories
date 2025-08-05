@@ -71,7 +71,7 @@ Minor updates may be made without re-distribution to the sites.
     https://creativecommons.org/licenses/by/4.0/ and
     the EGI (https://www.egi.eu/) Software Vulnerability Group 
     must be credited.
---
+----
 
 Vulnerabilities relevant for EGI can be reported at
                 report-vulnerability at egi.eu
@@ -106,5 +106,7 @@ Vulnerabilities relevant for EGI can be reported at
 
 - [R 99] <https://confluence.egi.eu/display/EGIBG/SVG+Advisories>
 
----
+## CREDITS
+
+SVG was alerted to this vulnerability by Pau Cutrina Vilalta
 
