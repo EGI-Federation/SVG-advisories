@@ -5,8 +5,6 @@ redirect_from:
   - /Advisory-SVG-CVE-2025-23266 
   - /Advisory-SVG-CVE-2025-23267
   
-published: false
-
 ---
 
 ## Advisory-EGI-SVG-2025-11
