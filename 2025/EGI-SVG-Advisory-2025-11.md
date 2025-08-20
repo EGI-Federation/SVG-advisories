@@ -11,7 +11,7 @@ redirect_from:
 
 # NVIDIA Container Toolkit vulnerability
   
-Date:        2025-07-17
+Date:        2025-07-17  
 Updated:     2025-08-20
 
 One CRITICAL and one HIGH risk vulnerability have been announced concerning
