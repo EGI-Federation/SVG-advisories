@@ -9,6 +9,9 @@ redirect_from:
 
 # Vulnerabilities concerning Hashicorp Vault and Openbao
 
+Date:        2025-08-13
+Updated:     2025-09-24
+
 CRITICAL risk vulnerabilities concerning Hashicorp Vault and Openbao  [R 1]
 
 ## IDs AND CVSS SCORE 
