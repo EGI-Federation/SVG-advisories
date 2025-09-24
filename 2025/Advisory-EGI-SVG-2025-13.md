@@ -7,7 +7,9 @@ redirect_from:
 ---
 ## Advisory-EGI-SVG-2025-13
 
-#  CRITICAL risk vulnerabilities concerning Hashicorp Vault and Openbao Vulnerability [R 1]
+# Vulnerabilities concerning Hashicorp Vault and Openbao
+
+CRITICAL risk vulnerabilities concerning Hashicorp Vault and Openbao  [R 1]
 
 ## IDs AND CVSS SCORE 
 
