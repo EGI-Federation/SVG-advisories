@@ -54,6 +54,13 @@ _TLP:CLEAR information - Unimited distribution_
     must be credited.
 ---
 
+ https://advisories.egi.eu/Advisory-EGI-SVG-2025-13 
+
+  https://advisories.egi.eu/Advisory-SVG-CVE-2025-6000
+
+Minor updates may be made without re-distribution to the sites.
+
+
 Minor updates may be made without re-distribution to the sites.
 
 ## CONTACT AND OTHER INFORMATION ON SVG
