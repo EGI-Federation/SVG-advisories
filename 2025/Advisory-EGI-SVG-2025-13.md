@@ -61,8 +61,6 @@ _TLP:CLEAR information - Unimited distribution_
 Minor updates may be made without re-distribution to the sites.
 
 
-Minor updates may be made without re-distribution to the sites.
-
 ## CONTACT AND OTHER INFORMATION ON SVG
     
 Comments or questions should be sent to
