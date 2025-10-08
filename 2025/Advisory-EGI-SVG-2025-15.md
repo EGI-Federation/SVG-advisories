@@ -7,7 +7,6 @@ redirect_from:
 
 ---
 
-published: false
 ---
 
 ## Advisory-EGI-SVG-2025-15
