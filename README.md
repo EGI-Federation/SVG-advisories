@@ -19,7 +19,8 @@ various
 
 | Date                          | Title                                                           | Contents/Link                                                         | CVE(s) (if applicable) |
 | ------------------------------| --------------------------------------------------------------- | --------------------------------------------------------------------- | --------------         |
-| 2025-09-03 Updated 2025-10-08 | HIGH PAM namespace vulnerabilities   [EGI-SVG-2025-15]          | [Advisory-EGI-SVG-2025-15](./2025/Advisory-EGI-SVG-2025-15.md)        | CVE-2025-6020, CVE-2025-8941 |
+| 2025-09-11 Updated 2025-09-18, 2025-10-30  | HIGH Linux Kernel Vulnerability   [EGI-SVG-2025-16]  | [Advisory-EGI-SVG-2025-16](./2025/Advisory-EGI-SVG-2025-16.md)        | CVE-2025-38352 |
+| 2025-09-03 Updated 2025-10-08 | HIGH Risk PAM namespace vulnerabilities   [EGI-SVG-2025-15]     | [Advisory-EGI-SVG-2025-15](./2025/Advisory-EGI-SVG-2025-15.md)        | CVE-2025-6020, CVE-2025-8941 |
 | 2025-08-20 Updated 2025-09-24 | HIGH Risk Linux kernel vulnerability   [EGI-SVG-2025-14]        | [Advisory-EGI-SVG-2025-14](./2025/Advisory-EGI-SVG-2025-14.md)        | CVE-2025-38052 |
 | 2025-08-13 Updated 2025-09-24 | CRITICAL Risk Hashicorp Vault and Openbao vulnerability [EGI-SVG-2025-13]     | [Advisory-EGI-SVG-2025-13](./2025/Advisory-EGI-SVG-2025-13.md)        | CVE-2025-6000 |
 | 2025-07-23 Updated 2025-08-28 | HIGH Risk Vulnerabilities in libxml2  [EGI-SVG-2025-12]         | [Advisory-EGI-SVG-2025-12](./2025/Advisory-EGI-SVG-2025-12.md)        | CVE-2025-49794, CVE-2025-49796 |
