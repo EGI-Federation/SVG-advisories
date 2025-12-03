@@ -13,8 +13,8 @@ redirect_from:
 Date:        2025-10-16  
 Updated:     2025-12-03
 
-CRITICAL risk vulnerabilities concerning NVIDIA including use-after-free 
-allowing privilege escalation and/or code execution. [R 1]
+CRITICAL risk vulnerabilities concerning NVIDIA including use-after-free  
+allowing privilege escalation and/or code execution. [R 1] 
 There is a public exploit available.
 
 
@@ -28,31 +28,31 @@ CVSS Score : 7.0 [R 3]
     
 ## ACTIONS REQUIRED/RECOMMENDED
 
-Sites running the affected NVIDIA drivers are required to install 
+Sites running the affected NVIDIA drivers are required to install  
 a fixed version urgently, see [R 1].
 
-All running resources MUST be either patched or have mitigation
+All running resources MUST be either patched or have mitigation 
 in place or software removed by 2025-10-24  00:00 UTC 
 
-Sites failing to act or respond to requests from the EGI CSIRT team 
+Sites failing to act or respond to requests from the EGI CSIRT team  
 risk site suspension. See [R 98]
     
 
 ## MITIGATION
 
-As far as we are aware, no mitigation is available.
+As far as we are aware, no mitigation is available. 
 Drivers need to be updated.
 
 ## MORE INFORMATION
      
-NVIDIA Display Driver for Linux contains a vulnerability where an attacker 
-could cause a use-after-free. A successful exploit of this vulnerability 
-might lead to code execution, escalation of privileges, data tampering, 
+NVIDIA Display Driver for Linux contains a vulnerability where an attacker  
+could cause a use-after-free. A successful exploit of this vulnerability  
+might lead to code execution, escalation of privileges, data tampering,  
 denial of service, and information disclosure. [R 4]
 
 NOTE: the driver may be installed even when no display is connected.
        
-Given a public exploit is available and due to the way the EGI infrastucture
+Given a public exploit is available and due to the way the EGI infrastucture 
 operates, the EGI SVG considers this vulnerability to be 'CRITICAL' risk.
       
     
