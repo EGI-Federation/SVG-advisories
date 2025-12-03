@@ -10,7 +10,7 @@ permalink: /Advisory-EGI-SVG-2025-19
 Date:        2025-10-22  
 Updated:     2025-12-03
 
-HIGH risk vulnerability concerning INDIGO IAM where a  a protected  
+HIGH risk vulnerability concerning INDIGO IAM where a  a protected   
 resource client can obtain tokens using the client-credentials flow. 
 
 ## IDs AND CVSS SCORE      
@@ -28,9 +28,9 @@ All releases of INDIGO IAM up to and including version 1.12.2.
 
 ## ACTIONS REQUIRED/RECOMMENDED
 
-Sites are recommended to update relevant components  
-using information in the references below, if they have 
-not already updated to version 1.12.3 or later
+Sites are recommended to update relevant components   
+using information in the references below, if they have  
+not already updated to version 1.12.3 or later 
     
 
 ## COMPONENT INSTALLATION INFORMATION
@@ -48,9 +48,9 @@ There is no mitigation.
 
 ## MORE INFORMATION
 
-Note that this is fixed in the same release as a previous 'MODERATE' 
+Note that this is fixed in the same release as a previous 'MODERATE'  
 risk vulnerability.  So sites who have acted on EGI-SVG-2025-18 should 
-already not be vulnerabile.
+already not be vulnerabile. 
     
     
 ## STATUS OF THIS ADVISORY
@@ -70,7 +70,7 @@ Minor updates may be made without re-distribution to the sites.
     https://creativecommons.org/licenses/by/4.0/ and
     the EGI (https://www.egi.eu/) Software Vulnerability Group 
     must be credited.
------------------------------
+--
     
 Comments or questions should be sent to
 	svg-rat at mailman.egi.eu
