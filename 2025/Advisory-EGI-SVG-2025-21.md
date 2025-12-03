@@ -14,10 +14,10 @@ Date:        2025-10-09
 Updated:     2025-12-03
 
 
-CRITICAL risk Lua use-after-free vulnerability in Redis 
+CRITICAL risk Lua use-after-free vulnerability in Redis  
 which may lead to remote code execution. [R 1]
     
-This is used at least in some EGI Federated Cloud sites, but we (EGI SVG)
+This is used at least in some EGI Federated Cloud sites, but we (EGI SVG) 
 do not know whether sites are actually exposed, as is explained below.  
 
 
@@ -32,25 +32,25 @@ CVSS Score : 10.0 [R 1]
 
 ## ACTIONS REQUIRED/RECOMMENDED
 
-Sites running Redis are required to urgently check whether or not they are 
-vulnerable and - if they are - to either upgrade to a patched version as
+Sites running Redis are required to urgently check whether or not they are  
+vulnerable and - if they are - to either upgrade to a patched version as 
 detailed in [R 1], or carry out mitigation detailed below. 
 
-All running resources MUST be either patched or have mitigation
+All running resources MUST be either patched or have mitigation 
 in place or software removed by 2025-10-17  00:00 UTC 
 
-Sites failing to act or respond to requests from the EGI CSIRT
+Sites failing to act or respond to requests from the EGI CSIRT 
 risk site suspension. 
 
 
 
 ## MITIGATION
 
-A workaround for this issue - without patching the redis-server executable - 
-is to prevent users from executing Lua scripts. This can be done using ACLs
+A workaround for this issue - without patching the redis-server executable -  
+is to prevent users from executing Lua scripts. This can be done using ACLs 
 to  restrict EVAL and EVALSHA commands. [R 2]
        
-It is also possible to just disable EVAL and EVALSHA as a mitigation, 
+It is also possible to just disable EVAL and EVALSHA as a mitigation,  
 by adding the following to the redis.conf:
     
     rename-command EVAL ""
@@ -61,16 +61,16 @@ And restart the service.
 
 ## MORE INFORMATION
 
-By default, OpenStack tenants should not be able to run EVAL and 
-EVALSHA commands (Lua scripts) on Redis instances used by OpenStack. 
+By default, OpenStack tenants should not be able to run EVAL and  
+EVALSHA commands (Lua scripts) on Redis instances used by OpenStack.  
 
-For any Redis instance where users are allowed to run such commands,
-this vulnerability should be considered 'CRITICAL' risk. 
+For any Redis instance where users are allowed to run such commands, 
+this vulnerability should be considered 'CRITICAL' risk.  
 
-In any case, sites running Redis should check [R 1] for advice on
-configuration best practices to minimize the risk of potential abuse.
+In any case, sites running Redis should check [R 1] for advice on 
+configuration best practices to minimize the risk of potential abuse. 
 
-We recommend patching Redis even if the service happens not to be
+We recommend patching Redis even if the service happens not to be 
 vulnerable in its current configuration.
 
     
