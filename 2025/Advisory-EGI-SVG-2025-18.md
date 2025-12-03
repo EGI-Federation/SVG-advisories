@@ -4,8 +4,6 @@ permalink: /Advisory-EGI-SVG-2025-18
 
 ---
 
-**Advisory EGI-SVG-2025-18 is not public yet**
+**Advisory EGI-SVG-2025-18 was merged with another advisory**
 
-When it is it will be here.
-
-You are looking in the right place
+So we won't have an advisory here.
