@@ -19,6 +19,7 @@ various
 
 | Date                          | Title                                                           | Contents/Link                                                         | CVE(s) (if applicable) |
 | ------------------------------| --------------------------------------------------------------- | --------------------------------------------------------------------- | --------------         |
+| 2025-10-09 Updated 2025-12-03 | CRITICAL Risk  Redis vulnerability [EGI-SVG-2025-21]            | [Advisory-EGI-SVG-2025-21](./2025/Advisory-EGI-SVG-2025-21.md)        | CVE-2025-49844         |
 | 2025-10-01 Updated 2025-12-03 | CRITICAL Risk FreeIPA host to domain privilege escalation [EGI-SVG-2025-20]  | [Advisory-EGI-SVG-2025-20](./2025/Advisory-EGI-SVG-2025-20.md)  | CVE-2025-7493 |
 | 2025-09-11 Updated 2025-09-18, 2025-10-30  | HIGH Risk Linux Kernel Vulnerability   [EGI-SVG-2025-16]  | [Advisory-EGI-SVG-2025-16](./2025/Advisory-EGI-SVG-2025-16.md)        | CVE-2025-38352 |
 | 2025-09-03 Updated 2025-10-08 | HIGH Risk PAM namespace vulnerabilities   [EGI-SVG-2025-15]     | [Advisory-EGI-SVG-2025-15](./2025/Advisory-EGI-SVG-2025-15.md)        | CVE-2025-6020, CVE-2025-8941 |
