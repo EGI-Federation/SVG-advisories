@@ -49,7 +49,7 @@ There is no mitigation.
 ## MORE INFORMATION
 
 Note that this is fixed in the same release as a previous 'MODERATE'  
-risk vulnerability.  So sites who have acted on EGI-SVG-2025-18 should 
+risk vulnerability.  So sites who have acted on EGI-SVG-2025-18 should  
 already not be vulnerabile. 
     
     
@@ -70,7 +70,7 @@ Minor updates may be made without re-distribution to the sites.
     https://creativecommons.org/licenses/by/4.0/ and
     the EGI (https://www.egi.eu/) Software Vulnerability Group 
     must be credited.
---
+---
     
 Comments or questions should be sent to
 	svg-rat at mailman.egi.eu
