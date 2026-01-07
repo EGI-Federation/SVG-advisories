@@ -4,8 +4,9 @@ permalink: /Advisory-EGI-SVG-2025-23
   
 ---
 
-**Advisory EGI-SVG-2025-23 is not public yet**
+**Advisory EGI-SVG-2025-23 **
 
-When it is it will be here.
+We changed our minds -
+and decided not to act on the report that was allocated this ID.
 
-You are looking in the right place
+
