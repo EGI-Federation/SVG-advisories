@@ -11,9 +11,7 @@ including crediting the [EGI](https://www.egi.eu/) SVG.
 A guide to the risk categories is available at
 [Notes On Risk](https://confluence.egi.eu/display/EGIBG/Notes+on+Risk).
 
-SVG also provides information that may be useful to various sites concerning the
-various
-[SVG Speculative execution vulnerabilities](./2017/Speculative_Execution_Vulnerabilities.md).
+
 
 ## Current advisories
 
