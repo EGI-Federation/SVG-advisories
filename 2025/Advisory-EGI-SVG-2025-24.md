@@ -1,11 +1,10 @@
 ---
 title: Advisory-EGI-SVG-2025-24
 permalink: /Advisory-EGI-SVG-2025-24
-redirect_from:
-  - /Advisory-SVG-CVE-2025-65073
   
-------
-
+redirect_from:
+  - /Advisory-SVG-CVE-2025-65073 
+---
 ## Advisory-EGI-SVG-2025-24
 
 # CRITICAL risk OpenStack Vulnerability
