@@ -34,7 +34,7 @@ A guide to the risk categories is available at
 | 2025-03-06 Updated 2025-04-09 | CRITICAL risk VMware Vulnerabilities VMSA-2025-0004 [EGI-SVG-2025-03] | [Advisory-EGI-SVG-2025-03](./Advisory-EGI-SVG-2025-03.md) | CVE-2025-22224 + more |
 | 2025-02-26 Updated 2025-03-26 | CRITICAL risk Vulnerabilities in nvidia-container-toolkit, nvidia-gpu-operator [EGI-SVG-2025-02] | [Advisory-EGI-SVG-2025-02](./Advisory-EGI-SVG-2025-02.md) | CVE-2024-0135 + more |
 | 2025-01-16 Updated 2025-03-20 | Up to CRITICAL Vulnerabilities in rsync [EGI-SVG-2025-01]       |  [Advisory-EGI-SVG-2025-01](./Advisory-EGI-SVG-2025-01.md)       | CVE-2024-12084 + more  | 
-| 2024-12-12 Updated 2025-01-29 | HIGH risk PAM host name spoofing vulnerability [EGI-SVG-2024-28] |  [Advisory-EGI-SVG-2024-28](./2024/Advisory-EGI-SVG-2024-28.md)      | CVE-2024-10963         | 
-| 2024-12-04 Updated 2025-01-29 | HIGH risk SinkClose flaw in AMD EPYC processors [EGI-SVG-2024-18] | [Advisory-EGI-SVG-2024-18](./2024/Advisory-EGI-SVG-2024-18.md)      | CVE-2023-31315         |             
-| 2024-04-17 Updated 2024-12-10, 2025-01-28 | HIGH risk Intel Native Branch History Vulnerability  [EGI-SVG-2024-09] | [Advisory-EGI-SVG-2024-09](./2024/Advisory-EGI-SVG-2024-09.md)  |  CVE-2024-2201 |
-| 2024-11-19 Updated 2025-01-28 | CRITICAL risk Icinga 2 Security releases   [EGI-SVG-2024-27]    | [Advisory-EGI-SVG-2024-27](./2024/Advisory-EGI-SVG-2024-27.md)             | CVE-2024-49369         |       
+| 2024-12-12 Updated 2025-01-29 | HIGH risk PAM host name spoofing vulnerability [EGI-SVG-2024-28] |  [Advisory-EGI-SVG-2024-28](../2024/Advisory-EGI-SVG-2024-28.md)      | CVE-2024-10963         | 
+| 2024-12-04 Updated 2025-01-29 | HIGH risk SinkClose flaw in AMD EPYC processors [EGI-SVG-2024-18] | [Advisory-EGI-SVG-2024-18](../2024/Advisory-EGI-SVG-2024-18.md)      | CVE-2023-31315         |             
+| 2024-04-17 Updated 2024-12-10, 2025-01-28 | HIGH risk Intel Native Branch History Vulnerability  [EGI-SVG-2024-09] | [Advisory-EGI-SVG-2024-09](../2024/Advisory-EGI-SVG-2024-09.md)  |  CVE-2024-2201 |
+| 2024-11-19 Updated 2025-01-28 | CRITICAL risk Icinga 2 Security releases   [EGI-SVG-2024-27]    | [Advisory-EGI-SVG-2024-27](../2024/Advisory-EGI-SVG-2024-27.md)             | CVE-2024-49369         |       
