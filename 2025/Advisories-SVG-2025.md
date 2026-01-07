@@ -12,8 +12,9 @@ A guide to the risk categories is available at
 
 | Date                          | Title                                                           | Contents/Link                                                         | CVE(s) (if applicable) |
 | ------------------------------| --------------------------------------------------------------- | --------------------------------------------------------------------- | --------------         |
+| 2025-11-25 Updated 2025-01-07 | CRITICAL Risk OpenStack Vulnerability [EGI-SVG-2025-24]         | [Advisory-EGI-SVG-2025-24](./2025/Advisory-EGI-SVG-2025-24.md)        | CVE-2025-65073         |
 | 2025-10-22 Updated 2025-12-03 | HIGH Risk INDIGO IAM vulnerabilities  [EGI-SVG-2025-19]         | [Advisory-EGI-SVG-2025-19](./2025/Advisory-EGI-SVG-2025-19.md)        |                        |
-| 2025-10-16 Updated 2025-12-03 | CRITICAL Risk  NVIDIA use-after-free vulnerabilities [EGI-SVG-2025-22] | [Advisory-EGI-SVG-2025-22](./2025/Advisory-EGI-SVG-2025-22.md) | CVE-2025-23280 CVE-2025-23330 |
+| 2025-10-16 Updated 2025-12-03 | CRITICAL Risk  NVIDIA use-after-free vulnerabilities [EGI-SVG-2025-22] | [Advisory-EGI-SVG-2025-22](./2025/Advisory-EGI-SVG-2025-22.md) | CVE-2025-23280, CVE-2025-23330 |
 | 2025-10-09 Updated 2025-12-03 | CRITICAL Risk  Redis vulnerability [EGI-SVG-2025-21]            | [Advisory-EGI-SVG-2025-21](./2025/Advisory-EGI-SVG-2025-21.md)        | CVE-2025-49844         |
 | 2025-10-01 Updated 2025-12-03 | CRITICAL Risk FreeIPA host to domain privilege escalation [EGI-SVG-2025-20]  | [Advisory-EGI-SVG-2025-20](./2025/Advisory-EGI-SVG-2025-20.md)  | CVE-2025-7493 |
 | 2025-09-11 Updated 2025-09-18, 2025-10-30  | HIGH Risk Linux Kernel Vulnerability   [EGI-SVG-2025-16]  | [Advisory-EGI-SVG-2025-16](./2025/Advisory-EGI-SVG-2025-16.md)        | CVE-2025-38352 |
