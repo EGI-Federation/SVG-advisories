@@ -11,7 +11,7 @@ redirect_from:
 # CRITICAL risk OpenStack Vulnerability
 
 Date:        2025-11-25
-Updated:    
+Updated:     2026-01-07
 
 CRITICAL risk vulnerability concerning OpenStack where Unauthenticated 
 access to EC2/S3 token endpoints can grant Keystone authorization [R 1]
