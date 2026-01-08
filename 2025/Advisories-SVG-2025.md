@@ -12,7 +12,7 @@ A guide to the risk categories is available at
 
 | Date                          | Title                                                           | Contents/Link                                                         | CVE(s) (if applicable) |
 | ------------------------------| --------------------------------------------------------------- | --------------------------------------------------------------------- | --------------         |
-| 2025-09-17 Updated 2025-11-25, 2026-01-08 | CRITICAL Risk VMSCAPE virtualization escape vulnerability [EGI-SVG-2025-17]  | [Advisory-EGI-SVG-2025-17](./2025/Advisory-EGI-SVG-2025-17.md)        | CVE-2025-40300  |
+| 2025-09-17 Updated 2025-11-25, 2026-01-08 | CRITICAL Risk VMSCAPE virtualization escape vulnerability [EGI-SVG-2025-17]  | [Advisory-EGI-SVG-2025-17](./Advisory-EGI-SVG-2025-17.md)        | CVE-2025-40300  |
 | 2025-11-25 Updated 2026-01-07 | CRITICAL Risk OpenStack Vulnerability [EGI-SVG-2025-24]         | [Advisory-EGI-SVG-2025-24](./Advisory-EGI-SVG-2025-24.md)        | CVE-2025-65073         |
 | 2025-10-22 Updated 2025-12-03 | HIGH Risk INDIGO IAM vulnerabilities  [EGI-SVG-2025-19]         | [Advisory-EGI-SVG-2025-19](./Advisory-EGI-SVG-2025-19.md)        |                        |
 | 2025-10-16 Updated 2025-12-03 | CRITICAL Risk  NVIDIA use-after-free vulnerabilities [EGI-SVG-2025-22] | [Advisory-EGI-SVG-2025-22](./Advisory-EGI-SVG-2025-22.md) | CVE-2025-23280, CVE-2025-23330 |
