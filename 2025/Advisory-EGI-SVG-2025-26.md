@@ -9,9 +9,8 @@ redirect_from:
 
 # CRITICAL risk React Server Components Vulnerability 
 
-Date:        2025-12-10 
+Date:        2025-12-10  
 Updated:     2026-01-13
-
 
 CRITICAL risk vulnerability concerning React Server Components 
 allowing unauthenticated remote code execution.  
@@ -30,10 +29,10 @@ See [R 2]
     
 ## ACTIONS REQUIRED/RECOMMENDED
 
-Sites running web services depending on React Server Components 
-should check [R 2] and have any vulnerable version updated urgently.
+Sites running web services depending on React Server Components  
+should check [R 2] and have any vulnerable version updated urgently. 
  
-If anyone becomes aware of any situation where this vulnerability is
+If anyone becomes aware of any situation where this vulnerability is 
 exposed in the EGI infrastructure, then please inform EGI SVG. 
     
 
@@ -43,19 +42,19 @@ An unauthenticated remote attacker could:
 
 - Execute arbitrary code on the server
 
-- Access or manipulate data processed by server-side React functions 
+- Access or manipulate data processed by server-side React functions  
 
 - Compromise the hosting environment 
 
 - Potentially pivot deeper into infrastructure
  
-Because this vulnerability requires no authentication and may be 
+Because this vulnerability requires no authentication and may be  
 reachable through public endpoints, it is considered Critical.
 
-The EGI SVG is currently not aware of potentially affected services 
+The EGI SVG is currently not aware of potentially affected services  
 providing functionality to the EGI ecosystem.
 
-If EGI SVG becomes aware of any relevant exposure, we will send an 
+If EGI SVG becomes aware of any relevant exposure, we will send an  
 update to this alert and require affected sites to patch within 7 days.
     
     
@@ -77,7 +76,7 @@ Minor updates may be made without re-distribution to the sites.
     https://creativecommons.org/licenses/by/4.0/ and
     the EGI (https://www.egi.eu/) Software Vulnerability Group 
     must be credited.
------------------------------
+---
     
 Comments or questions should be sent to
 	svg-rat at mailman.egi.eu
