@@ -3,8 +3,7 @@ title: Advisory-EGI-SVG-2026-01
 permalink: /Advisory-EGI-SVG-2026-01
 redirect_from:
   - /Advisory-SVG-CVE-2025-38499
-  
-published: false
+
   
 ---
 ## Advisory-EGI-SVG-2026-01
@@ -13,7 +12,6 @@ published: false
 
 Date:        2026-01-06
 Updated:     2026-02-11
-
 
 HIGH risk vulnerability affecting RHEL-9, RHEL-10, derivatives
 and other distributions, concerning clone_private_mnt(). [R 1]
