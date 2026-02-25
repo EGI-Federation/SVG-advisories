@@ -17,7 +17,7 @@ A guide to the risk categories is available at
 
 | Date                          | Title                                                           | Contents/Link                                                         | CVE(s) (if applicable) |
 | ------------------------------| --------------------------------------------------------------- | --------------------------------------------------------------------- | --------------         |
-| 2026-01-21 Updated 2026-02-25 | HIGH Risk Ceph client Vulnerability in Linux kernel [EGI-SVG-2026-02]    | [Advisory-EGI-SVG-2026-02](./2026/Advisory-EGI-SVG-2026-02.md)   | CVE-2026-68285  |
+| 2026-01-21 Updated 2026-02-25 | HIGH Risk Ceph client Vulnerability in Linux kernel [EGI-SVG-2026-02]    | [Advisory-EGI-SVG-2026-02](./2026/Advisory-EGI-SVG-2026-02.md)   | CVE-2025-68285  |
 | 2026-01-07 Updated 2026-02-11 | HIGH Risk Linux Kernel vulnerability on RHEL-9/10 etc [EGI-SVG-2026-01]  | [Advisory-EGI-SVG-2026-01](./2026/Advisory-EGI-SVG-2026-01.md)   | CVE-2025-38499  |
 | 2025-12-02 Updated 2026-01-13 | CRITICAL Risk React Server Components Vulnerability [EGI-SVG-2025-26]  | [Advisory-EGI-SVG-2025-26](./2025/Advisory-EGI-SVG-2025-26.md)      | CVE-2025-55182         |
 | 2025-12-03 Updated 2026-01-13 | HTCondor Vulnerability [EGI-SVG-2025-25]                        | [Advisory-EGI-SVG-2025-25](./2025/Advisory-EGI-SVG-2025-25.md)      |        |
