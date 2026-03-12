@@ -10,8 +10,8 @@ redirect_from:
 
 # HIGH risk Linux Kernel vulnerabilities
 
-Date:        2026-02-05
-Updated:     
+Date:        2026-02-05  
+Updated:     2026-03-12
 
 HIGH risk kernel vulnerability concerning RHEL8, 9 and 10 and derivatives.
 
