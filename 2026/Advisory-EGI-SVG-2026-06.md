@@ -4,8 +4,8 @@ permalink: /Advisory-EGI-SVG-2026-06
   
 ---
 
-**Advisory EGI-SVG-2026-06 is not public yet**
+** EGI-SVG-2026-06 was allocated but we decided not to send anything**
 
-When it is it will be here.
+Probably there won't be an EGI-SVG-2026-06
 
-You are looking in the right place
+
