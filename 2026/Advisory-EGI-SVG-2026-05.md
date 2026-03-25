@@ -14,7 +14,7 @@ redirect_from:
 Date:        2026-02-17
 Updated:     2026-03-25
 
-CRITICAL risk vulnerability concerning RUCIO WebUI container images 
+CRITICAL risk vulnerability concerning RUCIO WebUI container images  
 due to the downstream dependencies on React and Next.js. 
 
 ## IDs AND CVSS SCORE      
@@ -35,18 +35,18 @@ This is fixed in version 38.3.0 and later.
 Sites running RUCIO services are required to urgently update
 to Rucio WebUI 38.3.0 or higher [R 3]
 
-All running resources MUST be either patched or have mitigation
+All running resources MUST be either patched or have mitigation 
 in place or software removed by 2026-02-23  00:00 UTC 
 
-Sites failing to act and/or failing to respond to requests from 
+Sites failing to act and/or failing to respond to requests from  
 the EGI CSIRT team risk site suspension. 
    
 
 ## MORE INFORMATION
 
-This critical vulnerability affecting Rucio WebUI 38.2.0 and 38.2.1
-container images is due to the downstream dependencies on React and 
-Next.js which are impacted by CVE-2025-55182, commonly referred to 
+This critical vulnerability affecting Rucio WebUI 38.2.0 and 38.2.1 
+container images is due to the downstream dependencies on React and  
+Next.js which are impacted by CVE-2025-55182, commonly referred to  
 as "React2Shell" [R 4].
 
 Sites running Rucio services may have already been informed of this.
