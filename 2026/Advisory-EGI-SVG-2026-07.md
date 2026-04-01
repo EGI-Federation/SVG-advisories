@@ -11,6 +11,10 @@ redirect_from:
 
 # HIGH risk OpenStack Nova vulnerability
 
+Date:        2026-02-25  
+Updated:     2026-04-01
+
+
 HIGH risk vulnerability concerning OpenStack Nova image conversion which 
 is likely to affect cloud sites [R 1]
 
