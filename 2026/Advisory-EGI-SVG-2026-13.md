@@ -2,7 +2,6 @@
 title: Advisory-EGI-SVG-2026-13
 permalink: /Advisory-EGI-SVG-2026-13
   
-published: false
 ---
 
 **Advisory EGI-SVG-2026-13 is not public yet**
