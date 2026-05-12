@@ -17,6 +17,7 @@ A guide to the risk categories is available at
 
 | Date                          | Title                                                           | Contents/Link                                                         | CVE(s) (if applicable) |
 | ------------------------------| --------------------------------------------------------------- | --------------------------------------------------------------------- | --------------         |
+| 2026-03-31 Updated 2026-05-12 | CRITICAL risk Trivy supply chain vulnerability  [EGI-SVG-2026-09]  | [Advisory-EGI-SVG-2026-09](./2026/Advisory-EGI-SVG-2026-09.md)     | CVE-2026-33634  |
 | 2026-03-11 Updated 2026-05-12 | HIGH risk ingress-nginx vulnerability  [EGI-SVG-2026-08]        | [Advisory-EGI-SVG-2026-08](./2026/Advisory-EGI-SVG-2026-08.md)   | CVE-2026-3288  |
 | 2026-02-12 Updated 2026-03-24, 2026-05-12 | CRITICAL risk MUNGE buffer overflow vulnerability [EGI-SVG-2026-04]   | [Advisory-EGI-SVG-2026-04](./2026/Advisory-EGI-SVG-2026-04.md)   | CVE-2026-25506  |
 | 2026-02-25 Updated 2026-04-01 | HIGH risk OpenStack Nova vulnerability [EGI-SVG-2026-07]        | [Advisory-EGI-SVG-2026-07](./2026/Advisory-EGI-SVG-2026-07.md)   | CVE-2026-24708  |
