@@ -17,6 +17,7 @@ A guide to the risk categories is available at
 
 | Date                          | Title                                                           | Contents/Link                                                         | CVE(s) (if applicable) |
 | ------------------------------| --------------------------------------------------------------- | --------------------------------------------------------------------- | --------------         |
+| 2026-02-12 Updated 2026-03-24, 2026-05-12 | CRITICAL risk MUNGE buffer overflow vulnerability [EGI-SVG-2026-04]   | [Advisory-EGI-SVG-2026-04](./2026/Advisory-EGI-SVG-2026-04.md)   | CVE-2026-25506  |
 | 2026-02-25 Updated 2026-04-01 | HIGH risk OpenStack Nova vulnerability [EGI-SVG-2026-07]        | [Advisory-EGI-SVG-2026-07](./2026/Advisory-EGI-SVG-2026-07.md)   | CVE-2026-24708  |
 | 2026-02-17 Updated 2026-03-25 | CRITICAL risk RUCIO vulnerability [EGI-SVG-2026-05]             | [Advisory-EGI-SVG-2026-05](./2026/Advisory-EGI-SVG-2026-05.md)   | CVE-2025-55182  |
 | 2026-02-05 Updated 2026-03-12 | HIGH Risk Linux kernel Vulnerabilities [EGI-SVG-2026-03]        | [Advisory-EGI-SVG-2026-03](./2026/Advisory-EGI-SVG-2026-03.md)   | CVE-2025-40248  |
