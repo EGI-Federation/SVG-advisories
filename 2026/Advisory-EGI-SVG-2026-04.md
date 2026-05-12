@@ -7,7 +7,7 @@ redirect_from:
 
 ## Advisory-EGI-SVG-2026-04
 
-# CRITICAL Risk Munge MUNGE buffer overflow vulnerability
+# CRITICAL Risk MUNGE buffer overflow vulnerability
 
 Date:        2026-02-12
 Updated:     2026-03-24, 2026-05-12
