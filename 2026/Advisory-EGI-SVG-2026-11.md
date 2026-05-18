@@ -2,6 +2,8 @@
 title: Advisory-EGI-SVG-2026-11
 permalink: /Advisory-EGI-SVG-2026-11
 
+redirect_from:
+  - /Advisory-SVG-CVE-2026-41651
 ---
 
 **Advisory EGI-SVG-2026-11 is not public yet**
