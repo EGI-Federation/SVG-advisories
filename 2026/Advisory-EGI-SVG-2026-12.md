@@ -12,12 +12,12 @@ redirect_from:
 Date:       2026-04-30
 Updated:    2026-05-04
 
-- AlmaLinux kernel package updates are available since May 1. 
-- Red Hat have published further mitigation options at [R9].
+- AlmaLinux kernel package updates are available since May 1.  
+- Red Hat have published further mitigation options at [R9]. 
 
 Updated:    2026-05-06
-- Red Hat kernel package updates are available since May 5. 
-- Rocky Linux kernel package updates are available since May 6. 
+- Red Hat kernel package updates are available since May 5.  
+- Rocky Linux kernel package updates are available since May 6.  
 
 **NOTE:**
 
@@ -29,8 +29,8 @@ risk site suspension.
 
 ## DESCRIPTION
 
-CRITICAL risk vulnerability concerning the Linux kernel with very 
-easy public exploit leading to local privilege escalation to root. 
+CRITICAL risk vulnerability concerning the Linux kernel with very  
+easy public exploit leading to local privilege escalation to root.  
 It is extensively described at [R 1].
 
 
@@ -48,14 +48,14 @@ CVSSv3.x Score:
 ## ACTIONS REQUIRED/RECOMMENDED
 
 Urgent action is required on hosts giving access to unprivileged users, 
-e.g. grid worker nodes, but also container hosts, notebook servers and 
+e.g. grid worker nodes, but also container hosts, notebook servers and  
 CI runners.
 
-At this time, patched kernels look available for all relevant distributions. 
-Please check the references listed at the bottom of this advisory for your 
+At this time, patched kernels look available for all relevant distributions.  
+Please check the references listed at the bottom of this advisory for your  
 distribution(s).
 
-There are several mitigation options, some of which are documented here 
+There are several mitigation options, some of which are documented here  
 and/or in references listed below.  In particular, this strategy has been 
 found to work on RHEL and derivatives: 
 
