@@ -14,9 +14,9 @@ Date:       2026-05-05
 Updated:    2025-06-11
 
 
-CRITICAL risk vulnerability concerning PackageKit which may lead to 
-privilege escalation. The vulnerability allows an unprivileged local
-attacker to obtain root access on an affected host. [R 1]
+CRITICAL risk vulnerability concerning PackageKit which may lead to  
+privilege escalation. The vulnerability allows an unprivileged local 
+attacker to obtain root access on an affected host. [R 1] 
 
 
 ## IDs AND CVSS SCORE      
@@ -30,22 +30,22 @@ CVSS Score : 8.8 [R 1]
 
 ## ACTIONS REQUIRED/RECOMMENDED
 
-Sites running PackageKit on hosts giving access to unprivileged users,
+Sites running PackageKit on hosts giving access to unprivileged users, 
 e.g. grid worker nodes, must take urgent action.
 
-If anyone becomes aware of any situation where this vulnerability has a
+If anyone becomes aware of any situation where this vulnerability has a 
 significant impact on the EGI infrastructure, then please inform EGI SVG.
 
 
 ## MORE INFORMATION
 
-A host may be vulnerable only if it makes use of the PackageKit daemon.
+A host may be vulnerable only if it makes use of the PackageKit daemon. 
 Check with these commands:
 
-systemctl status packagekit
+systemctl status packagekit 
 systemctl status pkmon
 
-It is not unusual for some of the PackageKit tools and libraries to be
+It is not unusual for some of the PackageKit tools and libraries to be 
 installed on a host without actually being used.
 
     
