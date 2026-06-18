@@ -17,7 +17,8 @@ A guide to the risk categories is available at
 
 | Date                          | Title                                                           | Contents/Link                                                         | CVE(s) (if applicable) |
 | ------------------------------| --------------------------------------------------------------- | --------------------------------------------------------------------- | --------------         |
-| 2026-05-07 Updated 2026-06-11 |  [EGI-SVG-2026-13] CRITICAL risk Rucio Vulnerabilities          | [Advisory-EGI-SVG-2026-13](./2026/Advisory-EGI-SVG-2026-13.md)        | CVE-2026-29080, CVE-2026-29080      |
+| 2026-05-08 Updated 2026-05-11, 2026-05-13, 2026-06-17 |  [EGI-SVG-2026-14] CRITICAL risk Linux vulnerabilities   | [Advisory-EGI-SVG-2026-14](./2026/Advisory-EGI-SVG-2026-14.md) | CVE-2026-43284   |
+| 2026-05-07 Updated 2026-06-11 |  [EGI-SVG-2026-13] CRITICAL risk Rucio Vulnerabilities          | [Advisory-EGI-SVG-2026-13](./2026/Advisory-EGI-SVG-2026-13.md)        | CVE-2026-29080, CVE-2026-29090      |
 | 2026-05-05 Updated 2026-06-11 |  [EGI-SVG-2026-12] CRITICAL risk Linux kernel vulnerability     | [Advisory-EGI-SVG-2026-12](./2026/Advisory-EGI-SVG-2026-12.md)        | CVE-2026-31431         |
 | 2026-05-05 Updated 2026-06-11 |  [EGI-SVG-2026-11] CRITICAL risk PackageKit vulnerability       | [Advisory-EGI-SVG-2026-11](./2026/Advisory-EGI-SVG-2026-11.md)        | CVE-2026-41651         |
 | 2026-04-15 Updated 2026-05-28 | HIGH risk GPUBreach vulnerability  [EGI-SVG-2026-10]            | [Advisory-EGI-SVG-2026-10](./2026/Advisory-EGI-SVG-2026-10.md)        |  |
