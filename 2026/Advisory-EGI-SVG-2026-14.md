@@ -92,7 +92,6 @@ in some of our deployment scenarios, the "Scope" parameter needs
 to have "Changed" as value, which causes the EGI SVG score to have 
 a significantly higher, more appropriate value. 
 
-This vulnerability is also known as Copy.fail2
 
 ## STATUS OF THIS ADVISORY
 
