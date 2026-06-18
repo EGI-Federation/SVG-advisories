@@ -30,10 +30,10 @@ Updated:    2026-05-13
 
 **NOTE:**
 
-All running resources MUST be either patched or have mitigation 
+All running resources MUST be either patched or have mitigation  
 in place or affected services disabled by 2026-05-16, 00:00 UTC. 
 
-Sites failing to act or respond to requests from the EGI CSIRT team 
+Sites failing to act or respond to requests from the EGI CSIRT team  
 risk site suspension.
 
 ## DESCRIPTION
