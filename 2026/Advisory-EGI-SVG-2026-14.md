@@ -25,22 +25,22 @@ Updated:    2026-05-11
 
 Updated:    2026-05-13
 
-- RHEL kernel updates only for CVE-2026-43284 are available since May 12
+- RHEL kernel updates only for CVE-2026-43284 are available since May 12  
   - NOTE: mitigation against CVE-2026-43500 (Copy Fail 2 / RxRPC) remains needed!
 
 **NOTE:**
 
-All running resources MUST be either patched or have mitigation
-in place or affected services disabled by 2026-05-16, 00:00 UTC.
+All running resources MUST be either patched or have mitigation 
+in place or affected services disabled by 2026-05-16, 00:00 UTC. 
 
-Sites failing to act or respond to requests from the EGI CSIRT team
+Sites failing to act or respond to requests from the EGI CSIRT team 
 risk site suspension.
 
 ## DESCRIPTION
 
-CRITICAL risk vulnerability concerning the Linux kernel with another
-very easy public exploit leading to local privilege escalation to root.
-It is extensively described at [R 1] [R 2] [R 3] [R 9].
+CRITICAL risk vulnerability concerning the Linux kernel with another 
+very easy public exploit leading to local privilege escalation to root. 
+It is extensively described at [R 1] [R 2] [R 3] [R 9]. 
 
 
 ## IDs AND CVSS SCORE      
