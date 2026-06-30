@@ -17,6 +17,7 @@ A guide to the risk categories is available at
 
 | Date                          | Title                                                           | Contents/Link                                                         | CVE(s) (if applicable) |
 | ------------------------------| --------------------------------------------------------------- | --------------------------------------------------------------------- | --------------         |
+| 2026-05-20 Updated 2026-06-30 |  [EGI-SVG-2026-19] HIGH Risk Nvidia driver vulnerabilities      | [Advisory-EGI-SVG-2026-19](./2026/Advisory-EGI-SVG-2026-19.md)        | CVE-2026-24187         |
 | 2026-05-15 Updated 2026-05-18, 2026-05-21 2026-05-29, 2026-06-30 |  [EGI-SVG-2026-17] CRITICAL Risk Linux vulnerability    | [Advisory-EGI-SVG-2026-17](./2026/Advisory-EGI-SVG-2026-17.md)      | CVE-2026-46333  |
 | 2026-05-14 Updated 2026-05-21, 2026-06-30 |  [EGI-SVG-2026-16] HIGH Risk nginx vulnerability    | [Advisory-EGI-SVG-2026-16](./2026/Advisory-EGI-SVG-2026-16.md)         | CVE-2026-42945   |
 | 2026-05-13 Updated 2026-05-18, 2026-05-21, 2026-06-30 |  [EGI-SVG-2026-15] CRITICAL risk Linux vulnerabilities   | [Advisory-EGI-SVG-2026-15](./2026/Advisory-EGI-SVG-2026-15.md) | CVE-2026-46300   |
