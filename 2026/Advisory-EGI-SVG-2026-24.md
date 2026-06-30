@@ -5,8 +5,6 @@ permalink: /Advisory-EGI-SVG-2026-24
 
 ---
 
-**Advisory EGI-SVG-2026-24 is not public yet**
+**Advisory EGI-SVG-2026-24 was allocated**
 
-When it is it will be here.
-
-You are looking in the right place
+But then the software was considered out of scope so no advisory will appear.
