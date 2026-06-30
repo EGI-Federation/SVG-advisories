@@ -13,14 +13,14 @@ redirect_from:
 Date:       2026-05-14
 
 Updated:    2026-05-21  
-- Fixes for RHEL 8, 9 and 10 available since May 18-20
-- Fixes for Rocky Linux 8, 9 and 10 available since May 18-21
+- Fixes for RHEL 8, 9 and 10 available since May 18-20  
+- Fixes for Rocky Linux 8, 9 and 10 available since May 18-21  
 
 
 ## DESCRIPTION
 
 HIGH risk vulnerability concerning "nginx" module "ngx_http_rewrite_module"  
-used by many webservices.  It is extensively described at [R 1] [R 2].
+used by many webservices.  It is extensively described at [R 1] [R 2]. 
 
 
 ## IDs AND CVSS SCORE      
@@ -39,18 +39,18 @@ CVSSv3 Score:
 Sites are strongly recommended to patch their nginx instances  
 as soon as possible.  At the time of writing, patches are only  
 available for very few distributions.  AlmaLinux has patches.  
-Please consult the references listed below for your distribution(s). 
+Please consult the references listed below for your distribution(s).  
 For mitigation options, see [R 1] under: 
 
-    "Temporary mitigation: rewrite your rewrites"
+    "Temporary mitigation: rewrite your rewrites" 
 
 
 ## MORE INFORMATION
 
-Compared to the CVSS critical risk assessment detailed in [R 2],
-EGI SVG judges the risk to be high, because of the complexity of  
-pulling off an actual exploit instead of a DoS (see [R 1]). 
-However, if an actual exploit gets published, the risk will become critical. 
+Compared to the CVSS critical risk assessment detailed in [R 2],  
+EGI SVG judges the risk to be high, because of the complexity of   
+pulling off an actual exploit instead of a DoS (see [R 1]).  
+However, if an actual exploit gets published, the risk will become critical.  
 Therefore, please patch your instances as soon as possible! 
 
 
