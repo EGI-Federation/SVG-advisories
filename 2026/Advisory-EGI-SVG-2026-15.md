@@ -64,7 +64,7 @@ systems as soon as feasible.
 
 Please apply these mitigation commands on affected hosts in the meantime:
 
-
+```
 modprobe -r esp4 esp6 rxrpc
 cat >/etc/modprobe.d/mitigation-dirtyfrag.conf <<'EOF'
 install esp4 /bin/false
@@ -75,7 +75,7 @@ blacklist esp6
 blacklist rxrpc
 EOF
 echo 3 > /proc/sys/vm/drop_caches
-
+```
 
 They are sufficient to prevent the published exploits and
 are not expected to affect vital functionality.
