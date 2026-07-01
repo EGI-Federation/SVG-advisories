@@ -17,6 +17,7 @@ A guide to the risk categories is available at
 
 | Date                          | Title                                                           | Contents/Link                                                         | CVE(s) (if applicable) |
 | ------------------------------| --------------------------------------------------------------- | --------------------------------------------------------------------- | --------------         |
+| 2026-05-26 Updated 2026-07-01 |  [EGI-SVG-2026-22] HIGH risk OpenStack Keystone authorization bypass vulnerabilities | [Advisory-EGI-SVG-2026-22](./2026/Advisory-EGI-SVG-2026-22.md)  | CVE-2026-43001 + others |
 | 2026-05-21 Updated 2026-06-30 |  [EGI-SVG-2026-20] CRITICAL Risk Openreach Malware              | [Advisory-EGI-SVG-2026-20](./2026/Advisory-EGI-SVG-2026-20.md)        |          |
 | 2026-05-20 Updated 2026-06-30 |  [EGI-SVG-2026-19] HIGH Risk Nvidia driver vulnerabilities      | [Advisory-EGI-SVG-2026-19](./2026/Advisory-EGI-SVG-2026-19.md)        | CVE-2026-24187         |
 | 2026-05-15 Updated 2026-05-18, 2026-05-21 2026-05-29, 2026-06-30 |  [EGI-SVG-2026-17] CRITICAL Risk Linux vulnerability    | [Advisory-EGI-SVG-2026-17](./2026/Advisory-EGI-SVG-2026-17.md)      | CVE-2026-46333  |
