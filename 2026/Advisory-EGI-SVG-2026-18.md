@@ -4,8 +4,8 @@ permalink: /Advisory-EGI-SVG-2026-18
 
 ---
 
-**Advisory EGI-SVG-2026-18 is not public yet**
+**Advisory EGI-SVG-2026-18 wasn't sent**
 
-When it is it will be here.
+after allocation of the ID it was decided 'no action'
 
-You are looking in the right place
+
