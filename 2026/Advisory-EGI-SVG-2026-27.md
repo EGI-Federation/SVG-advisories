@@ -14,16 +14,16 @@ Date:       2026-06-26
 
 **NOTE:**
 
-All running resources MUST be either patched or have mitigation
-in place or affected services disabled by 2026-07-04, 00:00 UTC.
+All running resources MUST be either patched or have mitigation 
+in place or affected services disabled by 2026-07-04, 00:00 UTC. 
 
-Sites failing to act or respond to requests from the EGI CSIRT team
+Sites failing to act or respond to requests from the EGI CSIRT team 
 risk site suspension. [R 98]
 
 
 ## DESCRIPTION
 
-CRITICAL risk Linux kernel vulnerability "DirtyClone"
+CRITICAL risk Linux kernel vulnerability "DirtyClone" 
 allowing local privilege escalation to root [R 1].
 
 
@@ -40,16 +40,16 @@ CVSSv3 Score:
 
 ## ACTIONS REQUIRED/RECOMMENDED
 
-Urgent action is required on hosts giving access to unprivileged users,
-e.g. grid worker nodes, but also container hosts, notebook servers and
+Urgent action is required on hosts giving access to unprivileged users, 
+e.g. grid worker nodes, but also container hosts, notebook servers and 
 CI runners.
 
-At the time of writing, fixed kernels are only available for some of the
-relevant distributions. Please check the references listed at the bottom
-of this advisory for your distribution(s), update and reboot affected
+At the time of writing, fixed kernels are only available for some of the 
+relevant distributions. Please check the references listed at the bottom 
+of this advisory for your distribution(s), update and reboot affected 
 systems as soon as feasible.
 
-Please apply these mitigation commands on affected hosts in the meantime:
+Please apply these mitigation commands on affected hosts in the meantime: 
 
 ```
 modprobe -r esp4 esp6 rxrpc
@@ -64,18 +64,18 @@ EOF
 echo 3 > /proc/sys/vm/drop_caches
 ```
 
-They are sufficient to prevent potential exploits and
+They are sufficient to prevent potential exploits and 
 are not expected to affect vital functionality.
 
 A reboot is not needed just to apply those mitigations.
 
-If such a module is reported as being in use:
-- if the usage is legitimate, other mitigation would have to be found,
-  e.g. making the service unavailable to unprivileged users or
-  disabling unprivileged namespaces (see below);
-- if the usage is not legitimate, the service may be compromised,
+If such a module is reported as being in use: 
+- if the usage is legitimate, other mitigation would have to be found, 
+  e.g. making the service unavailable to unprivileged users or 
+  disabling unprivileged namespaces (see below); 
+- if the usage is not legitimate, the service may be compromised, 
   which would then need to be handled as a security incident.
-  
+   
 Alternatively, unprivileged **network** namespaces can be disabled:
 please see [R 7] for details.
 
