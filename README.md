@@ -17,6 +17,8 @@ A guide to the risk categories is available at
 
 | Date                          | Title                                                           | Contents/Link                                                         | CVE(s) (if applicable) |
 | ------------------------------| --------------------------------------------------------------- | --------------------------------------------------------------------- | --------------         |
+| 2026-06-10 Updated 2026-07-30 |  [EGI-SVG-2026-27] CRITICAL risk Linux kernel DirtyClone vulnerability | [Advisory-EGI-SVG-2026-27](./2026/Advisory-EGI-SVG-2026-27.md)  | CVE-2026-43503 |
+| 2026-06-23 Updated 2026-06-26, 2026-07-30 |  [EGI-SVG-2026-25] CRITICAL risk Kernel traffic control vulnerability  | [Advisory-EGI-SVG-2026-25](./2026/Advisory-EGI-SVG-2026-25.md)  | CVE-2026-46331 |
 | 2026-06-10 Updated 2026-07-21 |  [EGI-SVG-2026-23] CRITICAL risk Linux vulnerability via nf_tables     | [Advisory-EGI-SVG-2026-23](./2026/Advisory-EGI-SVG-2026-23.md)  | CVE-2026-23111 |
 | 2026-05-28 Updated (multiple) |  [EGI-SVG-2026-21] CRITICAL risk - local privilege escalation via cifs | [Advisory-EGI-SVG-2026-21](./2026/Advisory-EGI-SVG-2026-21.md)  | CVE-2026-46253 |
 | 2026-05-26 Updated 2026-07-01 |  [EGI-SVG-2026-22] HIGH risk OpenStack Keystone authorization bypass vulnerabilities | [Advisory-EGI-SVG-2026-22](./2026/Advisory-EGI-SVG-2026-22.md)  | CVE-2026-43001 + others |
