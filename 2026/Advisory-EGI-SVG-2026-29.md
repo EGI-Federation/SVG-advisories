@@ -68,21 +68,21 @@ https://advisories.egi.eu/Advisory-SVG-CVE-2026-46242
     https://creativecommons.org/licenses/by/4.0/ and
     the EGI (https://www.egi.eu/) Software Vulnerability Group 
     must be credited.
-----------------------------
+----
 
 Minor updates may be made without re-distribution to the sites.
 
 
 ## CONTACT AND OTHER INFORMATION ON SVG
 
------------------------------
-    Others may re-use this information provided they:-
-    
-    1) Respect the provided TLP classification
-    
-    2) Credit the EGI (https://www.egi.eu/) Software Vulnerability Group [R 99]
------------------------------
+Comments or questions should be sent to
+	svg-rat at mailman.egi.eu
 
+Vulnerabilities relevant for EGI can be reported at
+	report-vulnerability at egi.eu
+    
+(see [R 99] for further details, and other information on SVG)
+ 
     
 ## REFERENCES
 
