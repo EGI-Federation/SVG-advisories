@@ -68,7 +68,7 @@ https://advisories.egi.eu/Advisory-SVG-CVE-2026-46242
     https://creativecommons.org/licenses/by/4.0/ and
     the EGI (https://www.egi.eu/) Software Vulnerability Group 
     must be credited.
-----
+----------------------------
 
 Minor updates may be made without re-distribution to the sites.
 
