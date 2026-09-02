@@ -4,7 +4,7 @@ permalink: /Advisory-EGI-SVG-2026-32
 
 ---
 
-## Advisory-EGI-SVG-YYYY-NN
+## Advisory-EGI-SVG-2026-32
 
 # HTCondor Software Suite (HTCSS) security vulnerability
 
