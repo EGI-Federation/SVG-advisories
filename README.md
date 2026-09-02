@@ -17,6 +17,9 @@ A guide to the risk categories is available at
 
 | Date                          | Title                                                           | Contents/Link                                                         | CVE(s) (if applicable) |
 | ------------------------------| --------------------------------------------------------------- | --------------------------------------------------------------------- | --------------         |
+| 2026-07-23 Updated 2026-09-02 |  [EGI-SVG-2026-34] CRITICAL risk XFS file system vulnerability  | [Advisory-EGI-SVG-2026-34](./2026/Advisory-EGI-SVG-2026-34.md)        | CVE-2026-64600 |
+| 2026-07-23 Updated 2026-09-02 |  [EGI-SVG-2026-33] HIGH risk Linux kernel DRM vulnerability     | [Advisory-EGI-SVG-2026-33](./2026/Advisory-EGI-SVG-2026-33.md)        | CVE-2026-46215 |
+| 2026-07-22 Updated 2026-09-02 |  [EGI-SVG-2026-32] HTCondor Software Suite (HTCSS) vulnerability | [Advisory-EGI-SVG-2026-32](./2026/Advisory-EGI-SVG-2026-32.md) |  |
 | 2026-07-08 Updated 2026-08-18 |  [EGI-SVG-2026-31] CRITICAL risk Linux kernel vulnerability "GhostLock" | [Advisory-EGI-SVG-2026-31](./2026/Advisory-EGI-SVG-2026-31.md) | CVE-2026-43499 |
 | 2026-07-07 Updated 2026-08-18 |  [EGI-SVG-2026-30] CRITICAL risk Linux kernel "Januscape" vulnerability | [Advisory-EGI-SVG-2026-30](./2026/Advisory-EGI-SVG-2026-30.md) | CVE-2026-53359 |
 | 2026-07-07 Updated 2026-08-18 |  [EGI-SVG-2026-29] HIGH risk Linux kernel vulnerability “Bad Epoll”    | [Advisory-EGI-SVG-2026-29](./2026/Advisory-EGI-SVG-2026-29.md)  | CVE-2026-46242 |
