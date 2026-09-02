@@ -46,15 +46,7 @@ A guide to the risk categories is available at
 | 2026-02-05 Updated 2026-03-12 | HIGH Risk Linux kernel Vulnerabilities [EGI-SVG-2026-03]        | [Advisory-EGI-SVG-2026-03](./2026/Advisory-EGI-SVG-2026-03.md)   | CVE-2025-40248  |
 | 2026-01-21 Updated 2026-02-25 | HIGH Risk Ceph client Vulnerability in Linux kernel [EGI-SVG-2026-02]    | [Advisory-EGI-SVG-2026-02](./2026/Advisory-EGI-SVG-2026-02.md)   | CVE-2025-68285  |
 | 2026-01-07 Updated 2026-02-11 | HIGH Risk Linux Kernel vulnerability on RHEL-9/10 etc [EGI-SVG-2026-01]  | [Advisory-EGI-SVG-2026-01](./2026/Advisory-EGI-SVG-2026-01.md)   | CVE-2025-38499  |
-| 2025-12-02 Updated 2026-01-13 | CRITICAL Risk React Server Components Vulnerability [EGI-SVG-2025-26]  | [Advisory-EGI-SVG-2025-26](./2025/Advisory-EGI-SVG-2025-26.md)      | CVE-2025-55182         |
-| 2025-12-03 Updated 2026-01-13 | HTCondor Vulnerability [EGI-SVG-2025-25]                        | [Advisory-EGI-SVG-2025-25](./2025/Advisory-EGI-SVG-2025-25.md)      |        |
-| 2025-09-17 Updated 2025-11-25, 2026-01-08 | CRITICAL Risk VMSCAPE virtualization escape vulnerability [EGI-SVG-2025-17]  | [Advisory-EGI-SVG-2025-17](./2025/Advisory-EGI-SVG-2025-17.md)        | CVE-2025-40300  |
-| 2025-11-25 Updated 2026-01-07 | CRITICAL Risk OpenStack Vulnerability [EGI-SVG-2025-24]         | [Advisory-EGI-SVG-2025-24](./2025/Advisory-EGI-SVG-2025-24.md)        | CVE-2025-65073         |
-| 2025-10-22 Updated 2025-12-03 | HIGH Risk INDIGO IAM vulnerabilities  [EGI-SVG-2025-19]         | [Advisory-EGI-SVG-2025-19](./2025/Advisory-EGI-SVG-2025-19.md)        |                        |
-| 2025-10-16 Updated 2025-12-03 | CRITICAL Risk  NVIDIA use-after-free vulnerabilities [EGI-SVG-2025-22] | [Advisory-EGI-SVG-2025-22](./2025/Advisory-EGI-SVG-2025-22.md) | CVE-2025-23280 CVE-2025-23330 |
-| 2025-10-09 Updated 2025-12-03 | CRITICAL Risk  Redis vulnerability [EGI-SVG-2025-21]            | [Advisory-EGI-SVG-2025-21](./2025/Advisory-EGI-SVG-2025-21.md)        | CVE-2025-49844         |
-| 2025-10-01 Updated 2025-12-03 | CRITICAL Risk FreeIPA host to domain privilege escalation [EGI-SVG-2025-20]  | [Advisory-EGI-SVG-2025-20](./2025/Advisory-EGI-SVG-2025-20.md)  | CVE-2025-7493 |
-
+|
 
 EGI SVG produces advisories according to the
 [SEC02 EGI Software Vulnerability Issue Handling](https://go.egi.eu/sec02).
