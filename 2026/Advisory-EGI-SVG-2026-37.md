@@ -7,7 +7,7 @@ redirect_from:
 
 ## Advisory-EGI-SVG-2026-37
 
-# Linux kernel SCTPhantom vulnerability
+# High Risk Linux kernel SCTPhantom vulnerability
 
 Date:       2026-08-07
 
