@@ -7,7 +7,7 @@ redirect_from:
 
 ## Advisory-EGI-SVG-2026-38
 
-# Linux kernel "Zapscape" vulnerability 
+# HIGH risk Linux kernel "Zapscape" vulnerability 
 
 Date:       2026-08-07
 
