@@ -8,7 +8,7 @@ redirect_from:
 
 ## Advisory-EGI-SVG-2026-35
 
-# Linux kernel network scheduler vulnerability
+# HIGH risk Linux kernel network scheduler vulnerability
 
 pdate:     2026-08-18
 * Fix available for AlmaLinux 9 [R 12]
