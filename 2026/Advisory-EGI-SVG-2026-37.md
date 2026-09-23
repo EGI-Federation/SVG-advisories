@@ -1,9 +1,10 @@
+
 ---
 title: Advisory-EGI-SVG-2026-37
 permalink: /Advisory-EGI-SVG-2026-37
- redirect_from:
+redirect_from:
   - /Advisory-SVG-CVE-2026-64564
-
+  
 ---
 
 ## Advisory-EGI-SVG-2026-37
