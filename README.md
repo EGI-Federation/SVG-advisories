@@ -17,6 +17,12 @@ A guide to the risk categories is available at
 
 | Date                          | Title                                                           | Contents/Link                                                         | CVE(s) (if applicable) |
 | ------------------------------| --------------------------------------------------------------- | --------------------------------------------------------------------- | --------------         |
+| 2026-07-23 Updated 2026-09-23 |  [EGI-SVG-2026-40] HIGH risk Linux kernel CAN BCM vulnerability    | [Advisory-EGI-SVG-2026-40](./2026/Advisory-EGI-SVG-2026-40.md)     | CVE-2026-17523 |
+| 2026-08-12 Updated 2026-09-23 |  [EGI-SVG-2026-39] CRITICAL risk Rucio vulnerability               | [Advisory-EGI-SVG-2026-39](./2026/Advisory-EGI-SVG-2026-39.md)     | N/A |
+| 2026-08-07 Updated 2026-09-23 |  [EGI-SVG-2026-38] HIGH risk Linux kernel “Zapscape” vulnerability | [Advisory-EGI-SVG-2026-38](./2026/Advisory-EGI-SVG-2026-38.md)     | CVE-2026-64561|
+| 2026-08-07 Updated 2026-09-23 |  [EGI-SVG-2026-37] HIGH Risk Linux kernel SCTPhantom vulnerability | [Advisory-EGI-SVG-2026-37](./2026/Advisory-EGI-SVG-2026-37.md)     | CVE-2026-64564 |
+| 2026-07-30 Updated 2026-09-23 |  [EGI-SVG-2026-36] CRITICAL risk Linux Open vSwitch vulnerability  | [Advisory-EGI-SVG-2026-36](./2026/Advisory-EGI-SVG-2026-36.md)     | CVE-2026-64531 |
+| 2026-07-30 Updated 2026-09-23 |  [EGI-SVG-2026-35] HIGH risk Linux kernel network scheduler vulnerability | [Advisory-EGI-SVG-2026-35](./2026/Advisory-EGI-SVG-2026-35.md)      | CVE-2026-53264 |
 | 2026-07-23 Updated 2026-09-02 |  [EGI-SVG-2026-34] CRITICAL risk XFS file system vulnerability  | [Advisory-EGI-SVG-2026-34](./2026/Advisory-EGI-SVG-2026-34.md)        | CVE-2026-64600 |
 | 2026-07-23 Updated 2026-09-02 |  [EGI-SVG-2026-33] HIGH risk Linux kernel DRM vulnerability     | [Advisory-EGI-SVG-2026-33](./2026/Advisory-EGI-SVG-2026-33.md)        | CVE-2026-46215 |
 | 2026-07-22 Updated 2026-09-02 |  [EGI-SVG-2026-32] HTCondor Software Suite (HTCSS) vulnerability | [Advisory-EGI-SVG-2026-32](./2026/Advisory-EGI-SVG-2026-32.md) |  |
