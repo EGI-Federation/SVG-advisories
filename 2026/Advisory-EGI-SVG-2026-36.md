@@ -8,7 +8,7 @@ redirect_from:
 
 ## Advisory-EGI-SVG-2026-36
 
-# Linux Open vSwitch vulnerability
+# CRITICAL risk Linux Open vSwitch vulnerability
 
 Update:     2026-08-13
 * Fixes available for RHEL [R 3] and Rocky Linux [R 9] [R 10]
