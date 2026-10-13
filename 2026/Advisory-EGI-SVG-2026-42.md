@@ -53,7 +53,7 @@ _TLP:CLEAR information - Unlimited distribution_
     https://creativecommons.org/licenses/by/4.0/ and
     the EGI (https://www.egi.eu/) Software Vulnerability Group 
     must be credited.
------------------------------
+----
 
 Comments or questions should be sent to
 	svg-rat at mailman.egi.eu
