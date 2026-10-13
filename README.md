@@ -17,6 +17,8 @@ A guide to the risk categories is available at
 
 | Date                          | Title                                                           | Contents/Link                                                         | CVE(s) (if applicable) |
 | ------------------------------| --------------------------------------------------------------- | --------------------------------------------------------------------- | --------------         |
+| 2026-09-08 Updated 2026-10-13 |  [EGI-SVG-2026-42] HIGH risk Multiple SLURM vulnerabilities     | [Advisory-EGI-SVG-2026-42](./2026/Advisory-EGI-SVG-2026-42.md)        | CVE-2026-6514 + others|
+| 2026-08-12 Updated 2026-10-13 |  [EGI-SVG-2026-41] HIGH risk Ceph vulnerabilities               | [Advisory-EGI-SVG-2026-41](./2026/Advisory-EGI-SVG-2026-41.md)        | CVE-2025-30156, CVE-2026-54330 |
 | 2026-07-23 Updated 2026-09-23 |  [EGI-SVG-2026-40] HIGH risk Linux kernel CAN BCM vulnerability    | [Advisory-EGI-SVG-2026-40](./2026/Advisory-EGI-SVG-2026-40.md)     | CVE-2026-17523 |
 | 2026-08-12 Updated 2026-09-23 |  [EGI-SVG-2026-39] CRITICAL risk Rucio vulnerability               | [Advisory-EGI-SVG-2026-39](./2026/Advisory-EGI-SVG-2026-39.md)     | N/A |
 | 2026-08-07 Updated 2026-09-23 |  [EGI-SVG-2026-38] HIGH risk Linux kernel “Zapscape” vulnerability | [Advisory-EGI-SVG-2026-38](./2026/Advisory-EGI-SVG-2026-38.md)     | CVE-2026-64561|
