@@ -36,7 +36,7 @@ CVSS Score : Not available
 
 ## ACTIONS REQUIRED/RECOMMENDED
 
-Sites are recommended to update relevant components as soon as possible 
+Sites are recommended to update relevant components as soon as possible  
 using information on the SLURM release site in the reference below.    
 
     
