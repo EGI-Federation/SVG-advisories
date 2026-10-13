@@ -65,7 +65,7 @@ Minor updates may be made without re-distribution to the sites.
     https://creativecommons.org/licenses/by/4.0/ and
     the EGI (https://www.egi.eu/) Software Vulnerability Group 
     must be credited.
------
+---
 
     
 Comments or questions should be sent to
@@ -82,8 +82,11 @@ See [R 99] for further details, and other information on SVG.
 ## REFERENCES
 
 - [R 1] <https://docs.ceph.com/en/latest/releases/tentacle/#v20-2-4-tentacle>
+  
 - [R 2] <https://docs.ceph.com/en/reef/rados/troubleshooting/community/>
+
 - [R 3] <https://access.redhat.com/security/cve/cve-2025-30156>
+  
 - [R 4] <https://access.redhat.com/security/cve/cve-2026-54330>
 
 - [R 99] <https://confluence.egi.eu/display/EGIBG/SVG+Advisories>
