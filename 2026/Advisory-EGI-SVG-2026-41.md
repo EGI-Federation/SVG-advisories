@@ -17,7 +17,7 @@ Updated:     2026-10-13
 
 ## DESCRIPTION
 
-The Ceph project has released an important update for its Tentacle
+The Ceph project has released an important update for its Tentacle 
 release series, in which two high-risk vulnerabilities are fixed [1].
 
 
@@ -33,7 +33,7 @@ CVSS Score :
 
 ## ACTIONS REQUIRED/RECOMMENDED
 
-Sites running Ceph are strongly advised to update their Ceph services
+Sites running Ceph are strongly advised to update their Ceph services 
 as needed according to the Ceph release notes at [1].
 
 Please take careful notice of the non-trivial update instructions!
@@ -41,7 +41,7 @@ Please take careful notice of the non-trivial update instructions!
 
 ## MITIGATION
 
-Please consult the Ceph release notes at [1] and/or the Ceph community
+Please consult the Ceph release notes at [1] and/or the Ceph community   
 support options [2] for advice on potential mitigation.
 
 
