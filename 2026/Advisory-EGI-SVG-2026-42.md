@@ -16,14 +16,18 @@ Updated:   2026-10-13
 
 ## DESCRIPTION 
 
-SLURM has released versions 26.05.4, 25.11.8, and 25.05.9 fixing various
-vulnerabilities, at least one (CVE-2026-65140) might result in privilege escalation, see [R 1].
+SLURM has released versions 26.05.4, 25.11.8, and 25.05.9 fixing  
+various vulnerabilities, at least one (CVE-2026-65140) might result  
+in privilege escalation, see [R 1].
 
 ## IDs AND CVSS SCORE      
 
 EGI SVG ID : EGI-SVG-2026-42
     
-CVE ID     : CVE-2026-65107, CVE-2026-65108, CVE-2026-65109, CVE-2026-65138, CVE-2026-65139, CVE-2026-65140, CVE-2026-65165, CVE-2026-65168
+CVE ID     : CVE-2026-65107, CVE-2026-65108, CVE-2026-65109,  
+CVE-2026-65138, CVE-2026-65139, CVE-2026-65140, CVE-2026-65165,  
+CVE-2026-65168 
+
 CVSS Score : Not available
     
 - EGI SVG: HIGH   
