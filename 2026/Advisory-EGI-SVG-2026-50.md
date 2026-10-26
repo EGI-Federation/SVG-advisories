@@ -1,6 +1,6 @@
 ---
 title: Advisory-EGI-SVG-2026-50
-permalink: /Advisory-EGI-SVG-YYYY-NN
+permalink: /Advisory-EGI-SVG-2026-50
 
 ---
 
