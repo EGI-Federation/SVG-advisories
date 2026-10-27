@@ -146,8 +146,9 @@ Minor updates may be made without re-distribution to the sites.
     
     1) Respect the provided TLP classification
     
-    2) Credit the EGI (https://www.egi.eu/) Software Vulnerability Group
------------------------------
+    2) Credit the EGI (https://www.egi.eu/) Software Vulnerability Group 
+	
+-------
 
 Comments or questions should be sent to
 	svg-rat at mailman.egi.eu
