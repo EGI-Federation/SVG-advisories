@@ -17,6 +17,8 @@ A guide to the risk categories is available at
 
 | Date                          | Title                                                           | Contents/Link                                                         | CVE(s) (if applicable) |
 | ------------------------------| --------------------------------------------------------------- | --------------------------------------------------------------------- | --------------         |
+| 2026-09-08 Updated 2026-10-13 |  [EGI-SVG-2026-45] HIGH risk apptainer-suid vulnerability       | [Advisory-EGI-SVG-2026-45](./2026/Advisory-EGI-SVG-2026-45.md)        | N/A |
+| 2026-08-12 Updated 2026-10-13 |  [EGI-SVG-2026-44] HIGH risk Linux kernel vulnerabilities       | [Advisory-EGI-SVG-2026-44](./2026/Advisory-EGI-SVG-2026-44.md)        | CVE-2026-80844 and others |
 | 2026-09-08 Updated 2026-10-13 |  [EGI-SVG-2026-42] HIGH risk Multiple SLURM vulnerabilities     | [Advisory-EGI-SVG-2026-42](./2026/Advisory-EGI-SVG-2026-42.md)        | CVE-2026-6514 + others|
 | 2026-08-12 Updated 2026-10-13 |  [EGI-SVG-2026-41] HIGH risk Ceph vulnerabilities               | [Advisory-EGI-SVG-2026-41](./2026/Advisory-EGI-SVG-2026-41.md)        | CVE-2025-30156, CVE-2026-54330 |
 | 2026-07-23 Updated 2026-09-23 |  [EGI-SVG-2026-40] HIGH risk Linux kernel CAN BCM vulnerability    | [Advisory-EGI-SVG-2026-40](./2026/Advisory-EGI-SVG-2026-40.md)     | CVE-2026-17523 |
