@@ -20,8 +20,8 @@ Date:       2026-09-18
 
 ## DESCRIPTION
 
-Flaws in several Linux kernel network modules may allow a local attacker to
-achieve privilege escalation. Most are extensively described at [R 1] [R 2],
+Flaws in several Linux kernel network modules may allow a local attacker to 
+achieve privilege escalation. Most are extensively described at [R 1] [R 2], 
 including public exploit code.
 
 **NOTE:** the LPE exploits need unprivileged **network** namespaces to be enabled.
@@ -41,37 +41,37 @@ CVSSv3 Score:
 
 ## ACTIONS REQUIRED/RECOMMENDED
 
-Sites are advised to apply mitigation **and** update as soon as possible
-the Linux kernel on hosts giving access to unprivileged users, e.g. 
-grid worker nodes, container hosts, notebook servers and CI runners.
+Sites are advised to apply mitigation **and** update as soon as possible 
+the Linux kernel on hosts giving access to unprivileged users, e.g.  
+grid worker nodes, container hosts, notebook servers and CI runners. 
 
-An extra reason for sites to **update** the kernel to the latest version
-is that **many** other vulnerabilities have been fixed in recent weeks,
+An extra reason for sites to **update** the kernel to the latest version 
+is that **many** other vulnerabilities have been fixed in recent weeks, 
 for some of which exploits may still be published. 
 
-At the time of writing, fixed kernels for the given vulnerabilities are 
-available for only a few of the relevant distributions.
-Please check the references listed at the bottom of this advisory for your
-distribution(s), update and reboot affected systems as soon as feasible.
+At the time of writing, fixed kernels for the given vulnerabilities are  
+available for only a few of the relevant distributions. 
+Please check the references listed at the bottom of this advisory for your 
+distribution(s), update and reboot affected systems as soon as feasible. 
 Mitigation is described below.
 
 
 ## MITIGATION
 
-To prevent most of the published exploit methods from working,
-it is sufficient to disable unprivileged ***network*** namespaces [R 8]:
+To prevent most of the published exploit methods from working, 
+it is sufficient to disable unprivileged ***network*** namespaces [R 8]: 
 
 ```
-echo "user.max_net_namespaces = 0"  > /etc/sysctl.d/92-max_net_namespaces.conf
+echo "user.max_net_namespaces = 0"  > /etc/sysctl.d/92-max_net_namespaces.conf 
 sysctl -p /etc/sysctl.d/92-max_net_namespaces.conf
 ```
 
-Sites are **strongly** advised to apply that mitigation on worker nodes etc.
-To our knowledge, on worker nodes etc, there is **no** need to adjust the
-configuration of certain `systemd` modules that refer to network namespaces.
+Sites are **strongly** advised to apply that mitigation on worker nodes etc. 
+To our knowledge, on worker nodes etc, there is **no** need to adjust the 
+configuration of certain `systemd` modules that refer to network namespaces. 
 Some of our sites have been running like that for years without issues. 
 
-The vulnerabilities covered by this advisory can also be prevented by
+The vulnerabilities covered by this advisory can also be prevented by 
 making the related modules unavailable, presuming they are not needed:
 
 ```
@@ -162,11 +162,11 @@ See [R 99] for further details, and other information on SVG.
 
 - [R 1] <https://www.openwall.com/lists/oss-security/2026/09/18/3>
 - [R 2] <https://heyitsas.im/posts/lpe-quartet/>
-- [R 3] <https://access.redhat.com/security/cve/cve-2026-80844>,
-        <https://access.redhat.com/security/cve/cve-2026-81000>,
-        <https://access.redhat.com/security/cve/cve-2026-68121>,
-        <https://access.redhat.com/security/cve/cve-2026-74469>,
-        <https://access.redhat.com/security/cve/cve-2026-68143>
+- [R 3] <https://access.redhat.com/security/cve/cve-2026-80844>, 
+        <https://access.redhat.com/security/cve/cve-2026-81000>, 
+        <https://access.redhat.com/security/cve/cve-2026-68121>, 
+        <https://access.redhat.com/security/cve/cve-2026-74469>, 
+        <https://access.redhat.com/security/cve/cve-2026-68143> 
 - [R 4] <https://security-tracker.debian.org/tracker/CVE-2026-80844> etc.
 - [R 5] <https://ubuntu.com/security/CVE-2026-80844> etc.
 - [R 6] <https://errata.build.resf.org/>  (Rocky Linux)
