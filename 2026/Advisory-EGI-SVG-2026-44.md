@@ -31,7 +31,8 @@ including public exploit code.
 
 EGI SVG ID : EGI-SVG-2026-44
 
-CVE ID     : CVE-2026-80844, CVE-2026-81000, CVE-2026-68121, CVE-2026-74469,
+CVE ID     : CVE-2026-80844, CVE-2026-81000, 
+             CVE-2026-68121, CVE-2026-74469, 
              CVE-2026-68143
 
 CVSSv3 Score: 
