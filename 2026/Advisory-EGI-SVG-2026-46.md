@@ -90,7 +90,7 @@ Vulnerabilities relevant for EGI can be reported at
 
 - [R 2] <https://docs.nvidia.com/deploy/nvidia-smi/index.html> 
 
-- [R 3] <https://github.com/NVIDIA/product-security/blob/main/2026/5861/5861.md>
+- [R 3] <https://github.com/NVIDIA/product-security/blob/main/2026/5861/5861.md> 
  this is an [R 1] alternative as some could not access [R 1]
   
 
