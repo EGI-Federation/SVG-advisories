@@ -39,7 +39,7 @@ Previous versions are likely to be vulnerable
 
 ## ACTIONS REQUIRED/RECOMMENDED
 
-Sites are recommended to update relevant components as soon as possible 
+Sites are recommended to update relevant components as soon as possible  
 using information in the references below.
     
     
