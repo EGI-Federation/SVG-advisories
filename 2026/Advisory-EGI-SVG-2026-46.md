@@ -18,7 +18,7 @@ Date:      2026-10-01
 
 ## DESCRIPTION 
 
-Multiple HIGH risk vulnerabilities concerning NVIDIA Linux GPU Driver 
+Multiple HIGH risk vulnerabilities concerning NVIDIA Linux GPU Driver  
 some of which may lead to privilege escalation. 
 
 ## IDs AND CVSS SCORE      
@@ -90,7 +90,7 @@ Vulnerabilities relevant for EGI can be reported at
 
 - [R 2] <https://docs.nvidia.com/deploy/nvidia-smi/index.html> 
 
-- [R 3] <https://github.com/NVIDIA/product-security/blob/main/2026/5861/5861.md> 
+- [R 3] <https://github.com/NVIDIA/product-security/blob/main/2026/5861/5861.md>  
  this is an [R 1] alternative as some could not access [R 1]
   
 
