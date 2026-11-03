@@ -42,12 +42,18 @@ Please apply updates detailed in [R 1] on affected hosts as soon as possible.
 (Based on OSG's notification)
 
 NVIDIA has released a security update addressing multiple vulnerabilities  
-in the NVIDIA Linux GPU driver and related kernel-mode components [R 1].  Several of these vulnerabilities can be triggered by an unprivileged local  user and may result in code execution, privilege escalation, information  disclosure, data tampering, or denial of service.
+in the NVIDIA Linux GPU driver and related kernel-mode components [R 1].  
+Several of these vulnerabilities can be triggered by an unprivileged local  
+user and may result in code execution, privilege escalation, information  
+disclosure, data tampering, or denial of service.
 
 These vulnerabilities are relevant to sites operating shared NVIDIA GPU  
-worker nodes. Applicability depends on the NVIDIA driver branch and version   installed on the worker node.
+worker nodes. Applicability depends on the NVIDIA driver branch and version   
+installed on the worker node.
 
-GPU compute jobs do not require an X11 or Wayland display server; however,  GPU-enabled jobs may interact with the host NVIDIA kernel driver through  NVIDIA GPU device interfaces.
+GPU compute jobs do not require an X11 or Wayland display server; however,  
+GPU-enabled jobs may interact with the host NVIDIA kernel driver through  
+NVIDIA GPU device interfaces.
 
     
 ## STATUS OF THIS ADVISORY
@@ -67,7 +73,7 @@ https://advisories.egi.eu/Advisory-SVG-CVE-2026-47489
     https://creativecommons.org/licenses/by/4.0/ and
     the EGI (https://www.egi.eu/) Software Vulnerability Group 
     must be credited.
------------------------------
+-----
 
 Comments or questions should be sent to
 	svg-rat at mailman.egi.eu
@@ -80,11 +86,11 @@ Vulnerabilities relevant for EGI can be reported at
     
 ## REFERENCES
 
-- [R 1] https://nvidia.custhelp.com/app/answers/detail/a_id/5861 
+- [R 1] <https://nvidia.custhelp.com/app/answers/detail/a_id/5861> 
 
-- [R 2] https://docs.nvidia.com/deploy/nvidia-smi/index.html 
+- [R 2] <https://docs.nvidia.com/deploy/nvidia-smi/index.html> 
 
-- [R 3] https://github.com/NVIDIA/product-security/blob/main/2026/5861/5861.md
+- [R 3] <https://github.com/NVIDIA/product-security/blob/main/2026/5861/5861.md>
  this is an [R 1] alternative as some could not access [R 1]
   
 
