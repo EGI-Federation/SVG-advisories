@@ -17,6 +17,8 @@ A guide to the risk categories is available at
 
 | Date                          | Title                                                           | Contents/Link                                                         | CVE(s) (if applicable) |
 | ------------------------------| --------------------------------------------------------------- | --------------------------------------------------------------------- | --------------         |
+| 2026-10-01 Updated 2026-11-03 |  [EGI-SVG-2026-47] HTCondor Software Suite (HTCSS) security vulnerability  | [Advisory-EGI-SVG-2026-47](./2026/Advisory-EGI-SVG-2026-47.md)        | N/A |
+| 2026-10-01 Updated 2026-11-03 |  [EGI-SVG-2026-46] Multiple HIGH risk vulnerabilities concerning NVIDIA Linux GPU Driver some of which may lead to privilege escalation       | [Advisory-EGI-SVG-2026-46](./2026/Advisory-EGI-SVG-2026-46.md)        | CVE-2026-47489 + others |
 | 2026-09-23 Updated 2026-10-27 |  [EGI-SVG-2026-45] HIGH risk apptainer-suid vulnerability       | [Advisory-EGI-SVG-2026-45](./2026/Advisory-EGI-SVG-2026-45.md)        | N/A |
 | 2026-09-18 Updated 2026-10-27 |  [EGI-SVG-2026-44] HIGH risk Linux kernel vulnerabilities       | [Advisory-EGI-SVG-2026-44](./2026/Advisory-EGI-SVG-2026-44.md)        | CVE-2026-80844 + others |
 | 2026-09-08 Updated 2026-10-13 |  [EGI-SVG-2026-42] HIGH risk Multiple SLURM vulnerabilities     | [Advisory-EGI-SVG-2026-42](./2026/Advisory-EGI-SVG-2026-42.md)        | CVE-2026-65107 + others|
