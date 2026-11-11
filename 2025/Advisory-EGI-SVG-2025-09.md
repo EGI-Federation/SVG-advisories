@@ -1,7 +1,8 @@
 ---
 title: Advisory-EGI-SVG-2025-09
 permalink: /Advisory-EGI-SVG-2025-09
-
+redirect_from:
+  - /Advisory-SVG-CVE-2025-71458
 ---
 
 ## Advisory-EGI-SVG-2025-09
@@ -54,6 +55,8 @@ _TLP:CLEAR information - Unlimited distribution_
 
  https://advisories.egi.eu/Advisory-EGI-SVG-2025-09 
 
+ https://advisories.egi.eu/Advisory-SVG-CVE-2025-71458
+
 Minor updates may be made without re-distribution to the sites.
 
 
@@ -85,7 +88,7 @@ Vulnerabilities relevant for EGI can be reported at
 
 - [R 4] <https://fts-repo.web.cern.ch/fts-repo/el9/x86_64/>
 
-- [R 5] <ttps://nvd.nist.gov/vuln/detail/cve-2025-71458>
+- [R 5] <https://nvd.nist.gov/vuln/detail/cve-2025-71458>
 
 - [R 99] <https://confluence.egi.eu/display/EGIBG/SVG+Advisories>
 
