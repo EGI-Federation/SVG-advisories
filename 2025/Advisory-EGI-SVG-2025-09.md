@@ -9,7 +9,7 @@ permalink: /Advisory-EGI-SVG-2025-09
 # CRITICAL risk FTS3 Web Monitoring Security Vulnerability
 
 Date:        2025-06-26   
-Updated:     2025-07-30
+Updated:     2025-07-30, 2026-11-11
 
 CRITICAL risk vulnerability concerning "blind" SQL injection involving 
 the FTS3 Web Monitoring software via the `/linkinfo` endpoint, allowing 
@@ -20,7 +20,7 @@ database access to the attacker. [R 1]
 
 EGI SVG ID : EGI-SVG-2025-09
     
-CVE ID     : N/A
+CVE ID     : CVE-2025-71458
 
     
 ## AFFECTED SOFTWARE AND VERSIONS
