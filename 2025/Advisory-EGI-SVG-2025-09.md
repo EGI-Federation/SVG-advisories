@@ -85,6 +85,8 @@ Vulnerabilities relevant for EGI can be reported at
 
 - [R 4] <https://fts-repo.web.cern.ch/fts-repo/el9/x86_64/>
 
+- [R 5] <ttps://nvd.nist.gov/vuln/detail/cve-2025-71458>
+
 - [R 99] <https://confluence.egi.eu/display/EGIBG/SVG+Advisories>
 
     
