@@ -9,7 +9,7 @@ redirect_from:
 
 ## Advisory-EGI-SVG-2026-46
 
-# Title
+# Multiple HIGH risk vulnerabilities concerning NVIDIA Linux GPU Driver some of which may lead to privilege escalation
 
 Updated:  2026-11-03
     
