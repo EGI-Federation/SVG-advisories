@@ -15,7 +15,7 @@ Updated:    2026-11-17
 ## DESCRIPTION
 
 A flaw in the "vhost" Linux kernel module may allow a local attacker to  
-achieve privilege escalation [R 1] [R 2]. A PoC exploit has been published, 
+achieve privilege escalation [R 1] [R 2]. A PoC exploit has been published,  
 which might serve as a basis for actual privilege escalation code. 
 
 
