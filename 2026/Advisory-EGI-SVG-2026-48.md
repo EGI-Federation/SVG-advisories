@@ -9,7 +9,7 @@ redirect_from:
 
 # HIGH risk Linux kernel "vghost" vulnerability
 
-Date:       2026-10-15
+Date:       2026-10-15  
 Updated:    2026-11-17
 
 ## DESCRIPTION
