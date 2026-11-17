@@ -3,8 +3,7 @@ title: Advisory-EGI-SVG-2026-48
 permalink: /Advisory-EGI-SVG-2026-48
 redirect_from:
   - /Advisory-SVG-CVE-2026-74580
-
-------
+---
 
 ## Advisory-EGI-SVG-2026-48
 
