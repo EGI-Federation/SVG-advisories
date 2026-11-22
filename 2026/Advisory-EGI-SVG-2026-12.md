@@ -19,6 +19,9 @@ Updated:    2026-05-06
 - Red Hat kernel package updates are available since May 5.  
 - Rocky Linux kernel package updates are available since May 6.  
 
+Updated:    2026-11-22
+- corrected the grub2-mkconfig command line
+
 **NOTE:**
 
 All running resources MUST be either patched or have mitigation  
@@ -63,7 +66,7 @@ found to work on RHEL and derivatives:
     initcall_blacklist=algif_aead_init 
    to the kernel commandline, for example via GRUB_CMDLINE_LINUX 
    in /etc/default/grub 
-2. /usr/sbin/grub2-mkconfig -o /boot/grub2/grub.cfg 
+2. /usr/sbin/grub2-mkconfig -o /boot/grub2/grub.cfg --update-bls-cmdline
 3. reboot the machine
 
 A second mitigation option is to install a BPF filter, as exemplified in  
