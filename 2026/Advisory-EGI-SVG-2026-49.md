@@ -14,10 +14,10 @@ Updated:    2026-11-25
 
 ## DESCRIPTION
 
-A flaw in the Linux kernel's IPv4 subsystem may allow a local attacker or
-a guest VM to run arbitrary code on the host, disclose sensitive information
-from the host's memory, or crash the host. A VM escape has been demonstrated
-by security researchers, but no exploit code has been published so far.
+A flaw in the Linux kernel's IPv4 subsystem may allow a local attacker or 
+a guest VM to run arbitrary code on the host, disclose sensitive information 
+from the host's memory, or crash the host. A VM escape has been demonstrated 
+by security researchers, but no exploit code has been published so far. 
 
 
 ## IDs AND CVSS SCORE 
@@ -32,19 +32,19 @@ CVSSv3 Score:
 
 ## ACTIONS REQUIRED/RECOMMENDED
 
-Sites are advised to update as soon as possible the Linux kernel on hosts
-giving access to unprivileged users directly or through guest VMs, e.g. 
-grid worker nodes, container hosts, notebook servers and CI runners.
+Sites are advised to update as soon as possible the Linux kernel on hosts 
+giving access to unprivileged users directly or through guest VMs, e.g.  
+grid worker nodes, container hosts, notebook servers and CI runners. 
 
-An extra reason for sites to **update** the kernel to the latest version
-is that **many** other vulnerabilities have been fixed in recent weeks
-and recent days, for some of which exploits may also still be published. 
+An extra reason for sites to **update** the kernel to the latest version 
+is that **many** other vulnerabilities have been fixed in recent weeks 
+and recent days, for some of which exploits may also still be published.  
 
-At the time of writing, fixed kernels for this vulnerability are available
-for many of the relevant distributions. A patched kernel is available for
-AL 8 [R 8] and fixes are available for all our EL 9 and 10 variants.
-Please check the references listed at the bottom of this advisory for your
-distribution(s), update and reboot affected systems as soon as feasible.
+At the time of writing, fixed kernels for this vulnerability are available 
+for many of the relevant distributions. A patched kernel is available for 
+AL 8 [R 8] and fixes are available for all our EL 9 and 10 variants. 
+Please check the references listed at the bottom of this advisory for your 
+distribution(s), update and reboot affected systems as soon as feasible. 
 
 
 ## MITIGATION
